@@ -10,7 +10,7 @@ main:
     url: /workinprogress/    
     
   - title: "Presentations"
-    url: /presentations/
+    url: /talks/
         
   - title: "CV"
     url: /cv/
