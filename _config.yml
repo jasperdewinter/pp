@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jasper de Winter / Personal Page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jasper de Winter"
 description              : &description "personal description"
 url                      : https://jasperdewinter.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/pp" # the subpath of your site, e.g. "/blog"
@@ -18,7 +18,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Jasper de Winter"
   avatar           : "profile_JDW.png"
-  bio              : "Senior Economist & Researcher @ De Nederlandsche Bank"
+  bio              : "Senior Policy Advisor & Researcher @ De Nederlandsche Bank"
   location         : "Haarlem, Netherlands"
   employer         : 
   googlescholar    : "https://scholar.google.nl/citations?user=6a4UfC8AAAAJ&hl=nl"
@@ -247,7 +247,7 @@ defaults:
   # _workingpapers
   - scope:
       path: ""
-      type: publications
+      type: workingpapers
     values:
       layout: single
       author_profile: true
@@ -256,7 +256,7 @@ defaults:
   # _workinprogress
   - scope:
       path: ""
-      type: publications
+      type: workinprogress
     values:
       layout: single
       author_profile: true
