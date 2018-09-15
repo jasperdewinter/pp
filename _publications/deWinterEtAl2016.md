@@ -9,4 +9,4 @@ Recent years have been marked by the recovery of the crisis. Although this proce
 
 [Download occasional study (in Dutch) here](https://www.dnb.nl/en/news/news-and-archive/dnbulletin-2016/dnb350292.jsp)
 
-Recommended citation: de Winter, J.M., Parlevliet, J. Doll, M. and R. Vermeulen (2016), Perspectives for growth: the Dutch economy on the move, <i>DNB Occasional Study</i> 14(4).
+Recommended citation: Parlevliet, J. Doll, M., Vermeulen, R. and J.M. de Winter (2016), Perspectives for growth: the Dutch economy on the move, <i>DNB Occasional Study</i> 14(4).
