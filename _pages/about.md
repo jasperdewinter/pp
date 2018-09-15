@@ -10,11 +10,11 @@ redirect_from:
 
 Position:
 =======
-Senior Economist in the Econometrics and Models Department at [De Nederlandsche Bank](http://www.dnb.nl)
+Senior Policy Advisor and Researcher in the Econometrics and Models Department at [De Nederlandsche Bank](http://www.dnb.nl)
 
 Research interests:
 ======
-Time series, Factor models, Machine-learning, Macro-economics. Applied econometrics: Macroeconomics (Nowcasting, Financial & business cycle), Industrial organization (Productivity, Debt, Start-ups).
+Time series, Factor models, Machine-learning, Macro-economics. Applied econometrics: Macroeconomics (Nowcasting, Financial & business cycle), Industrial organization (Productivity, Debt, Start-ups), Machine-learning (Text analysis).
 
 Contact details:
 ======
