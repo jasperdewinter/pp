@@ -85,7 +85,7 @@ author:
   location         : "Haarlem, Netherlands"
   employer         : 
   googlescholar    : "https://scholar.google.nl/citations?user=6a4UfC8AAAAJ&hl=nl"
-  email            : 
+  email            : "jasperdewinter@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -159,7 +159,7 @@ incremental: false
 # Markdown Processing
 kramdown:
   input: GFM
-  hard_wrap: false
+  hard_wrap: true
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
@@ -225,7 +225,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _portfolio
   - scope:
