@@ -17,27 +17,12 @@ Education
 
 Work experience
 ======
-* jan. 1997-dec. 2002: Researcher
-  * SEO Amsterdam Economics
-
-* jan. 2003 - dec. 2005: Economist
-  * De Nederlandsche Bank
-  * Economic policy department
-
-* jan. 2006 - dec. 2009: Economist
-  * De Nederlandsche Bank
-  * Monetary policy department
-
-* jan. 2010 - dec. 2014: Senior Economist
-  * De Nederlandsche Bank
-  * Business cycle analysis department
-
-* jan. 2010 - dec. 2016: Ph.D camdidate
-  * Erasmus University
-  
-* jan. 2015 - : Senior Economist
-  * De Nederlandsche Bank
-  * Econometrics and models department
+* jan. 1997-dec. 2002: Researcher :: SEO Amsterdam Economics
+* jan. 2003 - dec. 2005: Economist :: De Nederlandsche Bank :: Economic Policy Departmnet
+* jan. 2006 - dec. 2009: Economist :: De Nederlandsche Bank :: Monetary Policy Department
+* jan. 2010 - dec. 2016: Ph.D camdidate :: Erasmus University Rotterdam
+* jan. 2010 - dec. 2014: Senior Economist :: De Nederlandsche Bank :: Business Cycle Analayis Department
+* jan. 2015 - current  : Senior Economist :: De Nederlandsche Bank :: Econometrics and Models Department
   
 Recent presentations conferences
 ======
