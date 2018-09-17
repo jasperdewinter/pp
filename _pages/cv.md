@@ -24,9 +24,12 @@ Work experience
 * jan. 2010 - dec. 2014: Senior Economist :: De Nederlandsche Bank :: Business Cycle Analayis Department
 * jan. 2015 - current  : Senior Economist :: De Nederlandsche Bank :: Econometrics and Models Department
   
-Recent presentations conferences
+Recent talks
 ======
-* ccc
+* 2018, June, University of Colorado Boulder, International Symposium on Forecasting, Boulder, Colorado (USA)
+* 2017, June, Massachusetts Institute of Technology, Society for Economic measurement, Cambridge, Massachusetts (USA).
+* 2017, May, Bundesbank, Frankfurt (DE).
+* 2016, June, Riverside, Cailfornai (USA).
 
 Skills
 ======
@@ -36,7 +39,10 @@ Skills
 
 Recent courses
 ======
-* 
+* 2018, September, Machine-learning methods for economist (by Stephen Hendry), Center for Madrid (ES)
+* 2018, June, Recent developments in Economic Forecasting (by David Hendry, Jennifer Castle and James Reade), Boulder, Colorado (USA)
+* 2014, June, Bayesian vector autoregression and small sample correction in VARs, Barcelona 
+
 
 Publications
 ======
