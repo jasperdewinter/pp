@@ -23,7 +23,7 @@ Work experience
 * jan. 2003 - dec. 2005: Economist
   * De Nederlandsche Bank
   * Economic policy department
-  
+
 * jan. 2006 - dec. 2009: Economist
   * De Nederlandsche Bank
   * Monetary policy department
@@ -32,10 +32,10 @@ Work experience
   * De Nederlandsche Bank
   * Business cycle analysis department
 
- * jan. 2010 - dec. 2016: Ph.D camdidate
+* jan. 2010 - dec. 2016: Ph.D camdidate
   * Erasmus University
   
- * jan. 2015 - : Senior Economist
+* jan. 2015 - : Senior Economist
   * De Nederlandsche Bank
   * Econometrics and models department
   
