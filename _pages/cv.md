@@ -31,14 +31,13 @@ Work experience
 * jan. 2010 - dec. 2014: Senior Economist
   * De Nederlandsche Bank
   * Business cycle analysis department
+
+ * jan. 2010 - dec. 2016: Ph.D camdidate
+  * Erasmus University
   
  * jan. 2015 - : Senior Economist
   * De Nederlandsche Bank
   * Econometrics and models department
- 
- * jan. 2010 - dec. 2016: Ph.D camdidate
-  * Erasmus University
-  * 
   
 Skills
 ======
