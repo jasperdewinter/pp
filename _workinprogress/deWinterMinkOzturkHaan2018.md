@@ -1,5 +1,5 @@
 ---
-title: "Off to a Bad Start? The Role of Leverage for Start-Up Productivity during the financial crisis"
+title: " Bank lending to SMEs in the Netherlands"
 collection: workinprogress
 permalink: /workinprogress/SterkEtAl2018
 date: 2018-12-12
