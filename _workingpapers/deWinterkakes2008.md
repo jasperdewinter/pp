@@ -9,6 +9,4 @@ We investigate the determinants of Dutch households' preferences for income redi
 
 Download working paper [here](http://www.dnb.nl/binaries/WP%20179-2008%20-%20Preferences%20for%20redistribution%20in%20the%20Netherlands_tcm46-188335.pdf)
 
-Joint with Jan Kakes (De Nederlandsche Bank).
-
 Recommended citation: de Winter, J.M. and J. Kakes (2008), Preferences for redistribution in the Netherlands, DNB Working Paper nr. 179.
