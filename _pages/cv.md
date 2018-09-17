@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics, Erasmus University, december 2016, Thesis: "Nowcasting GDP growth: statistical models versus professional analysts". Download [here](https://repub.eur.nl/pub/94686).
-* M.S. in Economics, University of Amsterdam, september 1996.
-* B.S. in Economics, University of Amsterdam, september 1992.
+* Ph.D in Economics, Erasmus University, 2016, December. Thesis: "Nowcasting GDP growth: statistical models versus professional analysts". Download [here](https://repub.eur.nl/pub/94686).
+* M.S. in Economics, University of Amsterdam, 1996, September.
+* B.S. in Economics, University of Amsterdam, 1992, September.
 
 Work experience
 ======
-* jan. 2015 - currently : Senior Economist :: De Nederlandsche Bank :: Econometrics and Models Department.
-* jan. 2010 - dec. 2014 : Senior Economist :: De Nederlandsche Bank :: Business Cycle Analayis Department.
-* jan. 2010 - dec. 2016 : Ph.D camdidate :: Erasmus University Rotterdam.
-* jan. 2006 - dec. 2009 : Economist :: De Nederlandsche Bank :: Monetary Policy Department.
-* jan. 2003 - dec. 2005 : Economist :: De Nederlandsche Bank :: Economic Policy Department.
-* jan. 1997 - dec. 2002 : Researcher :: [SEO Amsterdam Economics](http://www.seo.nl/home/).
+* 2015 - &nbsp;&nbsp;&nbsp;&nbsp; : Senior Economist :: De Nederlandsche Bank :: Econometrics and Models Department.
+* 2010 - 2015 : Senior Economist :: De Nederlandsche Bank :: Business Cycle Analayis Department.
+* 2010 - 2016 : Ph.D camdidate :: Erasmus University Rotterdam.
+* 2006 - 2010 : Economist :: De Nederlandsche Bank :: Monetary Policy Department.
+* 2003 - 2006 : Economist :: De Nederlandsche Bank :: Economic Policy Department.
+* 1997 - 2003 : Researcher :: [SEO Amsterdam Economics](http://www.seo.nl/home/).
 
 Recent talks
 ======
