@@ -19,7 +19,7 @@ Publications in refereed Journals
 
 Other publications
 =====
-Winter, de J.M., M.D. Volkerink and C.H.M. Eijking (2018), Bedrijfsinvesteringen sinds crisis sterker beïnvloed door schuldpositie bedrijf (Business investment more strongly affected by firm leverage since onset of financial crisis), Economische Statistische Berichten. [Download](https://esb.nu/esb/20036211/bedrijfsinvesteringen-sinds-crisis-sterker-beinvloed-door-schuldpositie-bedrijf)
+Winter, de J.M., M.D. Volkerink and C.H.M. Eijking (2018), Bedrijfsinvesteringen sinds crisis sterker beïnvloed door schuldpositie bedrijf (Business investment more strongly affected by firm leverage since onset of financial crisis), <i>Economische Statistische Berichten</i>. [Download](https://esb.nu/esb/20036211/bedrijfsinvesteringen-sinds-crisis-sterker-beinvloed-door-schuldpositie-bedrijf)
 
 Parlevliet, J, Doll, M., Vermeulen, R. and J.M. de Winter (2016), Perspectief op groei: de Nederlandse economie in beweging (Perspectives on growth: the Dutch economy in motion), DNB Occasional Studies 14-04. Download
 
