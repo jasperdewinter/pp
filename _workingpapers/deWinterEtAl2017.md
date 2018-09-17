@@ -1,5 +1,5 @@
 ---
-title: "Modeling the business and financial cycle in a multivariate structural time series model"
+title: "Modeling the business and financial cycle in a multivariate structural time series model [R&R OBES]"
 collection: workingpapers
 permalink: /workingpapers/deWinterEtAl2017
 date: 2017-10-08
