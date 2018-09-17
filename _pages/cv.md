@@ -23,6 +23,12 @@ Work experience
 * jan. 2010 - dec. 2016: Ph.D camdidate :: Erasmus University Rotterdam
 * jan. 2010 - dec. 2014: Senior Economist :: De Nederlandsche Bank :: Business Cycle Analayis Department
 * jan. 2015 - current  : Senior Economist :: De Nederlandsche Bank :: Econometrics and Models Department
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> 
   
 Talks
 ======
@@ -35,21 +41,11 @@ Talks
 * 2013, May, Banco Central do Brasil, Anual Inflation Targeting Seminar, Rio de Janeiro, Brasil (BRA)
 * 2012, December, University of Oviedo, Annuval Interantional Conference on Computational and Financial Econometrics, Oviedo, Spain (ESP)
 
-Skills
-======
-* Experienced applied economist/econometrician with expert knowledge programming in R, Matlab and Stata;
-* Fluent writing and speaking in Dutch and English. Working knowledge of German.
-* Enthusiast about everything data & economics, eager initiating new research in this field, i.e.: opening up firm-level database of Statistics Netherlands and working with confidential data of third parties. 
-
-Recent courses
+Field courses
 ======
 * 2018, September, Machine-learning methods for economist (by Stephen Hendry), Centro de Estudios Monetarios y Financieros (CEMFI), (ESP).
 * 2018, June, Recent developments in Economic Forecasting (by David Hendry, Jennifer Castle and James Reade), Boulder, Colorado (USA).
 * 2014, June, Bayesian vector autoregression and small sample correction in VARs, Barcelona GSE, (ESP).
 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> 
+
