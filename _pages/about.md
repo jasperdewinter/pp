@@ -8,9 +8,9 @@ redirect_from:
   - /about.hmtl
 ---
 
-Position:
+Current position:
 =======
-Senior Policy Advisor and Researcher in the Econometrics and Models Department at [De Nederlandsche Bank](http://www.dnb.nl)
+Senior Economist and Researcher in the Econometrics and Models Department at [De Nederlandsche Bank](http://www.dnb.nl)
 
 Research interests:
 ======
