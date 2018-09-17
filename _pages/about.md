@@ -19,8 +19,8 @@ Senior Economist and Researcher in the Econometrics and Models Department at [De
 Research interests:
 ======
 <i>Econometrics</i>:             Nowcasting, Forecast combinations, Cycle extraction.<br />
-<i>Macroeconomics</i>:           Misallocation, Productivity dynamics, Credit.<br />
-<i>Industrial organization</i>:  Corporate finance, Start-ups.<br />
+<i>Macroeconomics</i>:           Misallocation, Productivity dynamics, Bank lending.<br />
+<i>Industrial organization</i>:  Corporate finance, Start-ups, SMEs.<br />
 <i>Machine-learning</i>:         Topic modeling.<br />
 
 Contact details:
