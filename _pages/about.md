@@ -18,7 +18,7 @@ Senior Economist and Researcher in the Econometrics and Models Department at [De
 
 Research interests:
 ======
-Time series, Factor models, Machine-learning, Macro-economics. Applied econometrics: Macroeconomics (Nowcasting, Financial & business cycle), Industrial organization (Productivity, Debt, Start-ups), Machine-learning (Text analysis).
+Time series, Factor models, Machine-learning, Macroeconomics. Applied econometrics: Macroeconomics (Nowcasting, Judgmental forecasts, Business cycle indicators, Inequality), Industrial organization (Misallocation, Productivity, Leverage, Start-ups), Machine-learning (Topic modeling).
 
 Contact details:
 ======
