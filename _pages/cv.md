@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Economics, University of Amsterdam, september 1992
 * M.S. in Economics, University of Amsterdam, september 1996
-* Ph.D in Economics, Erasmus University, december 2016 (Thesis: ["Nowcasting GDP growth: statistical models versus professional analysts](https://repub.eur.nl/pub/94686))
+* Ph.D in Economics, Erasmus University, december 2016, Thesis: ["Nowcasting GDP growth: statistical models versus professional analysts"](https://repub.eur.nl/pub/94686)
 
 Work experience
 ======
