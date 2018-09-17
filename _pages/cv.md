@@ -43,7 +43,7 @@ Skills
 ======
 * Experienced applied economist/econometrician with expert knowledge programming in R, Matlab and Stata;
 * Fluent writing and speaking in Dutch and English. Working knowledge of German.
-* Enthusiast about everything data, and initiating new research in this field, i.e.: opening up firm-level database of Statistics Netherlands and working with confidential data of third parties. 
+* Enthusiast about everything data & economics, eager initiating new research in this field, i.e.: opening up firm-level database of Statistics Netherlands and working with confidential data of third parties. 
 
 Publications
 ======
