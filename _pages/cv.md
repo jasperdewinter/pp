@@ -24,12 +24,6 @@ Work experience
 * jan. 2010 - dec. 2014: Senior Economist :: De Nederlandsche Bank :: Business Cycle Analayis Department
 * jan. 2015 - current  : Senior Economist :: De Nederlandsche Bank :: Econometrics and Models Department
 
-# Publications
-# ======
-#   <ul>{% for post in site.publications %}
-#     {% include archive-single-cv.html %}
-#   {% endfor %}</ul> 
-  
 Talks
 ======
 * 2018, June, University of Colorado Boulder, Annual International Symposium on Forecasting, Boulder, Colorado (USA)
