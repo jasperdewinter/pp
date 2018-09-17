@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, University of Amsterdam, september 1992
+* M.S. in Economics, University of Amsterdam, september 1996
+* Ph.D in Economics, Erasmus University, december 2016 (Thesis: ["Nowcasting GDP growth: statistical models versus professional analysts](https://repub.eur.nl/pub/94686))
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* jan. 1997-dec. 2002: Researcher
+  * SEO Amsterdam Economics
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* jan. 2003 - dec. 2005: Economist
+  * De Nederlandsche Bank
+  * Economic policy department
+  
+* jan. 2006 - dec. 2009: Economist
+  * De Nederlandsche Bank
+  * Monetary policy department
+
+* jan. 2010 - dec. 2014: Senior Economist
+  * De Nederlandsche Bank
+  * Business cycle analysis department
+  
+ * jan. 2015 - : Senior Economist
+  * De Nederlandsche Bank
+  * Econometrics and models department
+ 
+ * jan. 2010 - dec. 2016: Ph.D camdidate
+  * Erasmus University
+  * 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Experienced applied economist/econometrician with expert knowledge programming in R, Matlab and Stata;
+* Fluent wirting and speaking in Dutch and English. Working knowledge of German.
+* Enthusiast about everything data, and initiating new research in this field, i.e.: opening up firm-level database of Statistics Netherlands and working with confidential data of third parties. 
 
 Publications
 ======
