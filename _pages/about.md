@@ -10,7 +10,7 @@ redirect_from:
 
 Bio:
 ======
-Economist with wide ranging experience in central banking, policy analysis and (contract) research. keen to bring quantitative techniques to (big) datasets to inform the policy debate. Happiest working in a team of motivated research- and policy enthusiasts.
+Economist with wide ranging experience in central banking, policy analysis and (contract) research. Keen to bring quantitative techniques to (big) datasets to inform the policy debate.
 
 Current position:
 =======
