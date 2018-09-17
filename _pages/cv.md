@@ -39,7 +39,7 @@ Field courses
 ======
 * 2018, September, Machine-learning methods for economist (by Stephen Hendry), Centro de Estudios Monetarios y Financieros (CEMFI), (ESP).
 * 2018, June, Recent developments in Economic Forecasting (by David Hendry, Jennifer Castle and James Reade), Boulder, Colorado (USA).
-* 2014, June, Bayesian vector autoregression and small sample correction in VARs, Barcelona GSE, (ESP).
+* 2014, June, Bayesian vector autoregression and small sample correction in VARs (by ), Barcelona Graduate School of Economics (GSE), Barcelona (ESP).
 
 
 
