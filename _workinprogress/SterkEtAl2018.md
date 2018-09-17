@@ -9,4 +9,6 @@ We study the channels via which start-ups have contributed to aggregate producti
 
 [Download mimeo here](https://economicdynamics.org/meetpapers/2018/paper_201.pdf)
 
+Joint with Vincent Sterk (University College London), Neeltje van Horen (Bank of England) and Ralph de Haas (European Bank for Reconstruction and Development).
+
 Recommended citation: Sterk, V., de Winter, J.M, N. van Horen and R. de Haas (2018), Off to a Bad Start? The Role of Leverage for Start-Up Productivity during the Financial Crisis, 2018 Meeting Papers 201, Society for Economic Dynamics.
