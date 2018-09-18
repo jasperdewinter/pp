@@ -20,7 +20,7 @@ Winter, de J.M., M.D. Volkerink and C.H.M. Eijking (2018), Bedrijfsinvesteringen
 
 Parlevliet, J, Doll, M., Vermeulen, R. and J.M. de Winter (2016), Perspectief op groei: de Nederlandse economie in beweging (Perspectives on growth: the Dutch economy in motion), <i>DNB Occasional Studies</i> 14-04. Download [here](http://www.dnb.nl/en/binaries/2016%2012%2021%20Perspectief%20op%20groei_tcm47-350324.pdf).
 
-Winter, de J.M. (2014), Kredietaanvragen geconcentreerd bij financieel zwakke bedrijven (Credit applications concentrated amongst financially weak firms), <i>Economisch Statistische Berichten</i> 99(4693), 566-568. Download [here] (https://esb.nu/binaries/2001/18/13/566-568_WINTER.pdf).
+Winter, de J.M. (2014), Kredietaanvragen geconcentreerd bij financieel zwakke bedrijven (Credit applications concentrated amongst financially weak firms), <i>Economisch Statistische Berichten</i> 99(4693), 566-568. Download [here](https://esb.nu/binaries/2001/18/13/566-568_WINTER.pdf).
 
 Veer, van der K.J.M and J.M. de Winter (2014), Herziening DNB-conjunctuurindicator (Revision of the DNB business cycle indicator), <i>Economisch Statistische Berichten</i> 96(4617), 525-527. Download [here](https://esb.nu/binaries/2001/06/60/editie_pdfs_525veer_tcm445-608607.pdf).
 
@@ -32,7 +32,7 @@ Winter, de J.M. and K.J.M. van der Veer (2008), Voorspelkracht conjunctuurindica
 
 Winter, de J.M. and K.J.M. van der Veer (2008), Consument heeft rooskleurig beeld van de economie (Consumer has too rosy a picture of economy), <i>Economisch Statistische Berichten</i> 92(4515), 462-463. Download [here](https://esb.nu/binaries/2000/90/02/editie_pdfs_ESB_4515_WinterVeer_tcm445-341273.pdf).
 
-Winter, de J.M. (2007), Loondalingen in Europa steeds normaler (Negative wage growth more common in Europe), <i>TPEdigitaal</i> 1(1), 46-66. Download [here](https://www.tpedigitaal.nl/assets/static/2_Winter-1-2007.pdf).
+Winter, de J.M. (2007), Loondalingen in Europa steeds normaler (Negative wage growth more common in Europe), <i>TPEdigitaal</i> 1(1), 46-66. Download [here](https://www.tpedigitaal.nl/sites/default/files/bestand/loondalingen_in_europa_steeds_normaler.pdf).
 
 Winter, de J.M. (2006), Lagere inflatie omgeving in Europa: de invloed van vakbonden (Low inflation environment: the role of labor unions), <i>Kwartaalschrift Economie</i> 3, 274-290.
 
