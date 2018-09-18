@@ -48,6 +48,6 @@ Graaf, D. de, and J.M. de Winter (2001), Effectiviteit en efficiëntie van wonin
 
 Berkhout, E, P.H.G. Berkhout and J.M de Winter (2001), Studie en Werk 2001. HBO'ers en Academici van studiejaar 1998/1999 op de arbeidsmarkt (Education and work 2001: the labor market position of graduates in higher vocational education and university, class of 1989/1999), SEO-rapportnummer 580. Download [here](http://www.seo.nl/fileadmin/site/rapporten/2001/580_Studie_en_Werk_2001.pdf).
 
-Berkhout, P.H.G., B.M.S. van Praag and J.M. de Winter, E. Edelmann and W.A. Timmerman (2000),Substitutiegedrag in de lezersmarkt van dagbladen (Substitution in the market for Dutch newspapers), SEO-rapportnummer 539.
+Berkhout, P.H.G., B.M.S. van Praag and J.M. de Winter, E. Edelmann and W.A. Timmerman (2000), Substitutiegedrag in de lezersmarkt van dagbladen (Substitution in the market for Dutch newspapers), SEO-rapportnummer 539.
 
 Theeuwes, J.J.M and J.M. de Winter (1998), Econometrische evaluatie “prognose sanctiecapaciteit” (Econometric evaluation of the forecasting model for the Dutch prison system), SEO-rapportnummer 485. Download [here](https://www.wodc.nl/binaries/ewb-547596-volledige-tekst_tcm28-75683.pdf).
