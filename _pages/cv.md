@@ -21,7 +21,7 @@ Work experience
 * 2010 - 2016 : Ph.D. candidate :: Erasmus University Rotterdam.
 * 2006 - 2010 : Economist :: De Nederlandsche Bank :: Monetary Policy Department.
 * 2003 - 2006 : Economist :: De Nederlandsche Bank :: Economic Policy Department.
-* 1997 - 2003 : Researcher :: [SEO Amsterdam Economics](http://www.seo.nl/home/).
+* 1997 - 2003 : Researcher :: SEO Amsterdam Economics [link](http://www.seo.nl/home/).
 
 Recent talks
 ======
