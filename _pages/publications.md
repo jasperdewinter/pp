@@ -16,7 +16,7 @@ author_profile: true
 
 Other publications
 =====
-Winter, de J.M., M.D. Volkerink and C.H.M. Eijking (2018), Bedrijfsinvesteringen sinds crisis sterker beïnvloed door schuldpositie bedrijf (Business investment more strongly affected by firm leverage since onset of financial crisis), <i>Economische Statistische Berichten</i>. Download [here]("https://esb.nu/esb/20036211/bedrijfsinvesteringen-sinds-crisis-sterker-beinvloed-door-schuldpositie-bedrijf").
+Winter, de J.M., M.D. Volkerink and C.H.M. Eijking (2018), Bedrijfsinvesteringen sinds crisis sterker beïnvloed door schuldpositie bedrijf (Business investment more strongly affected by firm leverage since onset of financial crisis), <i>Economische Statistische Berichten</i>. Download [here](https://esb.nu/esb/20036211/bedrijfsinvesteringen-sinds-crisis-sterker-beinvloed-door-schuldpositie-bedrijf).
 
 Parlevliet, J, Doll, M., Vermeulen, R. and J.M. de Winter (2016), Perspectief op groei: de Nederlandse economie in beweging (Perspectives on growth: the Dutch economy in motion), <i>DNB Occasional Studies</i> 14-04. Download [here](http://www.dnb.nl/en/binaries/2016%2012%2021%20Perspectief%20op%20groei_tcm47-350324.pdf).
 
@@ -40,7 +40,7 @@ Tijdens, K.G., J.M. de Winter and J.A.C. Korteweg (2004), Voorwaarden voor verlo
 
 Winter, de J.M. and P.H.G. Berkhout (2002), Zoekgedrag en instroom van kenniswerkers (Job search behavior and labor market entry of knowledge workers), in: <i>Kennis en economie 2001- onderzoek en innovatie in Nederland</i>, CBS: Voorburg/Heerlen, 41–47. Download [here](https://www.cbs.nl/-/media/imported/documents/2001/50/k-300-2001.pdf).
 
-Bijvoet, C.C, L. Bunschoten, F.A. Felsö, C.C Koopmans, J. Theeuwes and J.M de Winter (2002), De economische structuurkenmerken van de bouwnijverheid (The structural economic characteristics of the Dutch construction sector), SEO-rapportnummer 640. Download [here] (http://www.seo.nl/uploads/media/640_De_economische_structuurkenmerken_van_de_bouwnijverheid.pdf),
+Bijvoet, C.C, L. Bunschoten, F.A. Felsö, C.C Koopmans, J. Theeuwes and J.M de Winter (2002), De economische structuurkenmerken van de bouwnijverheid (The structural economic characteristics of the Dutch construction sector), SEO-rapportnummer 640. Download [here](http://www.seo.nl/pagina/article/de-economische-structuurkenmerken-van-de-bouwnijverheid/),
 
 Winter, de J.M. and W.J.J. Manshanden (2002), Statistisch onderzoek naar prijs- en kostenontwikkeling in de bouwsector (Statistical inquiry into price and cost developments in the construction sector), SEO-rapportnummer 630.
 
