@@ -26,7 +26,7 @@ Work experience
 Recent talks
 ======
 * 2018, June, University of Colorado Boulder, Annual International Symposium on Forecasting, Boulder, Colorado (USA). Download presentation [here](https://jasperdewinter.github.io/pp/files/ISF2018_FINAL.pdf).
-* 2017, June, Massachusetts Institute of Technology, Annual Society for Economic measurement, Cambridge, Massachusetts (USA).Download presentation [here](https://jasperdewinter.github.io/pp/files/SEM2017_FINAL.pdf).
+* 2017, June, Massachusetts Institute of Technology, Annual Society for Economic measurement, Cambridge, Massachusetts (USA). Download presentation [here](https://jasperdewinter.github.io/pp/files/SEM2017_FINAL.pdf).
 * 2017, May, Bundesbank, Annual Forecasting workshop, Frankfurt, Germany (DEU).
 * 2016, December, University of Seville, Annual International Conference on Computational and Financial Eonometrics, Seville (ESP).
 * 2015, June, University of California-Riverside, Annual International Symposium on Forecasting, Riverside, California (USA).
