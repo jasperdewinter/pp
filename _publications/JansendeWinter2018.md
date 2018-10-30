@@ -9,4 +9,4 @@ We investigate the effects of combining model‐based near‐term GDP forecasts 
 
 Download paper [here](https://doi.org/10.1111/obes.12250)
 
-Recommended citation: Jansen, W.J.J. and J.M. de Winter (2016), Combining model-based near-term GDP forecasts and judgmental forecasts: A real-time exercise for the G7 countries, <i>Oxford Bulletin of Economics and Statistics</i> forthcoming.
+Recommended citation: Jansen, W.J.J. and J.M. de Winter (2018), Combining model-based near-term GDP forecasts and judgmental forecasts: A real-time exercise for the G7 countries, <i>Oxford Bulletin of Economics and Statistics</i> 80(6), 1213-1242.
