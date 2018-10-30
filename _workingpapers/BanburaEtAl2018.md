@@ -3,7 +3,7 @@ title: "Business investment in EU countries"
 collection: workingpapers
 permalink: /workingpapers/BanburaEtAl2018
 date: 2008-08-01
-venue: 'Working Papers'
+venue: 'Occasional Papers'
 ---
 The article analyses recent developments in business investment for a large group of EU countries, using a broad set of analytical tools and data sources. We find that the
 assessment of whether or not investment is currently low varies across benchmarks and countries. At the euro area level and for most countries, the level of business
@@ -19,4 +19,4 @@ since 2002, which may in turn have exerted a significant drag on total factor pr
 
 Download occasional paper [here](https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op215.en.pdf?2cc5f998d8ca3800d667d7dad2b0a9bc.pdf)
 
-Recommended citation: Banbura et al. (2018), Business investment in EU countries, Occasional Paper Seriesr nr. 215.
+Recommended citation: Banbura et al. (2018), Business investment in EU countries, ECB Occasional Paper Series nr. 215.
