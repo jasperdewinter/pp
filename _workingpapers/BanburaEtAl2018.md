@@ -2,7 +2,7 @@
 title: "Business investment in EU countries"
 collection: workingpapers
 permalink: /workingpapers/BanburaEtAl2018
-date: 2018-10-30
+date: 2018-10-29
 venue: 'Occasional Papers'
 ---
 The article analyses recent developments in business investment for a large group of EU countries, using a broad set of analytical tools and data sources. We find that the
