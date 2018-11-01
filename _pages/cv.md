@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * 2016 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Senior Economist :: De Nederlandsche Bank :: Econometrics and Models Department.
-* 2011 - 2015 : Senior Economist :: De Nederlandsche Bank :: Business Cycle Analysis Department.
+* 2011 - 2015 : Senior Economist :: De Nederlandsche Bank :: Business Cycle Unit.
 * 2010 - 2016 : Ph.D. candidate :: Erasmus University Rotterdam.
 * 2006 - 2010 : Economist :: De Nederlandsche Bank :: Monetary Policy Department.
 * 2003 - 2005 : Economist :: De Nederlandsche Bank :: Economic Policy Department.
