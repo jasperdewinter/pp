@@ -19,7 +19,7 @@ Senior Economist in the Econometrics and Modelling Department at [De Nederlandsc
 Research interests:
 ======
 Econometrics:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nowcasting, Forecast combinations, Cycle extraction.<br />
-Machine learning:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Topic Modeling.<br /> 
+Machine learning:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Topic Modeling.<br /> 
 Macroeconomics:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Misallocation, Productivity dynamics, Bank lending.<br />
 Industrial organization:&nbsp;&nbsp;Corporate finance, Start-ups, SMEs.<br />
 
