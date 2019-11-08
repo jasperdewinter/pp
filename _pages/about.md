@@ -30,4 +30,4 @@ Economics and Research Division<br /> Econometrics and Models Department<br /> D
 Gist example:
 ======
 [Topic model](https://bl.ocks.org/jasperdewinter/raw/9addbe47c80f6be7c7e33af38330357c/)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<script src="https://gist.github.com/jasperdewinter/fd60a2a2c68af36de8807dc188cd6370.js"></script>
