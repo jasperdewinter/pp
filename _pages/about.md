@@ -29,4 +29,5 @@ Economics and Research Division<br /> Econometrics and Models Department<br /> D
 
 Gist example:
 ======
-![Topic model](https://bl.ocks.org/jasperdewinter/raw/9addbe47c80f6be7c7e33af38330357c/)
+[Topic model](https://bl.ocks.org/jasperdewinter/raw/9addbe47c80f6be7c7e33af38330357c/)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
