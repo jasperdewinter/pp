@@ -29,10 +29,6 @@ Economics and Research Division<br /> Econometrics and Models Department<br /> D
 
 Gist example:
 ======
-Werkt dit? <br />
-{% gist 48c01004fc295445052a37473a3c021c %} <br />
-Misschien deze <br />
-<script src='https://gist.github.com/jasperdewinter/48c01004fc295445052a37473a3c021c.js'> </script> <br />
-Of deze <br />
-<script src='https://gist.github.com/48c01004fc295445052a37473a3c021c.js'> </script> 
+<script src='https://gist.github.com/jasperdewinter/d3.v3.js'> </script>
+
 
