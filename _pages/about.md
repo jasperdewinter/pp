@@ -26,7 +26,3 @@ Industrial organization:&nbsp;&nbsp;Corporate finance, Start-ups, SMEs.<br />
 Contact details:
 ======
 Economics and Research Division<br /> Econometrics and Models Department<br /> De Nederlandsche Bank<br /> E-mail: <a href="mailto:J.M.de.Winter@dnb.nl">J.M.de.Winter@dnb.nl</a>
-
-Gist example:
-======
-<script src="https://gist.github.com/jasperdewinter/48.js?file=c01004fc295445052a37473a3c021c.js"></script>
