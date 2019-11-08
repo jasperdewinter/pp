@@ -28,4 +28,4 @@ Contact details:
 Economics and Research Division<br /> Econometrics and Models Department<br /> De Nederlandsche Bank<br /> E-mail: <a href="mailto:J.M.de.Winter@dnb.nl">J.M.de.Winter@dnb.nl</a>
 
 
-<iframe src="https://bl.ocks.org/jasperdewinter/42ad01f0c01a8904249004f07fad3df8/" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe src="https://bl.ocks.org/jasperdewinter/42ad01f0c01a8904249004f07fad3df8/"></iframe>
