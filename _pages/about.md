@@ -29,7 +29,4 @@ Economics and Research Division<br /> Econometrics and Models Department<br /> D
 
 Gist example:
 ======
-<script src='https://gist.github.com/jasperdewinter/d3.v3.js'> </script>
-
-
-
+<script src="https://gist.github.com/jasperdewinter/48.js?file=c01004fc295445052a37473a3c021c.js"></script>
