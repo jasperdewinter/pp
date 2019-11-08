@@ -12,6 +12,8 @@ Bio:
 ======
 Economist with wide ranging experience in central banking, policy analysis and (contract) research. Keen to bring quantitative techniques to (big) datasets to inform the scientific and policy debate.
 
+<script src="https://gist.github.com/jasperdewinter/7609268755fe2c212e04824e293f53f8.js"></script>
+
 Current position:
 =======
 Senior Economist in the Econometrics and Modelling Department at [De Nederlandsche Bank](http://www.dnb.nl) (Dutch Central Bank).
