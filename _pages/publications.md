@@ -16,6 +16,9 @@ author_profile: true
 
 Other publications
 =====
+Bun, M.J.G. and J.M. de Winter (2019), Misallocatie van kapitaal en arbeid in de Nederlandse
+economie toegenomen (Misallocation of capital and labor increased in the Netherlands), <i>Economisch Statistische Berichten</i> 104(4779), 515-516. Download [here](https://esb.nu/esb/20036211/bedrijfsinvesteringen-sinds-crisis-sterker-beinvloed-door-schuldpositie-bedrijf).
+
 Winter, de J.M., M.D. Volkerink and C.H.M. Eijking (2018), Bedrijfsinvesteringen sinds crisis sterker beïnvloed door schuldpositie bedrijf (Business investment more strongly affected by firm leverage since onset of financial crisis), <i>Economisch Statistische Berichten</i> 103(4758), 85-87. Download [here](https://esb.nu/esb/20036211/bedrijfsinvesteringen-sinds-crisis-sterker-beinvloed-door-schuldpositie-bedrijf).
 
 Parlevliet, J, Doll, M., Vermeulen, R. and J.M. de Winter (2016), Perspectief op groei: de Nederlandse economie in beweging (Perspectives on growth: the Dutch economy in motion), <i>DNB Occasional Studies</i> 14-04. Download [here](http://www.dnb.nl/en/binaries/2016%2012%2021%20Perspectief%20op%20groei_tcm47-350324.pdf).
