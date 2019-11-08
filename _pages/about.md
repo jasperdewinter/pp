@@ -29,4 +29,4 @@ Economics and Research Division<br /> Econometrics and Models Department<br /> D
 
 Gist example:
 ======
-<iframe src="https://gist.github.com/benbalter/5555251.js"></iframe>
+{% gist 5555251 %}
