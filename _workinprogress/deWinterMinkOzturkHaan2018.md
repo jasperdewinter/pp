@@ -1,5 +1,5 @@
 ---
-title: " Bank lending to SMEs in the Netherlands"
+title: " Impediments in the bank lending channel to SMEs in the Netherlands: what do loan level data tell us?"
 collection: workinprogress
 permalink: /workinprogress/deWinterMinkOzturkHaan2018
 venue: 'Mimeo'
