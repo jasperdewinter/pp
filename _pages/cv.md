@@ -26,7 +26,7 @@ Work experience
 Recent talks
 ======
 * 2019, November, Annual Royal Dutch Society of Economists Conference (Nederlandse Economendag), Amsterdam (NL). Download presentation (in Dutch) [here](https://github.com/jasperdewinter/pp/files/20190228_20SeminarCBS.pdf)
-* 2019, June, Joint Research Center European Commission (invited), Ispra (IT). Download presentation[here](https://jasperdewinter.github.io/pp/files/20190620_ISPRA.pdf)
+* 2019, June, Joint Research Center European Commission (invited), Ispra (IT). Download presentation [here](https://jasperdewinter.github.io/pp/files/20190620_ISPRA.pdf)
 * 2019, June, KU Leuven, Research Seminar (invited), Brussels (BE). Download presentation [here](https://jasperdewinter.github.io/pp/files/20190507.KU_Leuven.pdf).
 * 2019, April, Northeastern University, Annual International Industrial Organization Conference, Boston, Massachusetts (USA). Download presentation [here](https://jasperdewinter.github.io/pp/files/IIOC_Misallocation.pdf).
 * 2019, March, Policy Seminar Statistics Netherlands (invited), Den Haag, Netherlands, March 28. Download presentation [here](https://www.cbs.nl/nl-nl/onze-diensten/maatwerk-en-microdata/microdata-zelf-onderzoek-doen/microdatabijeenkomsten/bijeenkomsten/microdatabijeenkomst-maart-2019).
