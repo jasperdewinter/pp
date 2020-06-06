@@ -41,6 +41,7 @@ Recent talks
 
 Recent field courses
 ======
-* 2018, September, Machine-learning methods for economist (by Stephen Hansen), Centro de Estudios Monetarios y Financieros (CEMFI), (ESP).
+* 2019, December, Bayesian Econometrics and Machine Learning (by Hedibert Lopes), De Nederlandsche Bank (DNB), (NL).
+* 2018, September, Machine-learning methods for economist (by Stephen Hansen), Centro de Estudios Monetarios y Financieros (CEMFI), Madrid, (ESP).
 * 2018, June, Recent developments in Economic Forecasting (by David Hendry, Jennifer Castle and James Reade), Boulder, Colorado (USA).
 * 2014, June, Bayesian vector autoregression and small sample correction in VARs (by Marek Jarociński and Albert Marcet), Barcelona Graduate School of Economics (GSE), Barcelona (ESP).
