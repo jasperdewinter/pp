@@ -16,9 +16,9 @@ author_profile: true
 
 Other publications
 =====
-Bun, M.J.G., Caloia, F.G. and J.M. de Winter (August 2020), <i> Hoe effectief is het COVID-19 noodpakket in het voorkomen van insolventie van bedrijven? Een stresstest van het Nederlandse MKB (How effective is the COVID-19 emergency package in preventing corporate insolvency? A stress test of Dutch SMEs)</i>, mimeo. Download [here](https://jasperdewinter.github.io/pp/files/MimeoBCW.pdf). Download appendices [here](https://jasperdewinter.github.io/pp/files/MimeoBCW_Appendix.pdf).
+Bun, M.J.G., Caloia, F.G. and J.M. de Winter (2020), <i> Hoe effectief is het COVID-19 noodpakket in het voorkomen van insolventie van bedrijven? Een stresstest van het Nederlandse MKB (How effective is the COVID-19 emergency package in preventing corporate insolvency? A stress test of Dutch SMEs)</i>, mimeo, August. Download [here](https://jasperdewinter.github.io/pp/files/MimeoBCW.pdf). Download appendices [here](https://jasperdewinter.github.io/pp/files/MimeoBCW_Appendix.pdf).
 
-Bun, M.J.G., and J.M. de Winter (March 2020), <i> Pre-Corona geen opmars van zombies in het Nederlandse bedrijfsleven (Pre-Corona no rise of zombies in Dutch business)</i>, mimeo. Download [here](https://jasperdewinter.github.io/pp/files/MimeoZombiesBW.pdf). Download appendices [here](https://jasperdewinter.github.io/pp/files/MimeoZombiesBW_Appendix.pdf).
+Bun, M.J.G., and J.M. de Winter (M2020), <i> Pre-Corona geen opmars van zombies in het Nederlandse bedrijfsleven (Pre-Corona no rise of zombies in Dutch business)</i>, mimeo, March. Download [here](https://jasperdewinter.github.io/pp/files/MimeoZombiesBW.pdf). Download appendices [here](https://jasperdewinter.github.io/pp/files/MimeoZombiesBW_Appendix.pdf).
 
 Bun, M.J.G. and J.M. de Winter (2019), Misallocatie van kapitaal en arbeid in de Nederlandse
 economie toegenomen (Misallocation of capital and labor increased in the Netherlands), <i>Economisch Statistische Berichten</i> 104(4779), 514-516. Download [here](https://esb.nu/esb/20056399/misallocatie-van-kapitaal-en-arbeid-in-de-nederlandse-economie-toegenomen).
