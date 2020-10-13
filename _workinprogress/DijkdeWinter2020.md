@@ -1,5 +1,5 @@
 ---
-title: "Textmining financial news to monitor the business cycle and nowcast GDP"
+title: "Textmining financial news to monitor the business cycle and nowcast GDP"![image](http://themobilecity.nl/wp-content/uploads/NEW-2.gif)
 collection: workinprogress
 permalink: /workinprogress/vanDijkdeWinter2020
 venue: 'Mimeo'
