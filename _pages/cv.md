@@ -25,6 +25,7 @@ Work experience
 
 Recent talks
 ======
+* 2021, August, Joint Statistical Meetings, Seattle (USA). Upcoming.
 * 2020, August, Research Seminar Australian Graduate School of Management (invited), Sydney (AU).
 * 2019, November, Annual Royal Dutch Society of Economists Conference (Nederlandse Economendag), Amsterdam (NL). Download presentation (in Dutch) [here](https://jasperdewinter.github.io/pp/files/01112019_SocEc.pdf)
 * 2019, June, Joint Research Center European Commission (invited), Ispra (IT). Download presentation [here](https://jasperdewinter.github.io/pp/files/20190620_ISPRA.pdf)
