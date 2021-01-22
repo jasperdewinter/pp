@@ -14,7 +14,7 @@ Economist with wide ranging experience in central banking, policy analysis and (
 
 Current position:
 =======
-Senior Economist in the Econometrics and Modelling Department at [De Nederlandsche Bank](http://www.dnb.nl) (Dutch Central Bank).
+Senior Economist in the Econometrics and Modelling Department at [De Nederlandsche Bank](http://www.dnb.nl) (Dutch Central Bank) and lecturer at Econometrics and Data Science Department at [Vrije Universiteit van Amsterdam](https://sbe.vu.nl/en/departments-and-institutes/econometrics-and-or/index.aspx) 
 
 Research interests:
 ======
