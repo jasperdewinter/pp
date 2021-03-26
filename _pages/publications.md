@@ -35,11 +35,11 @@ Veer, van der K.J.M and J.M. de Winter (2014), Herziening DNB-conjunctuurindicat
 
 Hessel, J. and J.M. de Winter (2010), Verschillen in de kracht van het westerse herstel verklaard (Explaining differences in the speed of recovery in developed economies), <i>Economisch Statistische Berichten</i> 95(4583), 234-236. Download [here](https://esb.nu/binaries/2001/01/00/editie_pdfs_234hessel_tcm445-562607.pdf) from the publisher's website or [here](https://jasperdewinter.github.io/pp/files/HesselDeWinter_2010.pdf).
 
-Veer, van der K.J.M., and J.M. de Winter (2009), Economisch herstel eurogebied laat op zich wachten (Economic recovery euro area will take some time), <i>Economisch Statistische Berichten</i> 94(4562), 365-366. Download [here](https://esb.nu/binaries/2000/97/48/editie_pdfs_365veer_tcm445-514623.pdf).
+Veer, van der K.J.M., and J.M. de Winter (2009), Economisch herstel eurogebied laat op zich wachten (Economic recovery euro area will take some time), <i>Economisch Statistische Berichten</i> 94(4562), 365-366. Download [here](https://esb.nu/binaries/2000/97/48/editie_pdfs_365veer_tcm445-514623.pdf) from the publisher's website or [here]().
 
 Winter, de J.M. and K.J.M. van der Veer (2008), Voorspelkracht conjunctuurindicatoren eurogebied (Predictive power of leading indicators for the euro area), <i>Economisch Statistische Berichten</i> 93(4530), 136-137. Download [here](https://esb.nu/binaries/2000/92/24/editie_pdfs_136dewinter_tcm445-399774.pdf).
 
-Winter, de J.M. and K.J.M. van der Veer (2008), Consument heeft rooskleurig beeld van de economie (Consumer has too rosy a picture of economy), <i>Economisch Statistische Berichten</i> 92(4515), 462-463. Download [here](https://esb.nu/binaries/2000/90/02/editie_pdfs_ESB_4515_WinterVeer_tcm445-341273.pdf) from the publisher's website or [here](https://jasperdewinter.github.io/pp/files/VeerDeWinter_2008.pdf).
+Winter, de J.M. and K.J.M. van der Veer (2008), Consument heeft rooskleurig beeld van de economie (Consumer has too rosy a picture of economy), <i>Economisch Statistische Berichten</i> 92(4515), 462-463. Download [here](https://esb.nu/binaries/2000/90/02/editie_pdfs_ESB_4515_WinterVeer_tcm445-341273.pdf) from the publisher's website or [here](https://jasperdewinter.github.io/pp/files/DeWinterVeer_2008.pdf).
 
 Winter, de J.M. (2007), Loondalingen in Europa steeds normaler (Negative wage growth more common in Europe), <i>TPEdigitaal</i> 1(1), 46-66. Download [here](https://www.tpedigitaal.nl/sites/default/files/bestand/loondalingen_in_europa_steeds_normaler.pdf).
 
