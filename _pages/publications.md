@@ -39,7 +39,7 @@ Veer, van der K.J.M., and J.M. de Winter (2009), Economisch herstel eurogebied l
 
 Winter, de J.M. and K.J.M. van der Veer (2008), Voorspelkracht conjunctuurindicatoren eurogebied (Predictive power of leading indicators for the euro area), <i>Economisch Statistische Berichten</i> 93(4530), 136-137. Download [here](https://esb.nu/binaries/2000/92/24/editie_pdfs_136dewinter_tcm445-399774.pdf).
 
-Winter, de J.M. and K.J.M. van der Veer (2008), Consument heeft rooskleurig beeld van de economie (Consumer has too rosy a picture of economy), <i>Economisch Statistische Berichten</i> 92(4515), 462-463. Download [here](https://esb.nu/binaries/2000/90/02/editie_pdfs_ESB_4515_WinterVeer_tcm445-341273.pdf).
+Winter, de J.M. and K.J.M. van der Veer (2008), Consument heeft rooskleurig beeld van de economie (Consumer has too rosy a picture of economy), <i>Economisch Statistische Berichten</i> 92(4515), 462-463. Download [here](https://esb.nu/binaries/2000/90/02/editie_pdfs_ESB_4515_WinterVeer_tcm445-341273.pdf) from the publisher's website or [here](https://jasperdewinter.github.io/pp/files/VeerDeWinter_2008.pdf).
 
 Winter, de J.M. (2007), Loondalingen in Europa steeds normaler (Negative wage growth more common in Europe), <i>TPEdigitaal</i> 1(1), 46-66. Download [here](https://www.tpedigitaal.nl/sites/default/files/bestand/loondalingen_in_europa_steeds_normaler.pdf).
 
