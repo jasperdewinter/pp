@@ -16,12 +16,14 @@ author_profile: true
 
 Other publications
 =====
+Winter, J.M., de and D.W. van Dijk (2021), Sentimentsindicator op basis van financieel economisch nieuws (Sentimentindcator based on financial economic news),<i>Economisch Statistische Berichten</i> forthcoming. Download [here](https://www.esb.nu/esb/20062437/sentimentsindicator-op-basis-van-financieel-economisch-nieuws) from the publisher's website or [here](https://jasperdewinter.github.io/pp/files/DeWintervanDijk_2021.pdf).
+
 Bun, M.J.G., Caloia, F.G. and J.M. de Winter (2020), <i> Hoe effectief is het COVID-19 noodpakket in het voorkomen van insolventie van bedrijven? Een stresstest van het Nederlandse MKB (How effective is the COVID-19 emergency package in preventing corporate insolvency? A stress test of Dutch SMEs)</i>, mimeo, August 11, 2020. Download [here](https://jasperdewinter.github.io/pp/files/MimeoBCW.pdf). Download appendices [here](https://jasperdewinter.github.io/pp/files/MimeoBCW_Appendix.pdf).
 
 Bun, M.J.G., and J.M. de Winter (2020), <i> Pre-Corona geen opmars van zombies in het Nederlandse bedrijfsleven (Pre-Corona no rise of zombies in Dutch business)</i>, mimeo, March 25, 2020. Download [here](https://jasperdewinter.github.io/pp/files/MimeoZombiesBW.pdf). Download appendices [here](https://jasperdewinter.github.io/pp/files/MimeoZombiesBW_Appendix.pdf).
 
 Bun, M.J.G. and J.M. de Winter (2019), Misallocatie van kapitaal en arbeid in de Nederlandse
-economie toegenomen (Misallocation of capital and labor increased in the Netherlands), <i>Economisch Statistische Berichten</i> 104(4779), 514-516. Download [here](https://esb.nu/esb/20056399/misallocatie-van-kapitaal-en-arbeid-in-de-nederlandse-economie-toegenomen).
+economie toegenomen (Misallocation of capital and labor increased in the Netherlands), <i>Economisch Statistische Berichten</i> 104(4779), 514-516. Download [here] (https://esb.nu/esb/20056399/misallocatie-van-kapitaal-en-arbeid-in-de-nederlandse-economie-toegenomen) or [here] (https://jasperdewinter.github.io/pp/files/DeWinterBun_2019.pdf)
 
 Winter, de J.M., M.D. Volkerink and C.H.M. Eijking (2018), Bedrijfsinvesteringen sinds crisis sterker beïnvloed door schuldpositie bedrijf (Business investment more strongly affected by firm leverage since onset of financial crisis), <i>Economisch Statistische Berichten</i> 103(4758), 85-87. Download [here](https://esb.nu/esb/20036211/bedrijfsinvesteringen-sinds-crisis-sterker-beinvloed-door-schuldpositie-bedrijf).
 
