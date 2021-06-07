@@ -16,6 +16,9 @@ author_profile: true
 
 Other publications
 =====
+
+Winter, J.M. de and M.D. Volkerink (2021), <i> De financiële positie van het Nederlandse mkb één jaar na de Covid-19 uitbraak (The financial position of Dutch SMEs one year after the Covid-19 outbreak)<\i>, 1(2). Download [here](https://www.dnb.nl/media/jlzhofi1/def_dnbanalyse-de-financi%C3%ABle-positie-van-het-nederlandse-mkb-%C3%A9%C3%A9n-jaar-na-de-covid-19-uitbraak.pdf). Download figures [here] 
+
 Winter, J.M., de and D.W. van Dijk (2021), Sentimentsindicator op basis van financieel economisch nieuws (Sentimentindcator based on financial economic news),<i>Economisch Statistische Berichten</i> forthcoming. Download [here](https://www.esb.nu/esb/20062437/sentimentsindicator-op-basis-van-financieel-economisch-nieuws) from the publisher's website or [here](https://jasperdewinter.github.io/pp/files/DeWintervanDijk_2021.pdf).
 
 Bun, M.J.G., Caloia, F.G. and J.M. de Winter (2020), <i> Hoe effectief is het COVID-19 noodpakket in het voorkomen van insolventie van bedrijven? Een stresstest van het Nederlandse MKB (How effective is the COVID-19 emergency package in preventing corporate insolvency? A stress test of Dutch SMEs)</i>, mimeo, August 11, 2020. Download [here](https://jasperdewinter.github.io/pp/files/MimeoBCW.pdf). Download appendices [here](https://jasperdewinter.github.io/pp/files/MimeoBCW_Appendix.pdf).
