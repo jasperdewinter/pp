@@ -17,7 +17,7 @@ author_profile: true
 Other publications
 =====
 
-Winter, J.M. de and M.D. Volkerink (2021), De financiële positie van het Nederlandse mkb één jaar na de Covid-19 uitbraak (The financial position of Dutch SMEs one year after the Covid-19 outbreak), <i> DNB Analyse </i>, 1(2). Download [here](https://jasperdewinter.github.io/pp/files/WinterVolkerink_MKB.pdf). Download figures [here](https://jasperdewinter.github.io/pp/files/WinterVolkerink_MKB.xlsx). 
+Winter, J.M. de and M.D. Volkerink (2021), De financiële positie van het Nederlandse mkb één jaar na de Covid-19 uitbraak (The financial position of Dutch SMEs one year after the Covid-19 outbreak), <i> DNB Analyse </i>, 1(2). Download [here](https://jasperdewinter.github.io/pp/files/WinterVolkerink_MKB.pdf). Download all figures [here](https://jasperdewinter.github.io/pp/files/WinterVolkerink_MKB.xlsx). 
 
 Winter, J.M., de and D.W. van Dijk (2021), Sentimentsindicator op basis van financieel economisch nieuws (Sentimentindcator based on financial economic news),<i>Economisch Statistische Berichten</i> forthcoming. Download [here](https://www.esb.nu/esb/20062437/sentimentsindicator-op-basis-van-financieel-economisch-nieuws) from the publisher's website or [here](https://jasperdewinter.github.io/pp/files/DeWintervanDijk_2021.pdf).
 
