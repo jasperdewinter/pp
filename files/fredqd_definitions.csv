@@ -1,0 +1,249 @@
+group,id,sw id,tcode,factors,fred,sw,description
+Output and Income,1,1,5,0,GDPC1,GDP,Real Gross Domestic Product 3 Decimal (Billio
+Output and Income,2,2,5,0,PCECC96,Consumption,Real Personal Consumption Expenditures (Billio
+Output and Income,3,3,5,1,PCDGx,Cons:Dur,Real personal consumption expenditures: Durabl
+Output and Income,4,4,5,1,PCESVx,Cons:Svc,Real Personal Consumption Expenditures: Servic
+Output and Income,5,5,5,1,PCNDx,Cons:NonDur,Real Personal Consumption Expenditures: Nondur
+Output and Income,6,6,5,0,GPDIC1,Investment,Real Gross Private Domestic Investment 3 deci
+Output and Income,7,7,5,0,FPIx,FixedInv,Real private fixed investment (Billions of Cha
+Output and Income,8,8,5,1,Y033RC1Q027SBEAx,Inv:Equip&Software,Real Gross Private Domestic Investment: Fixed 
+Output and Income,9,9,5,1,PNFIx,FixInv:NonRes,Real private fixed investment: Nonresidential 
+Output and Income,10,10,5,1,PRFIx,FixedInv:Res,Real private fixed investment: Residential (Bi
+Output and Income,11,11,1,1,A014RE1Q156NBEA,Inv:Inventories,Shares of gross domestic product: Gross privat
+Output and Income,12,12,5,0,GCEC1,Gov.Spending,Real Government Consumption Expenditures & Gro
+Output and Income,13,13,1,1,A823RL1Q225SBEA,Gov:Fed,Real Government Consumption Expenditures and G
+Output and Income,14,14,5,1,FGRECPTx,Real Gov Receipts,Real Federal Government Current Receipts (Bill
+Output and Income,15,15,5,1,SLCEx,Gov:State&Local,Real government state and local consumption ex
+Output and Income,16,16,5,1,EXPGSC1,Exports,Real Exports of Goods & Services 3 Decimal (B
+Output and Income,17,17,5,1,IMPGSC1,Imports,Real Imports of Goods & Services 3 Decimal (B
+Output and Income,18,18,5,0,DPIC96,Disp-Income,Real Disposable Personal Income (Billions of C
+Output and Income,19,19,5,0,OUTNFB,Ouput:NFB,Nonfarm Business Sector: Real Output (Index 20
+Output and Income,20,20,5,0,OUTBS,Output:Bus,Business Sector: Real Output (Index 2012=100)
+Output and Income,21,21,5,0,OUTMS,Output:Manuf,Manufacturing Sector: Real Output (Index 2012=
+Output and Income,190,NaN,2,0,B020RE1Q156NBEA,NaN,Shares of gross domestic product: Exports of g
+Output and Income,191,NaN,2,0,B021RE1Q156NBEA,NaN,Shares of gross domestic product: Imports of g 
+Industrial Production,22,22,5,0,INDPRO,IP:Total index,Industrial Production Index (Index 2012=100)
+Industrial Production,23,23,5,0,IPFINAL,IP:Final products,Industrial Production: Final Products (Market 
+Industrial Production,24,24,5,0,IPCONGD,IP:Consumer goods,Industrial Production: Consumer Goods (Index 2
+Industrial Production,25,25,5,0,IPMAT,IP:Materials,Industrial Production: Materials (Index 2012=100)
+Industrial Production,26,26,5,1,IPDMAT,IP:Dur gds materials,Industrial Production: Durable Materials (Inde
+Industrial Production,27,27,5,1,IPNMAT,IP:Nondur gds materials,Industrial Production: Nondurable Materials (I
+Industrial Production,28,28,5,1,IPDCONGD,IP:Dur Cons. Goods,Industrial Production: Durable Consumer Goods 
+Industrial Production,29,29,5,1,IPB51110SQ,IP:Auto,Industrial Production: Durable Goods: Automoti
+Industrial Production,30,30,5,1,IPNCONGD,IP:NonDur Cons God,Industrial Production: Nondurable Consumer Goo
+Industrial Production,31,31,5,1,IPBUSEQ,IP:Bus Equip,Industrial Production: Business Equipment (Ind
+Industrial Production,32,32,5,1,IPB51220SQ,IP:Energy Prds,Industrial Production: Consumer energy product
+Industrial Production,33,33,1,1,TCU,Capu Tot,Capacity Utilization: Total Industry (Percent 
+Industrial Production,34,34,1,1,CUMFNS,Capu Man.,Capacity Utilization: Manufacturing (SIC) (Per
+Industrial Production,194,NaN,5,0,IPMANSICS,NaN,Industrial Production: Manufacturing (SIC) (In
+Industrial Production,195,NaN,5,0,IPB51222S,NaN,Industrial Production: Residential Utilities (
+Industrial Production,196,NaN,5,0,IPFUELS,NaN,Industrial Production: Fuels (Index 2012=100) 
+Employment and Unemployment,35,35,5,0,PAYEMS,Emp:Nonfarm,All Employees: Total nonfarm (Thousands of Per
+Employment and Unemployment,36,36,5,0,USPRIV,Emp:Private,All Employees: Total Private Industries (Thous
+Employment and Unemployment,37,37,5,0,MANEMP,Emp:mfg,All Employees: Manufacturing (Thousands of Per
+Employment and Unemployment,38,38,5,0,SRVPRD,Emp:Services,All Employees: Service-Providing Industries (T
+Employment and Unemployment,39,39,5,0,USGOOD,Emp:Goods,All Employees: Goods-Producing Industries (Tho
+Employment and Unemployment,40,40,5,1,DMANEMP,Emp:DurGoods,All Employees: Durable goods (Thousands of Per
+Employment and Unemployment,41,41,5,0,NDMANEMP,Emp:Nondur Goods,All Employees: Nondurable goods (Thousands of 
+Employment and Unemployment,42,42,5,1,USCONS,Emp:Const,All Employees: Construction (Thousands of Pers
+Employment and Unemployment,43,43,5,1,USEHS,Emp:Edu&Health,All Employees: Education & Health Services (Th
+Employment and Unemployment,44,44,5,1,USFIRE,Emp:Finance,All Employees: Financial Activities (Thousands
+Employment and Unemployment,45,45,5,1,USINFO,Emp:Infor,All Employees: Information Services (Thousands
+Employment and Unemployment,46,46,5,1,USPBS,Emp:Bus Serv,All Employees: Professional & Business Service
+Employment and Unemployment,47,47,5,1,USLAH,Emp:Leisure,All Employees: Leisure & Hospitality (Thousand
+Employment and Unemployment,48,48,5,1,USSERV,Emp:OtherSvcs,All Employees: Other Services (Thousands of Pe
+Employment and Unemployment,49,49,5,1,USMINE,Emp:Mining/NatRes,All Employees: Mining and logging (Thousands o
+Employment and Unemployment,50,50,5,1,USTPU,Emp:Trade&Trans,All Employees: Trade Transportation & Utiliti
+Employment and Unemployment,51,51,5,0,USGOVT,Emp:Gov,All Employees: Government (Thousands of Persons)
+Employment and Unemployment,52,52,5,1,USTRADE,Emp:Retail,All Employees: Retail Trade (Thousands of Pers
+Employment and Unemployment,53,53,5,1,USWTRADE,Emp:Wholesal,All Employees: Wholesale Trade (Thousands of P
+Employment and Unemployment,54,54,5,1,CES9091000001,Emp:Gov(Fed),All Employees: Government: Federal (Thousands 
+Employment and Unemployment,55,55,5,1,CES9092000001,Emp:Gov (State),All Employees: Government: State Government (T
+Employment and Unemployment,56,56,5,1,CES9093000001,Emp:Gov (Local),All Employees: Government: Local Government (T
+Employment and Unemployment,57,57,5,0,CE16OV,Emp:Total (HHSurve),Civilian Employment (Thousands of Persons)
+Employment and Unemployment,58,58,2,0,CIVPART,LF Part Rate,Civilian Labor Force Participation Rate (Percent)
+Employment and Unemployment,59,59,2,0,UNRATE,Unemp Rate,Civilian Unemployment Rate (Percent)
+Employment and Unemployment,60,60,2,0,UNRATESTx,Urate_ST,Unemployment Rate less than 27 weeks (Percent)
+Employment and Unemployment,61,61,2,0,UNRATELTx,Urate_LT,Unemployment Rate for more than 27 weeks (Perc
+Employment and Unemployment,62,62,2,1,LNS14000012,Urate:Age16-19,Unemployment Rate - 16 to 19 years (Percent)
+Employment and Unemployment,63,63,2,1,LNS14000025,Urate:Age>20 Men,Unemployment Rate - 20 years and over Men (Pe
+Employment and Unemployment,64,64,2,1,LNS14000026,Urate:Age>20 Women,Unemployment Rate - 20 years and over Women (
+Employment and Unemployment,65,65,5,1,UEMPLT5,U:Dur<5wks,Number of Civilians Unemployed - Less Than 5 W
+Employment and Unemployment,66,66,5,1,UEMP5TO14,U:Dur5-14wks,Number of Civilians Unemployed for 5 to 14 Wee
+Employment and Unemployment,67,67,5,1,UEMP15T26,U:dur>15-26wks,Number of Civilians Unemployed for 15 to 26 We
+Employment and Unemployment,68,68,5,1,UEMP27OV,U:Dur>27wks,Number of Civilians Unemployed for 27 Weeks an
+Employment and Unemployment,69,69,5,1,LNS13023621,U:Job losers,Unemployment Level - Job Losers (Thousands of 
+Employment and Unemployment,70,70,5,1,LNS13023557,U:LF Reenty,Unemployment Level - Reentrants to Labor Force
+Employment and Unemployment,71,71,5,1,LNS13023705,U:Job Leavers,Unemployment Level - Job Leavers (Thousands of
+Employment and Unemployment,72,72,5,1,LNS13023569,U:New Entrants,Unemployment Level - New Entrants (Thousands o 
+Employment and Unemployment,73,73,5,1,LNS12032194,Emp:SlackWk,Employment Level - Part-Time for Economic Reas
+Employment and Unemployment,74,74,5,0,HOABS,EmpHrs:Bus Sec,Business Sector: Hours of All Persons (Index 2
+Employment and Unemployment,75,75,5,0,HOAMS,EmpHrs:mfg,Manufacturing Sector: Hours of All Persons (In
+Employment and Unemployment,76,76,5,0,HOANBS,EmpHrs:nfb,Nonfarm Business Sector: Hours of All Persons 
+Employment and Unemployment,77,77,1,1,AWHMAN,AWH Man,Average Weekly Hours of Production and Nonsupe
+Employment and Unemployment,78,78,2,1,AWHNONAG,AWH Privat,Average Weekly Hours Of Production And Nonsupe
+Employment and Unemployment,79,79,2,1,AWOTMAN,AWH Overtime,Average Weekly Overtime Hours of Production an
+Employment and Unemployment,80,80,1,0,HWIx,HelpWnted,Help-Wanted Index
+Employment and Unemployment,197,NaN,2,0,UEMPMEAN,NaN,Average (Mean) Duration of Unemployment (Weeks)
+Employment and Unemployment,198,NaN,2,0,CES0600000007,NaN,Average Weekly Hours of Production and Nonsupe
+Employment and Unemployment,220,NaN,2,0,HWIURATIOx,NaN,Ratio of Help Wanted/No. Unemployed
+Employment and Unemployment,221,NaN,5,0,CLAIMSx,NaN,Initial Claims 
+Housing,81,81,5,0,HOUST,Hstarts,Housing Starts: Total:
+Housing,82,82,5,0,HOUST5F,Hstarts >5units,Privately Owned Housing Starts:
+Housing,83,83,5,1,PERMIT,Hpermits,New Private Housing Units Authorized by Buildi
+Housing,84,84,5,1,HOUSTMW,Hstarts:MW,Housing Starts in Midwest Census Region (Thous
+Housing,85,85,5,1,HOUSTNE,Hstarts:NE,Housing Starts in Northeast Census Region (Tho
+Housing,86,86,5,1,HOUSTS,Hstarts:S,Housing Starts in South Census Region (Thousan
+Housing,87,87,5,1,HOUSTW,Hstarts:W,Housing Starts in West Census Region (Thousand
+Housing,179,190,5,1,USSTHPI,Real Hprice:OFHEO,All-Transactions House Price Index for the Uni
+Housing,180,191,5,1,SPCS10RSA,Real CS_10,S&P/Case-Shiller 10-City Composite Home Price 
+Housing,181,192,5,1,SPCS20RSA,Real CS_20,S&P/Case-Shiller 20-City Composite Home Price 
+Housing,227,NaN,5,0,PERMITNE,NaN,New Private Housing Units Authorized by Buildi
+Housing,228,NaN,5,0,PERMITMW,NaN,New Private Housing Units Authorized by Buildi
+Housing,229,NaN,5,0,PERMITS,NaN,New Private Housing Units Authorized by Buildi
+Housing,230,NaN,5,0,PERMITW,NaN,New Private Housing Units Authorized by Buildi
+Inventories Orders and Sales,88,89,5,0,CMRMTSPLx,MT Sales,Real Manufacturing and Trade Industries Sales 
+Inventories Orders and Sales,89,90,5,1,RSAFSx,Ret. Sale,Real Retail and Food Services Sales (Millions 
+Inventories Orders and Sales,90,91,5,1,AMDMNOx,Orders (DurMfg),Real Manufacturers New Orders: Durable Goods 
+Inventories Orders and Sales,91,92,5,1,ACOGNOx,Orders(ConsGoods/Mat.),Real Value of Manufacturers New Orders for Co
+Inventories Orders and Sales,92,93,5,1,AMDMUOx,UnfOrders(DurGds),Real Value of Manufacturers Unfilled Orders f
+Inventories Orders and Sales,93,94,5,1,ANDENOx,Orders(NonDefCap),Real Value of Manufacturers New Orders for Ca
+Inventories Orders and Sales,94,96,5,1,INVCQRMTSPL,MT Invent,Real Manufacturing and Trade Inventories (Mill
+Inventories Orders and Sales,222,NaN,5,0,BUSINVx,NaN,Total Business Inventories (Millions of Dollars)
+Inventories Orders and Sales,223,NaN,2,0,ISRATIOx,NaN,Total Business: Inventories to Sales Ratio 
+Prices,95,97,6,0,PCECTPI,PCED,Personal Consumption Expenditures: Chain-type 
+Prices,96,98,6,0,PCEPILFE,PCED_LFE,Personal Consumption Expenditures Excluding Fo
+Prices,97,99,6,0,GDPCTPI,GDP Defl,Gross Domestic Product: Chain-type Price Index
+Prices,98,100,6,1,GPDICTPI,GPDI Defl,Gross Private Domestic Investment: Chain-type 
+Prices,99,101,6,1,IPDBS,BusSec Defl,Business Sector: Implicit Price Deflator (Inde
+Prices,100,102,6,0,DGDSRG3Q086SBEA,PCED_Goods,Personal consumption expenditures: Goods (chai
+Prices,101,103,6,0,DDURRG3Q086SBEA,PCED_DurGoods,Personal consumption expenditures: Durable goo
+Prices,102,104,6,0,DSERRG3Q086SBEA,PCED_Serv,Personal consumption expenditures: Services (c
+Prices,103,105,6,0,DNDGRG3Q086SBEA,PCED_NDurGoods,Personal consumption expenditures: Nondurable 
+Prices,104,106,6,0,DHCERG3Q086SBEA,PCED_HouseholdServ.,Personal consumption expenditures: Services: H
+Prices,105,107,6,1,DMOTRG3Q086SBEA,PCED_MotorVec,Personal consumption expenditures: Durable goo
+Prices,106,108,6,1,DFDHRG3Q086SBEA,PCED_DurHousehold,Personal consumption expenditures: Durable goo
+Prices,107,109,6,1,DREQRG3Q086SBEA,PCED_Recreation,Personal consumption expenditures: Durable goo
+Prices,108,110,6,1,DODGRG3Q086SBEA,PCED_OthDurGds,Personal consumption expenditures: Durable goo
+Prices,109,111,6,1,DFXARG3Q086SBEA,PCED_Food_Bev,Personal consumption expenditures: Nondurable 
+Prices,110,112,6,1,DCLORG3Q086SBEA,PCED_Clothing,Personal consumption expenditures: Nondurable 
+Prices,111,113,6,1,DGOERG3Q086SBEA,PCED_Gas_Enrgy,Personal consumption expenditures: Nondurable 
+Prices,112,114,6,1,DONGRG3Q086SBEA,PCED_OthNDurGds,Personal consumption expenditures: Nondurable 
+Prices,113,115,6,1,DHUTRG3Q086SBEA,PCED_Housing-Utilities,Personal consumption expenditures: Services: H
+Prices,114,116,6,1,DHLCRG3Q086SBEA,PCED_HealthCare,Personal consumption expenditures: Services: H
+Prices,115,117,6,1,DTRSRG3Q086SBEA,PCED_TransSvg,Personal consumption expenditures: Transportat 
+Prices,116,118,6,1,DRCARG3Q086SBEA,PCED_RecServices,Personal consumption expenditures: Recreation 
+Prices,117,119,6,1,DFSARG3Q086SBEA,PCED_FoodServ_Acc.,Personal consumption expenditures: Services: F
+Prices,118,120,6,1,DIFSRG3Q086SBEA,PCED_FIRE,Personal consumption expenditures: Financial s
+Prices,119,121,6,1,DOTSRG3Q086SBEA,PCED_OtherServices,Personal consumption expenditures: Other servi
+Prices,120,122,6,0,CPIAUCSL,CPI,Consumer Price Index for All Urban Consumers: 
+Prices,121,123,6,0,CPILFESL,CPI_LFE,Consumer Price Index for All Urban Consumers: 
+Prices,122,124,6,0,WPSFD49207,PPI:FinGds,Producer Price Index by Commodity for Final De
+Prices,123,125,6,0,PPIACO,PPI,Producer Price Index for All Commodities (Inde
+Prices,124,126,6,1,WPSFD49502,PPI:FinConsGds,Producer Price Index by Commodity for Final De
+Prices,125,127,6,1,WPSFD4111,PPI:FinConsGds(Food),Producer Price Index by Commodity for Finished
+Prices,126,128,6,1,PPIIDC,PPI:IndCom,Producer Price Index by Commodity Industrial C
+Prices,127,129,6,1,WPSID61,PPI:IntMat,Producer Price Index by Commodity Intermediate
+Prices,128,133,5,1,WPU0531,Real Price:NatGas,Producer Price Index by Commodity for Fuels an
+Prices,129,134,5,1,WPU0561,Real Price:Oil,Producer Price Index by Commodity for Fuels an
+Prices,130,135,5,0,OILPRICEx,Real Crudeoil Price,Real Cru de Oil Prices: West Texas Intermediate
+Prices,205,NaN,6,0,WPSID62,NaN,Producer Price Index: Crude Materials for Furt
+Prices,206,NaN,6,0,PPICMM,NaN,Producer Price Index: Commodities: Metals and 
+Prices,207,NaN,6,0,CPIAPPSL,NaN,Consumer Price Index for All Urban Consumers: 
+Prices,208,NaN,6,0,CPITRNSL,NaN,Consumer Price Index for All Urban Consumers: 
+Prices,209,NaN,6,0,CPIMEDSL,NaN,Consumer Price Index for All Urban Consumers: 
+Prices,210,NaN,6,0,CUSR0000SAC,NaN,Consumer Price Index for All Urban Consumers: 
+Prices,211,NaN,6,0,CUSR0000SAD,NaN,Consumer Price Index for All Urban Consumers: 
+Prices,212,NaN,6,0,CUSR0000SAS,NaN,Consumer Price Index for All Urban Consumers: 
+Prices,213,NaN,6,0,CPIULFSL,NaN,Consumer Price Index for All Urban Consumers: 
+Prices,214,NaN,6,0,CUSR0000SA0L2,NaN,Consumer Price Index for All Urban Consumers: 
+Prices,215,NaN,6,0,CUSR0000SA0L5,NaN,Consumer Price Index for All Urban Consumers: 
+Prices,233,NaN,6,0,CUSR0000SEHC,NaN,CPI for All Urban Consumers: Owners?? equivalen 
+Earnings and Productivity,131,136,5,0,AHETPIx,Real AHE:PrivInd,Real Average Hourly Earnings of Production and
+Earnings and Productivity,132,137,5,0,CES2000000008x,Real AHE:Const,Real Average Hourly Earnings of Production and
+Earnings and Productivity,133,138,5,0,CES3000000008x,Real AHE:MFG,Real Average Hourly Earnings of Production and
+Earnings and Productivity,134,139,5,1,COMPRMS,CPH:Mfg,Manufacturing Sector: Real Compensation Per Ho
+Earnings and Productivity,135,140,5,1,COMPRNFB,CPH:NFB,Nonfarm Business Sector: Real Compensation Per
+Earnings and Productivity,136,141,5,1,RCPHBS,CPH:Bus,Business Sector: Real Compensation Per Hour (I
+Earnings and Productivity,137,142,5,1,OPHMFG,OPH:mfg,Manufacturing Sector: Real Output Per Hour of 
+Earnings and Productivity,138,143,5,1,OPHNFB,OPH:nfb,Nonfarm Business Sector: Real Output Per Hour 
+Earnings and Productivity,139,144,5,0,OPHPBS,OPH:Bus,Business Sector: Real Output Per Hour of All P
+Earnings and Productivity,140,145,5,0,ULCBS,ULC:Bus,Business Sector: Unit Labor Cost (Index 2012=100)
+Earnings and Productivity,141,146,5,1,ULCMFG,ULC:Mfg,Manufacturing Sector: Unit Labor Cost (Index 2
+Earnings and Productivity,142,147,5,1,ULCNFB,ULC:NFB,Nonfarm Business Sector: Unit Labor Cost (Inde
+Earnings and Productivity,143,148,5,1,UNLPNBS,UNLPay:nfb,Nonfarm Business Sector: Unit Nonlabor Payment
+Earnings and Productivity,216,NaN,6,0,CES0600000008,NaN,Average Hourly Earnings of Production and Nons 
+Interest Rates,144,149,2,1,FEDFUNDS,FedFunds,Effective Federal Funds Rate (Percent)
+Interest Rates,145,150,2,1,TB3MS,TB-3Mth,3-Month Treasury Bill: Secondary Market Rate (
+Interest Rates,146,151,2,0,TB6MS,TM-6MTH,6-Month Treasury Bill: Secondary Market Rate (
+Interest Rates,147,153,2,0,GS1,TB-1YR,1-Year Treasury Constant Maturity Rate (Percent)
+Interest Rates,148,154,2,0,GS10,TB-10YR,10-Year Treasury Constant Maturity Rate (Percent)
+Interest Rates,149,155,2,0,MORTGAGE30US,Mort-30Yr,30-Year Conventional Mortgage Rate?? (Percent)
+Interest Rates,150,156,2,0,AAA,AAA Bond,Moodys Seasoned Aaa Corporate Bond Yield?? (Pe
+Interest Rates,151,157,2,0,BAA,BAA Bond,Moodys Seasoned Baa Corporate Bond Yield?? (Pe
+Interest Rates,152,158,1,1,BAA10YM,BAA_GS10,Moodys Seasoned Baa Corporate Bond Yield Rela
+Interest Rates,153,159,1,1,MORTG10YRx,MRTG_GS10,30-Year Conventional Mortgage Rate Relative to
+Interest Rates,154,160,1,1,TB6M3Mx,tb6m_tb3m,6-Month Treasury Bill Minus 3-Month Treasury B
+Interest Rates,155,161,1,1,GS1TB3Mx,GS1_tb3m,1-Year Treasury Constant Maturity Minus 3-Mont
+Interest Rates,156,162,1,1,GS10TB3Mx,GS10_tb3m,10-Year Treasury Constant Maturity Minus 3-Mon
+Interest Rates,157,163,1,1,CPF3MTB3Mx,CP_Tbill Spread,3-Month Commercial Paper Minus 3-Month Treasur
+Interest Rates,201,NaN,2,0,GS5,NaN,5-Year Treasury Constant Maturity Rate
+Interest Rates,202,NaN,1,0,TB3SMFFM,NaN,3-Month Treasury Constant Maturity Minus Feder
+Interest Rates,203,NaN,1,0,T5YFFM,NaN,5-Year Treasury Constant Maturity Minus Federa
+Interest Rates,204,NaN,1,0,AAAFFM,NaN,Moodys Seasoned Aaa Corporate Bond Minus Fede
+Interest Rates,225,NaN,2,0,CP3M,NaN,3-Month AA Financial Commercial Paper Rate
+Interest Rates,226,NaN,1,0,COMPAPFF,NaN,3-Month Commercial Paper Minus Federal Funds Rate 
+Money and Credit,158,167,5,0,BOGMBASEREALx,Real Mbase,Monetary Base (Millions of 1982-84 Dollars) d
+Money and Credit,159,168,5,0,IMFSLx,Real InsMMF,Real Institutional Money Funds (Billions of 20
+Money and Credit,160,169,5,0,M1REAL,Real m1,Real M1 Money Stock (Billions of 1982-84 Dolla
+Money and Credit,161,170,5,0,M2REAL,Real m2,Real M2 Money Stock (Billions of 1982-84 Dolla
+Money and Credit,162,171,5,0,MZMREAL,Real mzm,Real MZM Money Stock (Billions of 1982-84 Doll
+Money and Credit,163,172,5,1,BUSLOANSx,Real C&Lloand,Real Commercial and Industrial Loans All Comm
+Money and Credit,164,173,5,1,CONSUMERx,Real ConsLoans,Real Consumer Loans at All Commercial Banks (B
+Money and Credit,165,174,5,1,NONREVSLx,Real NonRevCredit,Total Real Nonrevolving Credit Owned and Secur
+Money and Credit,166,175,5,1,REALLNx,Real LoansRealEst,Real Real Estate Loans All Commercial Banks (
+Money and Credit,167,176,5,1,REVOLSLx,Real RevolvCredit,Total Real Revolving Credit Owned and Securiti
+Money and Credit,168,177,5,0,TOTALSLx,Real ConsuCred,Total Consumer Credit Outstanding (Billions of
+Money and Credit,169,178,1,1,DRIWCIL,FRBSLO_Consumers,FRB Senior Loans Officer Opions. Net Percentag
+Money and Credit,199,NaN,6,0,TOTRESNS,NaN,Total Reserves of Depository Institutions (Bil
+Money and Credit,200,NaN,7,0,NONBORRES,NaN,Reserves Of Depository Institutions Nonborrow
+Money and Credit,217,NaN,6,0,DTCOLNVHFNM,NaN,Consumer Motor Vehicle Loans Outstanding Owned
+Money and Credit,218,NaN,6,0,DTCTHFNM,NaN,Total Consumer Loans and Leases Outstanding Ow
+Money and Credit,219,NaN,6,0,INVEST,NaN,Securities in Bank Credit at All Commercial Ba 
+Household Balance Sheets,170,179,5,0,TABSHNOx,Real HHW:TASA,Real Total Assets of Households and Nonprofit 
+Household Balance Sheets,171,181,5,1,TLBSHNOx,Real HHW:LiabSA,Real Total Liabilities of Households and Nonpr
+Household Balance Sheets,172,182,5,0,LIABPIx,liab_PDISA,Liabilities of Households and Nonprofit Organi
+Household Balance Sheets,173,183,5,1,TNWBSHNOx,Real HHW:WSA,Real Net Worth of Households and Nonprofit Org
+Household Balance Sheets,174,184,1,0,NWPIx,W_PDISA,Net Worth of Households and Nonprofit Organiza
+Household Balance Sheets,175,185,5,1,TARESAx,Real HHW:TA_RESA,Real Assets of Households and Nonprofit Organi
+Household Balance Sheets,176,186,5,1,HNOREMQ027Sx,Real HHW:RESA,Real Real Estate Assets of Households and Nonp
+Household Balance Sheets,177,188,5,1,TFAABSHNOx,Real HHW:FinSA,Real Total Financial Assets of Households and 
+Household Balance Sheets,224,NaN,2,0,CONSPIx,NaN,Nonrevolving consumer credit to Personal Income 
+Exchange Rates,182,193,5,1,TWEXAFEGSMTHx,Ex rate:major,Trade Weighted U.S. Dollar Index: Advanced For
+Exchange Rates,183,194,5,1,EXUSEU,Ex rate:Euro,U.S. / Euro Foreign Exchange Rate (U.S. Dollar
+Exchange Rates,184,195,5,1,EXSZUSx,Ex rate:Switz,Switzerland / U.S. Foreign Exchange Rate
+Exchange Rates,185,196,5,1,EXJPUSx,Ex rate:Japan,Japan / U.S. Foreign Exchange Rate
+Exchange Rates,186,197,5,1,EXUSUKx,Ex rate:UK,U.S. / U.K. Foreign Exchange Rate
+Exchange Rates,187,198,5,1,EXCAUSx,EX rate:Canada,Canada / U.S. Foreign Exchange Rate
+Other,188,199,1,1,UMCSENTx,Cons.Expectations,UniversityofMichigan:ConsumerSentiment(Index1stQuarter1966=100
+Other,189,200,2,1,USEPUINDXM,Policy Uncertainty,EconomicPolicyUncertaintyIndexforUnitedStates
+Stock Markets,178,189,1,1,VXOCLSx,VXO,CBOE S&P 100 Volatility Index: VXO
+Stock Markets,231,NaN,5,0,NIKKEI225,NaN,Nikkei Stock Average
+Stock Markets,232,NaN,5,0,NASDAQCOM,NaN,NASDAQ Composite (Index Feb 5 1971=100)
+Stock Markets,245,180,5,0,S&P 500,NaN,S&P??s Common Stock Price Index: Composite
+Stock Markets,246,NaN,5,0,S&P: indust,NaN,S&P??s Common Stock Price Index: Industrials
+Stock Markets,247,NaN,2,0,S&P: div yield,NaN,S&P??s Composite Common Stock: Dividend Yield
+Stock Markets,248,NaN,5,0,S&P PE ratio,NaN,S&P??s Composite Common Stock: Price-Earnings Ratio
+Non-Household Balance Sheets,192,NaN,2,0,GFDEGDQ188S,NaN,Federal Debt: Total Public Debt as Percent of 
+Non-Household Balance Sheets,193,NaN,2,0,GFDEBTNx,NaN,Real Federal Debt: Total Public Debt (Millions
+Non-Household Balance Sheets,234,NaN,5,0,TLBSNNCBx,NaN,Real Nonfinancial Corporate Business Sector Li
+Non-Household Balance Sheets,235,NaN,1,0,TLBSNNCBBDIx,NaN,Nonfinancial Corporate Business Sector Liabili
+Non-Household Balance Sheets,236,NaN,5,0,TTAABSNNCBx,NaN,Real Nonfinancial Corporate Business Sector As
+Non-Household Balance Sheets,237,NaN,5,0,TNWMVBSNNCBx,NaN,Real Nonfinancial Corporate Business Sector Ne
+Non-Household Balance Sheets,238,NaN,2,0,TNWMVBSNNCBBDIx,NaN,Nonfinancial Corporate Business Sector Net Wor
+Non-Household Balance Sheets,239,NaN,5,0,TLBSNNBx,NaN,Real Nonfinancial Noncorporate Business Sector
+Non-Household Balance Sheets,240,NaN,1,0,TLBSNNBBDIx,NaN,Nonfinancial Noncorporate Business Sector Liab
+Non-Household Balance Sheets,241,NaN,5,0,TABSNNBx,NaN,Real Nonfinancial Noncorporate Business Sector
+Non-Household Balance Sheets,242,NaN,5,0,TNWBSNNBx,NaN,Real Nonfinancial Noncorporate Business Sector
+Non-Household Balance Sheets,243,NaN,2,0,TNWBSNNBBDIx,NaN,Nonfinancial Noncorporate Business Sector Net 
+Non-Household Balance Sheets,244,NaN,5,0,CNCFx,NaN,Real Disposable Business Income Billions of 2 
