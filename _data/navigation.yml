@@ -3,10 +3,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Workingpapers"
+  - title: "Working papers"
     url: /workingpapers/    
 
-  - title: "Workinprogress"
+  - title: "Work in progress"
     url: /workinprogress/    
     
   - title: "CV"
