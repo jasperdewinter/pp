@@ -56,7 +56,7 @@ Winter, de J.M. (2007), Loondalingen in Europa steeds normaler (Negative wage gr
 
 Winter, de J.M. (2006), Lagere inflatie omgeving in Europa: de invloed van vakbonden (Low inflation environment: the role of labor unions), <i>Kwartaalschrift Economie</i> 3, 274-290. Download [here](https://jasperdewinter.github.io/pp/files/deWinter2006KE.pdf).
 
-Tijdens, K.G., J.M. de Winter and J.A.C. Korteweg (2004), Voorwaarden voor verlofsparen (Requirements for leave-saving), <i>Economisch Statistische Berichten</i> 92(4515), 42-44. Download [here](https://jasperdewinter.github.io/pp/files/TijdensEtAl2004.pdf).
+Tijdens, K.G., J.M. de Winter and J.A.C. Korteweg (2004), Voorwaarden voor verlofsparen (Requirements for leave-saving), <i>Economisch Statistische Berichten</i> 92(4515), 42-44. Download [here][(https://esb.nu/voorwaarden-voor-verlofsparen/editie_pdfs_890042_tcm445-239722/) from the publisher's website or [here](https://jasperdewinter.github.io/pp/files/TijdensEtAl2004.pdf).
 
 Winter, de J.M. and P.H.G. Berkhout (2002), Zoekgedrag en instroom van kenniswerkers (Job search behavior and labor market entry of knowledge workers), in: <i>Kennis en economie 2001- onderzoek en innovatie in Nederland</i>, CBS: Voorburg/Heerlen, 41–47. Download [here](https://www.cbs.nl/-/media/imported/documents/2001/50/k-300-2001.pdf) from the publisher's website or [here](https://jasperdewinter.github.io/pp/files/k-300-2001.pdf)
 
