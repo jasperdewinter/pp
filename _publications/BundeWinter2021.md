@@ -9,4 +9,6 @@ Using firm-level panel data we  analyze the misallocation of capital and labor f
 
 Download from the publisher's website [here](https://doi.org/10.1007/s11123-021-00622-z).
 
+Policy notes on our research [here](https://esb.nu/misallocatie-kapitaal-en-arbeid-tijdens-coronacrisis-verder-toegenomen/) and [here](https://esb.nu/misallocatie-van-kapitaal-en-arbeid-in-de-nederlandse-economie-toegenomen/) (only) in Dutch from the publisher’s website or [here](https://jasperdewinter.github.io/pp/files/BundeWinter2022.pdf) and [here](https://jasperdewinter.github.io/pp/files/DeWinterBun_2019.pdf).
+
 Recommended citation: Bun, M.J.G. and J.M. de Winter (2022), Capital and labor misallocation in the Netherlands, <i>Journal of Productivitity Analysis</i>, 57, 93-113.
