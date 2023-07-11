@@ -11,7 +11,7 @@ redirect_from:
 
 Education 
 ======
-* Ph.D. in Economics, Erasmus University, 2016, December. Dissertation: 'Nowcasting GDP growth: statistical models versus professional analysts'. Download [here](https://repub.eur.nl/pub/94686).
+* Ph.D. in Economics, Erasmus University, 2016, December. Dissertation: 'Nowcasting GDP growth: statistical models versus professional analysts'. Download from Erasmus University [here](https://repub.eur.nl/pub/94686) or [here](https://jasperdewinter.github.io/pp/files/Thesis_JdW.pdf). Theorems (``Stellingen'') can be downloaded [here](https://jasperdewinter.github.io/pp/files/Stellingen_JdW.pdf).
 * M.S. in Economics,  University of Amsterdam, 1996, September.
 * B.S. in Economics, University of Amsterdam, 1992, September.
 
