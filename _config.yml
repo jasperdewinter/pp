@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jasper de Winter / Personal Page"
+title                    : "Jasper de Winter"
 title_separator          : "-"
 name                     : &name "Jasper de Winter"
 description              : &description "personal description"
