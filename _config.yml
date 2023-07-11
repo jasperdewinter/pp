@@ -186,6 +186,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  workingpapers:
+    output: true
+    permalink: /:collection/:path/
+  workinprogress:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -221,6 +227,24 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+ # _workingpapers
+  - scope:
+      path: ""
+      type: workingpapers
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+ # _workinprogress
+  - scope:
+      path: ""
+      type: workinprogress
     values:
       layout: single
       author_profile: true
