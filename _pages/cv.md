@@ -25,7 +25,7 @@ Work experience
 * 2003 - 2005 : Economist :: De Nederlandsche Bank :: Economic Policy Department.
 * 1997 - 2002 : Researcher :: SEO Amsterdam Economics.
 
-(Upcoming) talks
+Talks
 ======
 * 2023, August, Annual Conference European Economic Association, Barcelona (ESP). Download slides of presentation [here](https://jasperdewinter.github.io/pp/files/Presentation_EEA_2023.pdf).
 * 2023, June, Annual Conference International Association for Applied Econometrics, Oslo (NO). Download slides of presentation [here](https://jasperdewinter.github.io/pp/files/DeWinter_IAAE2023.pdf).
