@@ -1,0 +1,2136 @@
+token	word_Dutch	word_English
+aanbesteding	Aanbesteding	Tendering
+aanbieder	Aanbieder	Provider
+aanbieding	Aanbieding	Offer
+aanbod	Aanbod	Offer
+aanbouw	Aanbouw	Construction
+aandacht	Aandacht	Attention
+aandeel	Aandeel	Stock
+aandeelhouder	Aandeelhouder	Shareholder
+aandelenmarkten	Aandelenmarkten	Stock markets
+aandelenportefeuille	Aandelenportefeuille	Stock portfolio
+aangifte	Aangifte	Declaration
+aanhangers	Aanhangers	Trailers
+aankondiging	Aankondiging	Announcement
+aankoop	Aankoop	Purchase
+aanleiding	Aanleiding	Reason
+aannemer	Aannemer	Contractor
+aanslag	Aanslag	Attack
+aansluiting	Aansluiting	Connection
+aansprakelijkheid	Aansprakelijkheid	Responsibility
+aantekenen	Aantekenen	Note
+aantreden	Aantreden	Take office
+aanval	Aanval	Attack
+aanvraag	Aanvraag	Application
+aanwijzing	Aanwijzing	Clue
+aarde	Aarde	Soil
+aardgas	Aardgas	Natural gas
+aartsen	Aartsen	Arches
+abnxamro	ABN AMRO	ABN AMRO
+abp	ABP	ABP
+abvakabo	Abvakabo	Abvakabo
+accijns	Accijns	Excise duty
+accountancy	Accountancy	Accountancy
+achmea	Achmea	Achmea
+achterban	Achterban	Constituency
+achtergesteldexlening	Achtergestelde Lening	Subordinated loan
+acm	ACM	ACM
+acquisitie	Acquisitie	Acquisition
+actief	Actief	Active
+actieplan	Actieplan	Action plan
+acties	Acties	Actions
+action	Action	Action
+activa	Activa	Assets
+activistische	Activistische	Activist
+activiteiten	Activiteiten	Activities
+adidas	Adidas	Adidas
+administratie	Administratie	Administration
+adverteerders	Adverteerders	Advertisers
+advies	Advies	Advice
+adviesbureau	Adviesbureau	Consultancy
+adviseur	Adviseur	Counselor
+advocaatgeneraal	Advocaat-generaal	Lawyer General
+advocatuur	Advocatuur	Legal profession
+adyen	Adyen	Adyen
+aegon	Aegon	Aegon
+afboeking	Afboeking	Write off
+afbouw	Afbouw	Phasing out
+afdekken	Afdekken	Cover
+affaire	Affaire	Affair
+afgevaardigden	Afgevaardigden	Delegates
+afghanistan	Afghanistan	Afghanistan
+afgrond	Afgrond	Abyss
+afhandeling	Afhandeling	Handling
+afhankelijkheid	Afhankelijkheid	Dependence
+aflopen	Aflopen	Expire
+aflossen	Aflossen	Repay
+aflossing	Aflossing	Redemption
+afm	Afm	Afm
+afnemers	Afnemers	Customers
+afp	AFP	AFP
+afremmen	Afremmen	Brake
+afrika	Afrika	Africa
+afschrijven	Afschrijven	Write off
+afsplitsing	Afsplitsing	Split-off
+afspraak	Afspraak	Appointment
+afstemming	Afstemming	Tuning
+aftrekbaar	Aftrekbaar	Deductible
+afwaarderen	Afwaarderen	Downgrading
+afwikkeling	Afwikkeling	Settlement
+afzetmarkt	Afzetmarkt	Sales market
+ag	AG	AG
+agent	Agent	Agent
+agentschap	Agentschap	Agency
+agrarische	Agrarische	Agricultural
+ahold	Ahold	Ahold
+ahrend	Ahrend	Ahrend
+aig	AIG	AIG
+airbnb	Airbnb	Airbnb
+airbus	Airbus	Airbus
+airxfrancexklm	Air-france KLM	Air-france KLM
+ajax	Ajax	Ajax
+akkoord	Akkoord	agreement
+akzoxnobel	Akzo-Nobel	Akzo-Nobel
+albanie	Albaniâ	Albania
+alcao	Alcao	Alcao
+alcatel	Alcatel	Alcatel
+alcohol	Alcohol	Alcohol
+alders	Alders	Alders
+alex	Alex	Alex
+alibaba	Alibaba	Alibaba
+alitalia	Alitalia	Alitalia
+alliantie	Alliantie	Alliance
+allianz	Allianz	Allianz
+allochtonen	Allochtonen	Immigrants
+alpinvest	Alpinvest	Alpinvest
+altice	Altice	Altice
+aluminium	Aluminium	Aluminium
+amazon	Amazon	Amazon
+ambassadeur	Ambassadeur	Ambassador
+ambitie	Ambitie	Ambition
+ambtenaar	Ambtenaar	Civil servant
+amendement	Amendement	Amendment
+amev	Amev	Amev
+analist	Analist	Analyst
+analyse	Analyse	Analysis
+andriessen	Andriessen	Andriessen
+antillen	Antillen	Antilles
+anwb	ANWB	ANWB
+aot	AOT	AOT
+aow	AOW	AOW
+apg	APG	APG
+apothekers	Apothekers	Pharmacists
+app	App	App
+apparaat	Apparaat	Device
+appartementen	Appartementen	Apartments
+apple	Apple	Apple
+arbeiders	Arbeiders	Workers
+arbeidsbureaus	Arbeidsbureaus	Employment offices
+arbeidsduurverkorting	Arbeidsduurverkorting	Reduction of working hours
+arbeidsmarkt	Arbeidsmarkt	Job market
+arbeidsomstandigheden	Arbeidsomstandigheden	Working Conditions
+arbeidsongeschikt	Arbeidsongeschikt	Incapacitated
+arbeidsplaats	Arbeidsplaats	Workplace
+arbeidsproductiviteit	Arbeidsproductiviteit	Labor productivity
+arbeidsvoorwaarde	Arbeidsvoorwaarde	Working condition
+arbeidsvoorziening	Arbeidsvoorziening	Employment provision
+arcadis	Arcadis	Arcadis
+arcelormittal	Arcelor Mittal	Arcelor Mittal
+architecten	Architecten	Architects
+argentinie	Argentiniâ	Argentiniâ
+arnhem	Arnhem	Arnhem
+arrest	Arrest	Judgment
+arts	Arts	Doctor
+asielzoekers	Asielzoekers	Asylum seekers
+asml	ASML	ASML
+aspect	Aspect	Aspect
+asrxnederland	ASRX Nederland	ASRX Nederland
+assortiment	Assortiment	Product Range
+audi	Audi	Audi
+australie	Australiâ	Australia
+auteur	Auteur	Author
+automatiseerder	Automatiseerder	Automate
+automatisering	Automatisering	Automation
+automobilisten	Automobilisten	Motorists
+autonomie	Autonomie	Autonomy
+autoriteit	Autoriteit	Authority
+autoriteiten	Autoriteiten	Authorities
+autoxindustrie	Auto-industrie	Car industry
+awbz	AWBZ	AWBZ
+axa	AXA	AXA
+azen	Azen	Aces
+azie	Aziâ	Aziâ
+baan	Baan	Baan
+bakker	Bakker	Baker
+balans	Balans	Balance
+balanstotaal	Balanstotaal	Balance sheet total
+balkenende	Balkenende	Balkenende
+bam	BAM	BAM
+banco	Banco	Banco
+bandbreedte	Bandbreedte	Bandwidth
+banengroei	Banengroei	Job growth
+bank	Bank	Bank
+bankaandelen	Bank-aandelen	Bank shares
+bankpresident	Bank-president	Bank president
+bankverzekeraar	Bank-verzekeraar	Bank insurer
+bankxofxamerica	Bank of America	Bank of America
+bankxofxengland	Bank of England	Bank of England
+bankxofxjapan	Bank of Japan	Bank of Japan
+bankxunie	Bankenunie	Bankenunie
+barcelona	Barcelona	Barcelona
+barclays	Barclays	Barclays
+barings	Barings	Barings
+barnier	Barnier	Barnier
+barosso	Barosso	Barosso
+bart	Bart	Bart
+bartjens	Bartjens	Bartjens
+basel	Basel	Basel
+basf	Basf	Basf
+basispunten	Basispunten	Basis points
+baten	Baten	Benefits
+bayer	Bayer	Bayer
+bbc	BBC	BBC
+bbp	BBP	GDP
+bedrijfsonderdelen	Bedrijfsonderdelen	Business units
+bedrijfsresultaat	Bedrijfsresultaat	Operating result
+bedrijfstakken	Bedrijfstakken	Industries
+bedrijfsvereniging	Bedrijfsvereniging	Business association
+bedrijfsvoering	Bedrijfsvoering	Business operations
+bedrijfswinsten	Bedrijfswinsten	Business Profits
+bedrijven	Bedrijven	Businesses
+bedrijvigheid	Bedrijvigheid	Activity
+begemann	Begemann	Begemann
+begroting	Begroting	Budget
+beheerder	Beheerder	Administrator
+bekendheid	Bekendheid	Fame
+beklemtonen	Beklemtonen	Stress
+belang	Belang	Importance
+belangenverstrengeling	Belangenverstrengeling	Conflict of interest
+belanghebbende	Belanghebbende	Interested party
+belangstelling	Belangstelling	Interest
+belasting	Belasting	tax
+belastingadviseurs	Belastingadviseurs	Tax advisers
+belastingbetaler	Belastingbetaler	Taxpayer
+belastingdienst	Belastingdienst	tax authorities
+belastinggeld	Belastinggeld	Tax money
+belastingheffing	Belastingheffing	Taxation
+belastinginkomsten	Belastinginkomsten	Tax Revenue
+belastingontwijking	Belastingontwijking	Tax evasion
+belastingverhoging	Belastingverhoging	Tax increase
+belastingverlaging	Belastingverlaging	Tax reduction
+belastingvoordeel	Belastingvoordeel	Tax benefit
+belastingvrij	Belastingvrij	Tax free
+beleggingen	Beleggingen	Investments
+beleggingsbeleid	Beleggingsbeleid	Investment policy
+beleggingsfonds	Beleggingsfonds	Investment fund
+beleggingsportefeuille	Beleggingsportefeuille	Investment portfolio
+beleggingsresultaat	Beleggingsresultaat	Investment result
+beleid	Beleid	Policy
+beleidsmakers	Beleidsmakers	Policy makers
+belgie	Belgiâ	Belgium
+beloning	Beloning	Reward
+bemoeienis	Bemoeienis	Interference
+benchmark	Benchmark	Benchmark
+benelux	Benelux	Benelux
+benoeming	Benoeming	Appointment
+benzine	Benzine	Gasoline
+beoordeling	Beoordeling	Rating
+beraad	Beraad	Consider
+berekenen	Berekenen	Calculate
+berentsen	Berentsen	Berentsen
+berichten	Berichten	Messages
+berichtgeving	Berichtgeving	Reporting
+berlusconi	Berlusconi	Berlusconi
+bernanke	Bernanke	Bernanke
+beroepen	Beroepen	Professions
+beroepsbevolking	Beroepsbevolking	Workforce
+beroepsonderwijs	Beroepsonderwijs	Vocational education
+beschermingsconstructies	Beschermingsconstructies	Protective structures
+beslissingen	Beslissingen	Decisions
+beslotenxvennootschap	Besloten vennootschap	Private limited company
+besluit	Besluit	Decision
+besluitvorming	Besluitvorming	Decision
+besmetting	Besmetting	Contamination
+besparingen	Besparingen	Savings
+bestand	Bestand	File
+bestedingen	Bestedingen	Spending
+bestrijding	Bestrijding	Combat
+bestuurders	Bestuurders	Board members
+bestuursvoorzitter	Bestuursvoorzitter	Chairman of the Board
+betaling	Betaling	Payment
+betalingsbalans	Betalingsbalans	Balance of payment
+betalingsverkeer	Betalingsverkeer	Payments
+beterxbed	Beter Bed	Beter Bed
+beton	Beton	Concrete
+betrekkingen	Betrekkingen	Relations
+beurs	Beurs	Stock market
+beursdag	Beursdag	Fair day
+beursgenoteerd	Beursgenoteerd	Listed
+beursverslagen	Beursverslagen	Stock market reports
+beveiliging	Beveiliging	Security
+bevindingen	Bevindingen	Findings
+bevoegdheid	Bevoegdheid	Jurisdiction
+bevolking	Bevolking	Population
+bevriezing	Bevriezing	Freezing
+bewindsman	Bewindsman	Minister
+bewindvoerder	Bewindvoerder	Receiver
+bewoners	Bewoners	Residents
+bezetting	Bezetting	Occupation
+bezettingsgraad	Bezettingsgraad	Occupancy rate
+bezittingen	Bezittingen	Possessions
+bezoekers	Bezoekers	Visitors
+bezuiniging	Bezuiniging	Cutbacks
+biden	Biden	Biden
+bieder	Bieder	Bidder
+biedingen	Biedingen	Bids
+bier	Bier	Beer
+bierbrouwer	Bierbrouwer	Beer brewer
+bijeenkomst	Bijeenkomst	Meeting
+bijstand	Bijstand	Assistance
+bijstelling	Bijstelling	Adjustment
+binckxbank	Binck bank	Binck bank
+binnenlands	Binnenlands	Domestic
+binnenvaart	Binnenvaart	Inland shipping
+biologische	Biologisch	Organic
+biomassa	Biomassa	Biomass
+biotechbedrijf	Biotechbedrijf	Biotech company
+biotechnologie	Biotechnologie	Biotechnology
+bis	BIS	BIS
+bitcoin	Bitcoin	Bitcoin
+blackrock	Blackrock	Blackrock
+blackstone	Blackstone	Blackstone
+blair	Blair	Blair
+bloemen	Bloemen	Flowers
+blokker	Blokker	Blokker
+blootstelling	Blootstelling	Exposure
+bmw	BMW	BMW
+bnpxparibas	BNP Paribas	BNP Paribas
+bnr	BNR	BNR
+bod	Bod	Offer
+boedel	Boedel	Estate
+boeing	Boeing	Boeing
+boekhouding	Boekhouding	Accountancy
+boekhoudregels	Boekhoudregels	Accounting rules
+boekjaar	Boekjaar	Financial year
+boekwaarde	Boekwaarde	Book value
+boeren	Boeren	Farmers
+bolkestein	Bolkestein	Bolkestein
+bolxpuntxcom	Bol.com	Bol.com
+bommen	Bommen	Bombs
+bondgenoten	Bondgenoten	Allies
+bondskanselier	Bondskanselier	Chancellor
+bondsregering	Bondsregering	Federal Government
+bonus	Bonus	Bonus
+boodschappen	Boodschappen	Groceries
+boren	Boren	Drilling
+borst	Borst	Chest
+boskalis	Boskalis	Boskalis
+bosnie	Bosniâ 	Bosniâ 
+bossen	Bossen	Forests
+boten	Boten	Boats
+bouwbedrijven	Bouwbedrijven	Construction companies
+bouwen	Bouwen	To build
+bouwnijverheid	Bouwnijverheid	Construction industry
+boycot	Boycot	Boycott
+bp	BP	BP
+branche	Branche	Industry
+branchegenoot	Branchegenoot	Industry colleague
+brancheorganisatie	Brancheorganisatie	Branch organization
+brandstof	Brandstof	Fuel
+brazilie	Braziliâ	Brazil
+breda	Breda	Breda
+brexit	Brexit	Brexit
+brink	Brink	Brink
+brinkhorst	Brinkhorst	Brinkhorst
+brinkman	Brinkman	Brinkman
+britishxairways	British Airways	British Airways
+broeikasgassen	Broeikasgassen	Greenhouse gases
+broer	Broer	Brother
+brokers	Brokers	Brokers
+brood	Brood	Bread
+brouwerij	Brouwerij	Brewery
+brown	Brown	Brown
+brug	Brug	Bridge
+brunel	Brunel	Brunel
+bt	BT	BT
+btw	BTW	VAT
+buba	Bundesbank	Bundesbank
+budget	Budget	Budget
+buffers	Buffers	Buffers
+buhrmannxtetterode	Buhrmann Tetterode	Buhrmann Tetterode
+buitenland	Buitenland	Abroad
+buitenlanders	Buitenlanders	Foreigners
+buitenwereld	Buitenwereld	Outside world
+bulgarije	Bulgarije	Bulgaria
+buma	Buma	Buma
+bureau	Bureau	Desk
+bureaucratie	Bureaucratie	Bureaucracy
+burgemeester	Burgemeester	Mayor
+burgers	Burgers	Citizens
+bush	Bush	Bush
+bussen	Bussen	Buses
+buurland	Buurland	Neighboring country
+buy	Buy	Buy
+cac	CAC-index	CAC-index
+cacao	Cacao	Cacao
+call	Call	Call
+cameron	Cameron	Cameron
+campagne	Campagne	Campaign
+campinaxmelkunie	Campina Melkunie	Campina Melkunie
+campus	Campus	Campus
+canada	Canada	Canada
+canon	Canon	Canon
+cao	CAO	CAO
+capaciteit	Capaciteit	Capacity
+carrefour	Carrefour	Carrefour
+carriere	Carriäre	Career
+cash	Cash	Cash
+cashflow	Cashflow	Cash flow
+casino	Casino	Casino
+catalaanse	Catalaanse	Catalan
+cbs	CBS	Statistics Netherlands
+cda	CDA	CDA
+cds	CDS	CDS
+cduxduitsland	CDU Duitsland	CDU Germany
+celstraf	Celstraf	Prison sentence
+centralexbank	Centrale bank	Central bank
+ceteco	Ceteco	Ceteco
+cfo	CFO	CFO
+chaos	Chaos	Chaos
+chauffeurs	Chauffeurs	Drivers
+chemie	Chemie	Chemistry
+chevron	Chevron	Chevron
+chicago	Chicago	Chicago
+chili	Chili	Chili
+china	China	China
+chips	Chips	Chips
+chirac	Chirac	Chirac
+christendemocratische	Christen Democratische	Christen Democratische
+christenrepublikeinen	Christen Republikeinen	Christen Republikeinen
+christenunie	ChristenUnie	ChristenUnie
+chrysler	Chrysler	Chrysler
+cijferen	Cijferen	Figures
+cijfers	Cijfers	Numbers
+cisco	Cisco	Cisco
+citibank	Citibank	Citibank
+clearing	Clearing	Clearing
+cliânt	Cliânt	Client
+clinton	Clinton	Clinton
+cmg	CMG	CMG
+cnv	CNV	CNV
+coalitie	Coalitie	Coalition
+cocacola	Coca-Cola	Coca-Cola
+cohen	Cohen	Cohen
+collectief	Collectief	Collective
+collega	Collega	Colleague
+colombia	Colombia	Colombia
+comitÇ	ComitÇ	Committee
+commercial	Commercial	Commercial
+commercieel	Commercieel	Commercial
+commerzbank	Commerzbank	Commerzbank
+commissarissen	Commissarissen	Commissioners
+commissie	Commissie	Commission
+commissionair	Commissionair	Commissioner
+commotie	Commotie	Commotion
+communicatie	Communicatie	Communication
+communisten	Communisten	Communists
+componenten	Componenten	Components
+computer	Computer	Computer
+concerns	Concerns	Concerns
+concessie	Concessies	Concessions
+concessies	Concessies	Concessions
+concurrentie	Concurrentie	Competition
+conferentie	Conferentie	Conference
+conflict	Conflict	Conflict
+conglomeraat	Conglomeraat	Conglomerate
+congres	Congres	Congress
+conjunctuur	Conjunctuur	Business cycle
+conservatief	Conservatief	Conservative
+conservatieven	Conservatieven	Conservatives
+consolidatie	Consolidatie	Consolidation
+consortium	Consortium	Consortium
+constructie	Constructie	Construction
+consultancy	Consultancy	Consultancy
+consumenten	Consumenten	Consumers
+consumentenbond	Consumentenbond	Consumers Association
+consumentenvertrouwen	Consumentenvertrouwen	Consumer confidence
+consumptie	Consumptie	Consumption
+contact	Contact	Contact
+containers	Containers	Containers
+context	Context	Context
+continuãteit	Continuãteit	Continuity
+contracten	Contracten	Contracts
+convenant	Convenant	Covenant
+conventie	Conventie	Convention
+converteerbaar	Converteerbaar	Convertible
+coîperatie	Coîperatie	Cooperative
+corio	Corio	Corio
+corporatexgovernance	Corporate Governance	Corporate Governance
+corporatie	Corporatie	Corporation
+corruptie	Corruptie	Corruption
+corus	Corus	Corus
+coupon	Coupon	Coupon
+covid	COVID	COVID
+cpb	Cpb	Cpb
+cpixindex	CPI-index	CPI-index
+crediteuren	Crediteuren	creditors
+creditxsuisse	Credit Suisse	Credit Suisse
+criminaliteit	Criminaliteit	Crime
+crisis	Crisis	Crisis
+criterium	Criterium	Criterion
+crucell	Crucell	Crucell
+csm	CSM	CSM
+cuba	Cuba	Cuba
+cultuur	Cultuur	Culture
+curacao	Curaáao	Curacao
+curator	Curator	Curator
+cursus	Cursus	Class
+cv	Curriculum Vitae	Resume
+cyclus	Cyclus	Cycle
+cyprus	Cyprus	Cyprus
+daartegenover	Daartegenover	On the other hand
+daf	Daf	Daf
+daimlerxchryslerbenz	Daimler AG	Daimler AG
+dal	Dal	Valley
+danone	Danone	Danone
+data	Data	Data
+daxxindex	DAX-index	DAX-index
+deadline	Deadline	Deadline
+dealen	Dealen	Dealing
+dealers	Dealers	Dealers
+deals	Deals	Deals
+debat	Debat	Debate
+debiteuren	Debiteuren	Debtors
+deelnemen	Deelnemen	Participate
+deelnemer	Deelnemer	Participant
+deelnemingen	Deelnemingen	Participations
+deelstaat	Deelstaat	State
+defensie	Defensie	defence
+deflatie	Deflatie	Deflation
+dekker	Dekker	Dekker
+dekking	Dekking	Coverage
+dekkingsgraad	Dekkingsgraad	Coverage ratio
+delegatie	Delegatie	Delegation
+dell	Dell	Dell
+deloitte	Deloitte	Deloitte
+delors	Delors	Delors
+deltaxairlines	Delta Airlines	Delta Airlines
+deltaxlloyd	Delta Lloyd	Delta Lloyd
+demissionair	Demissionair	Outgoing
+democratie	Democratie	Democracy
+democratisch	Democratisch	Democratic
+demonstratie	Demonstratie	Demonstration
+demontratie	Demonstratie	Demonstration
+denemarken	Denemarken	Denmark
+denktank	Denktank	Thinktank
+deponeren	Deponeren	Deposit
+depressie	Depressie	Depression
+deregulering	Deregulering	Deregulation
+derivaten	Derivaten	Derivatives
+desinvestering	Desinvestering	Divestment
+deskundige	Deskundige	Expert
+detailhandel	Detailhandel	Retail
+deur	Deur	Door
+deutschexbank	Deutsche Bank	Deutsche Bank
+deutschextelekom	Deutsche Telekom	Deutsche Telekom
+devaluatie	Devaluatie	Devaluation
+dexia	Dexia	Dexia
+dialoog	Dialoog	Dialogue
+diefstal	Diefstal	Theft
+diensten	Diensten	Services
+dienstensector	Dienstensector	Service sector
+dienstverlening	Dienstensector	Service sector
+digitaal	Digitaal	Digital
+digitalisering	Digitalisering	Digitization
+dijkstra	Dijkstra	Dijkstra
+dijsselbloem	Dijsselbloem	Dijsselbloem
+dilemma	Dilemma	Dilemma
+diplomaat	Diplomaat	Diplomat
+directie	Directie	Managing board
+discipline	Discipline	Discipline
+discontovoet	Discontovoet	Discount rate
+discriminatie	Discriminatie	Discrimination
+discussie	Discussie	Discussion
+disneyxpixar	Disney Pixar	Disney Pixar
+distributie	Distributie	Distribution
+diversificatie	Diversificatie	Diversification
+diversiteit	Diversiteit	Diversity
+dividend	Dividend	Dividend
+divisies	Divisies	Divisions
+dmark	Dmark	Dmark
+dnb	DNB	DNB
+docent	Docent	Lecturer
+dochterbedrijf	Dochterbedrijf	Subsidiary
+doden	Doden	Kill
+doelgroep	Doelgroep	Target audience
+doelstelling	Doelstelling	Objective
+doelwit	Doelwit	Target
+dollar	Dollar	Dollar
+donner	Donner	Donner
+doorsnee	Doorsnee	Average
+doorstart	Doorstart	Restart
+dorp	Dorp	Village
+dossier	Dossier	File
+douane	Douane	Customs
+douglas	Douglas	Douglas
+dowxjonesindex	Dow-Jones index	Dow Jones index
+dpa	DPA	DPA
+draagvlak	Draagvlak	Support base
+draghi	Draghi	Draghi
+draka	Draka	Draka
+drank	Drank	Drink
+dreiging	Dreiging	Threat
+drempel	Drempel	Threshold
+dresdner	Dresdner	Dresdner
+dsb	DSB	DSB
+dsm	DSM	DSM
+dubai	Dubai	Dubai
+duisenberg	Duisenberg	Duisenberg
+duitsland	Duitsland	Germany
+dupont	Dupont	Dupont
+duurzame	Duurzaamheid	Sustainability
+dxzesenzestig	D66	D66
+dynamiek	Dynamiek	Dynamism
+easyjet	Easyjet	Easyjet
+ebita	EBITA	EBITA
+ecb	ECB	ECB
+ecommerce	E-commerce	E-commerce
+economen	Economen	Economists
+economie	Economie	Economy
+ect	ECT	ECT
+ecu	ECU	ECU
+edf	EDF	EDF
+eenwording	Eenwording	Unification
+eerstexkamer	Eerste Kamer	Senate
+eeuwwisseling	Eeuwwisseling	Turn of the century
+effect	Effect	Effect
+effecten	Effecten	Effects
+effectenverkeer	Effectenverkeer	Securities transactions
+effectief	Effectief	Effective
+egypte	Egypte	Egypt
+eib	EIB	EIB
+eigenaren	Eigenaren	Owners
+eigendom	Eigendom	Property
+eigenxvermogen	Eigen vermogen	Equity
+eiland	Eiland	Island
+elektriciteit	Elektriciteit	Electricity
+elektronica	Elektronica	Electronics
+element	Element	Element
+email	E-mail	E-mail
+emissierechten	Emissie-rechten	Emission allowances
+emissies	Emissies	Emissions
+ems	EMS	EMS
+emu	EMU	EMU
+endemol	Endemol	Endemol
+eneco	Eneco	Eneco
+energie	Energie	Energy
+energiebesparing	Energiebesparing	Energy saving
+energiemarkt	Energiemarkt	Energy market
+energiesector	Energiesector	Energy sector
+energy	Energy	Energy
+enquàte	Enquàte	Survey
+enron	Enron	Enron
+entertainment	Entertainment	Entertainment
+eon	Eon	Eon
+eplus	Eplus	Eplus
+erasmus	Erasmus	Erasmus
+erdogan	Erdogan	Erdogan
+erfenis	Erfenis	Heritage
+ericsson	Ericsson	Ericsson
+ervaring	Ervaring	Experience
+esm	ESM	ESM
+essent	Essent	Essent
+estland	Estland	Estonia
+eu	Europese Unie	Europese Unie
+eucommissaris	EU commissaris	EU Commissioner
+eurlings	Eurlings	Eurlings
+euro	Euro	Euro
+euronext	Euronext	Euronext
+europa	Europa	Europe
+europarlement	Europarlement	European Parliament
+eurostat	Eurostat	Eurostat
+eurozone	Eurozone	Eurozone
+euvoorzitter	EU voorzitter	EU president
+euxlidstaten	EU lidstaten	EU member states
+euxministers	EU ministers	EU ministers
+evaluatie	Evaluatie	Evaluation
+evenement	Evenement	Event
+experiment	Experiment	Experiment
+expert	Expert	Expert
+exploitant	Exploitant	Operator
+explosie	Explosie	Explosion
+export	Export	Export
+exporteurs	Exporteurs	Exporters
+exxonmobile	ExxonMobil	ExxonMobil
+ey	Ernst & Young	Ernst & Young
+ez	EZ	EZ
+fabricage	Fabricage	Manufacturing
+fabriek	Fabriek	Factory
+fabrikant	Fabrikant	Manufacturer
+facebook	Facebook	Facebook
+faciliteiten	Faciliteiten	Facilities
+factuur	Factuur	Invoice
+faillissement	Faillissement	Bankruptcy
+familiebedrijf	Familiebedrijf	Family business
+farmaceut	Farmaceut	Pharmaceutical
+fed	Federal Reserve	Federal Reserve
+federaal	Federaal	Federal
+federatie	Federatie	Federation
+feit	Feit	Fact
+fiat	Fiat	Fiat
+fietsen	Fietsen	Bicycles
+filialen	Filialen	Affiliates
+filippijnen	Filippijnen	Philippines
+films	Films	Movies
+financialxtimes	Financial Times	Financial Times
+financieel	Financieel	Financial
+financieelexdagblad	Financieele Dagblad	Financieelex Dagblad
+financielexmarkten	Financiâle markten	Financiâle markten
+financielexsector	Financiâle sector	Financiâle sector
+financien	Financiân	Financiân
+financiering	Financiering	Financing
+financiers	Financiers	Financiers
+finland	Finland	Finland
+fiod	FIOD	FIOD
+firma	Firma	Firm
+fiscaal	Fiscaal	Tax
+fitch	Fitch	Fitch
+flexibilisering	Flexibilisering	Flexibility
+fme	FME	FME
+fnv	FNV	FNV
+fokker	Fokker	Fokker
+fondsbeheerder	Fondsbeheerder	Fund manager
+fondsen	Fondsen	Funds
+ford	Ford	Ford
+formatie	Formatie	Formation
+fortis	Fortis	Fortis
+fox	Fox	Fox
+fractie	Fractie	Fraction
+fractieleider	Fractieleider	Group leader
+francextelecom	France TÇlÇcom	France TÇlÇcom
+frankfurt	Frankfurt	Frankfurt
+frankrijk	Frankrijk	France
+fraude	Fraude	Fraud
+frieslandcampina	FrieslandCampina	FrieslandCampina
+fruit	Fruit	Fruit
+ftse	FTSE	FTSE
+fugro	Fugro	Fugro
+functie	Functie	Position
+functionarissen	Functionarissen	Officials
+fundamenteel	Fundamenteel	Fundamentally
+fusie	Fusie	Merger
+futures	Futures	Futures
+fysiek	Fysiek	Physical
+galapagos	Galapagos	Galapagos
+gamma	Gamma	Gamma
+garanties	Garanties	Guarantees
+gas	Gas	Gas
+gasprijs	Gasprijs	Gas price
+gazprom	Gazprom	Gazprom
+geavanceerde	Geavanceerd	Advanced
+gebaren	Gebaren	Gestures
+gebouw	Gebouw	Building
+gebruiker	Gebruiker	User
+gedeputeerde	Gedeputeerde	Deputy
+gedetailleerd	Gedetailleerd	Detailed
+gedragscode	Gedragscode	Code of Conduct
+gedupeerden	Gedupeerden	Victims
+gehoor	Gehoor	Hear
+geld	Geld	Money
+geldgroei	Geldgroei	Money growth
+geldhoeveelheid	Geldhoeveelheid	Money supply
+geldmarkt	Geldmarkt	Money market
+geldschieters	Geldschieters	Lenders
+geldstromen	Geldstromen	Money flows
+geloofwaardigheid	Geloofwaardigheid	Credibility
+gemeenschappelijk	Gemeenschappelijk	Common
+gemeente	Gemeente	Township
+geneesmiddelen	Geneesmiddelen	Medicines
+generalxmotors	General Motors	General Motors
+generaties	Generaties	Generations
+geneve	Genäve	Geneva
+geoxpolitiek	Geo-politiek	Geo-politiek
+gepensioneerden	Gepensioneerden	Retirees
+gerechtshof	Gerechtshof	Court of Justice
+geregistreerd	Geregistreerd	Registered
+geschiedenis	Geschiedenis	History
+gespecialiseerd	Gespecialiseerd	Specialized
+gesprek	Gesprek	Conversation
+getronics	Getronics	Getronics
+getuigen	Getuigen	Witnesses
+geus	Geus	Geus
+gevangenis	Gevangenis	Jail
+geveke	Geveke	Geveke
+gezag	Gezag	Authority
+gezamenlijk	Gezamenlijk	Together
+gezin	Gezin	Family
+gezondheid	Gezondheid	Health
+gezondheidszorg	Gezondheidszorg	healthcare
+glas	Glas	Glass
+globalisering	Globalisering	Globalization
+goederen	Goederen	Goods
+goldmansachs	Goldman Sachs	Goldman Sachs
+goodwill	Goodwill	Goodwill
+google	Google	Google
+gorbatsjov	Gorbatsjov	Gorbachev
+goud	Goud	gold
+goudprijs	Goudprijs	Gold price
+gouverneur	Gouverneur	Governor
+graadmeter	Graadmeter	Gauge
+greenpeace	Greenpeace	Greenpeace
+greenspan	Greenspan	Greenspan
+grenzen	Grenzen	Limits
+griekenland	Griekenland	Greece
+groeicijfer	Groeicijfer	Growth rate
+groeimarkt	Groeimarkt	Growth market
+groeiraming	Groeiraming	Growth estimate
+groeitempo	Groeitempo	Growth rate
+groeiversnelling	Groeiversnelling	Growth acceleration
+groenink	Groenink	Groenink
+groenlinks	GroenLinks	Green left
+groenten	Groenten	Vegetables
+groep	Groep	Group
+grolsch	Grolsch	Grolsch
+gronden	Gronden	Grounds
+grondgebied	Grondgebied	Territory
+grondstoffenmarkt	Grondstoffenmarkt	Commodity market
+grondstofprijs	Grondstofprijs	Raw material price
+grondwet	Grondwet	Constitution
+grontmij	Grontmij	Grontmij
+grootaandeelhouder	Grootaandeelhouder	Major shareholder
+groothandel	Groothandel	Wholesale
+grootscheeps	Grootscheeps	Large scale
+gros	Gros	Gros
+gucci	Gucci	Gucci
+hackers	Hackers	Hackers
+hagemeyer	Hagemeyer	Hagemeyer
+hakken	Hakken	Heels
+halfgeleiders	Halfgeleiders	Semiconductors
+handel	Handel	Trade
+handelshuis	Handelshuis	Trading house
+handelspartner	Handelspartner	Trading partner
+handen	Handen	Hands
+hangxsengindex	Hang-Seng index	Hang-Seng index
+harmonisatie	Harmonisatie	Harmonization
+havens	Havens	Ports
+hbg	HBG	HBG
+hcs	HCS	HCS
+hedgefonds	Hedgefonds	Hedge fund
+heffingen	Heffingen	Levies
+heijmans	Heijmans	Heijmans
+heineken	Heineken	Heineken
+heinz	Heinz	Heinz
+hema	Hema	Hema
+herfinanciering	Herfinanciering	Refinancing
+herkomst	Herkomst	Origin
+hermans	Hermans	Hermans
+herschikking	Herschikking	Recast
+herstructureren	Herstructureren	Restructure
+hervorming	Hervorming	Reform
+herziening	Herziening	Review
+hewlettpackard	Hewlett-Packard	Hewlettpackard
+hoechst	Hoechst	Hoechst
+hoekstra	Hoekstra	Hoekstra
+hofxvanxjustitie	Hof van Justitie	Court of Justice
+hogerberoep	Hoger beroep	Appeal
+hogeschool	Hogeschool	University
+holding	Holding	Holding
+hollande	Hollande	Hollande
+hongarije	Hongarije	Hungary
+hongkong	Hongkong	Hong-Kong
+honoreren	Honoreren	Honor
+hoofd	Hoofd	Head
+hoofdkantoor	Hoofdkantoor	Headquarters
+hooggerechtshof	Hooggerechtshof	Supreme Court
+hoogleraar	Hoogleraar	Professor
+hoogovens	Hoogovens	Blast furnaces
+hoorzitting	Hoorzitting	Hearing
+horeca	Horeca	catering industry
+hotels	Hotels	Hotels
+houdstermaatschappij	Houdstermaatschappij	Holding company
+hsbc	HSBC	HSBC
+huawei	Huawei	Huawei
+huisartsen	Huisartsen	GPs
+huishouden	Huishouden	Household
+huisvesting	Huisvesting	Housing
+huisxvanxafgevaardigden	Huis van Afgevaardigden	Huis van Afgevaardigden
+huizen	Huizen	Houses
+huizenmarkt	Huizenmarkt	Housing market
+huizenprijs	Huizenprijs	House price
+hunterxdouglas	HunterDouglas	HunterDouglas
+huren	Huren	Rent
+huurders	Huurders	Tenants
+huwelijk	Huwelijk	Wedding
+hybride	Hybride	Hybrid
+hypotheken	Hypotheken	Mortgages
+hyundai	Hyundai	Hyundai
+ibm	IBM	IBM
+ict	ICT	ICT
+ideeân	Ideeân	Ideas
+identiteit	Identiteit	Identity
+ie	IE	IE
+iea	IEA	IEA
+ierland	Ierland	Ireland
+ifoxindicator	IFO-indicator	IFO-indicator
+ihc	IHC	IHC
+ijsland	Ijsland	Iceland
+ijzererts	Ijzererts	Iron ore
+ikea	Ikea	Ikea
+imf	IMF	IMF
+immigratie	Immigratie	Immigration
+import	Import	Import
+imtech	Imtech	Imtech
+incidenteel	Incidenteel	Incidental
+index	Index	Index
+india	India	India
+indicator	Indicator	Indicator
+individueel	Individueel	Individually
+indonesie	Indonesiâ	Indonesia
+industrie	Industrie	Industry
+industrielanden	Industrielanden	Industrialized countries
+industrielexproductie	Industriâle productie	Industrial production
+inflatie	Inflatie	Inflation
+informateur	Informateur	Informer
+informatie	Informatie	Information
+informatietechnologie	Informatietechnologie	Information technology
+informeel	Informeel	Informal
+infrastructuur	Infrastructuur	Infrastructure
+ingenieur	Ingenieur	Engineer
+inggroup	ING	ING
+initiatief	Initiatief	Initiative
+initiatiefnemer	Initiatiefnemer	Initiator
+inkomen	Inkomen	Income
+inkomsten	Inkomsten	Income
+inkoopmanagersindex	PMI-index	PMI-index
+inkopen	Inkopen	Shopping
+inlichten	Inlichten	Inform
+inlijven	Inlijven	Enlisting
+innovatie	Innovatie	Innovation
+inperken	Inperken	Restrict
+inschrijving	Inschrijving	Registration
+inseexindicator	INSEE-indicator	INSEE-indicator
+inspectie	Inspectie	Inspection
+installaties	Installaties	Installations
+instantie	Instantie	Authority
+instrument	Instrument	Instrument
+integratie	Integratie	Integration
+intel	Intel	Intel
+intelligentie	Intelligentie	Intelligence
+intensief	Intensief	Intensive
+intentie	Intentie	Intention
+interbancair	Interbancair	Interbank
+interessant	Interessant	Interesting
+internationaal	Internationaal	International
+internet	Internet	Internet
+internetbedrijven	Internetbedrijven	Internet companies
+interventies	Interventies	Interventions
+introductie	Introductie	Introduction
+inventarisatie	Inventarisatie	Assessment
+investeerders	Investeerders	Investors
+investering	Investering	Investment
+investeringsfonds	Investeringsfonds	Investment fund
+investeringsmaatschappij	Investeringsmaatschappij	Investment company
+invloed	Invloed	Influence
+inwoner	Inwoner	Resident
+inzicxht	Inzicht	Insight
+iphone	Iphone	Iphone
+irak	Irak	Iraq
+iran	Iran	Iran
+isis	ISIS	ISIS
+islam	Islam	Islam
+israel	Israâl	Israel
+italie	Italiâ	Italy
+itbedrijven	IT bedrijven	IT companies
+jaarvergadering	Jaarvergadering	Annual meeting
+jaarverslag	Jaarverslag	Annual report
+jaarwisseling	Jaarwisseling	New years eve
+jagen	Jagen	To hunt
+japan	Japan	Japan
+jargon	Jargon	Jargon
+jeltsin	Jeltsin	Yeltsin
+jeugd	Jeugd	Youth
+joegoslavie	Joegoslaviâ	Yugoslavia
+johnson	Johnson	Johnson
+jointxventure	Joint-venture	Joint-venture
+jongeren	Jongeren	Young people
+jonker	Jonker	Jonker
+joop	Joop	Joop
+jorritsma	Jorritsma	Jorritsma
+jospin	Jospin	Jospin
+journalisten	Journalisten	Journalists
+jpxmorganxstanleyxchase	JP Morgan Stanley Chase	JP Morgan Stanley Chase
+jumbo	Jumbo	Jumbo
+jurist	Jurist	Jurist
+juristen	Juristen	Lawyers
+jury	Jury	Jury
+justitie	Justitie	Justice
+kaarten	Kaarten	Cards
+kabel	Kabel	Cable
+kabelbedrijf	Kabelbedrijf	Cable company
+kabels	Kabels	Cables
+kabinet	Kabinet	Cabinet
+kadaster	Kadaster	Land Registry
+kamer	Kamer	Room
+kamercommissie	Kamercommissie	Chamber committee
+kamerlid	Kamerlid	Member of Parliament
+kamervoorzitter	Kamervoorzitter	President of the Chamber
+kamerxvanxkoophandel	Kamer van Koophandel	Chamber of Commerce
+kanaal	Kanaal	Channel
+kanker	Kanker	Cancer
+kantoren	Kantoren	Offices
+kantorenmarkt	Kantorenmarkt	Office market
+kapitaal	Kapitaal	Capital
+kapitaaleis	Kapitaaleis	Capital requirement
+kapitaalgoederen	Kapitaalgoederen	Capital goods
+kapitaalinjectie	Kapitaalinjectie	Capital injection
+kapitaalmarkt	Kapitaalmarkt	Capital market
+kartel	Kartel	Cartel
+kassen	Kassen	Greenhouses
+kasstroom	Kasstroom	Cash flow
+kasxbank	Kasbank	Kasbank
+katholiek	Katholiek	Catholic
+kbc	KBC	KBC
+kempenxenxco	Van Lanschot Kempen	Van Lanschot Kempen
+kennis	Kennis	Knowledge
+kerken	Kerken	Churches
+kernactiviteiten	Kernactiviteiten	Core activities
+kernenergie	Kernenergie	Nuclear energy
+keuken	Keuken	kitchen
+keulen	Keulen	Cologne
+kiev	Kiev	Kiev
+kiezer	Kiezer	Voter
+kinderen	Kinderen	Children
+kinderopvang	Kinderopvang	Day-care
+klanten	Klanten	Customers
+kleinbedrijf	Kleinbedrijf	Small company
+klimaat	Klimaat	climate
+kloven	Kloven	Gorges
+koeien	Koeien	Cows
+koenders	Koenders	Koenders
+koers	Koers	Course
+koersverlies	Koersverlies	Price loss
+koersverloop	Koersverloop	Price development
+koerswinst	Koerswinst	Price gain
+koeweit	Koeweit	Kuwait
+koffie	Koffie	Coffee
+kohl	Kohl	Kohl
+kok	Kok	Cook
+kolen	Kolen	Coal
+kolencentrales	Kolencentrales	Coal-fired power stations
+koningshuis	Koningshuis	Royal family
+koolmees	Koolmees	Great Tit
+koopkracht	Koopkracht	Purchasing power
+kopenhagen	Kopenhagen	Copenhagen
+koper	Koper	to buy
+kortingen	Kortingen	Discounts
+kortlopende	Kortlopende	Short-term
+kosovo	Kosovo	Kosovo
+kosten	Kosten	Cost
+kostenbesparing	Kostenbesparing	Cost reduction
+kostprijs	Kostprijs	Cost price
+kpmg	KPMG	KPMG
+kpn	KPN	KPN
+kraken	Kraken	Crack
+krediet	Krediet	Credit
+kredietbeoordelaar	Kredietbeoordelaar	Credit rating agency
+kredietstatus	Kredietstatus	Credit status
+kredietverlening	Kredietverlening	Lending
+kredietwaardigheid	Kredietwaardigheid	Creditworthiness
+krim	Krim	Crimea
+kroatie	Kroatiâ	Croatia
+kunst	Kunst	Art
+kunststof	Kunststof	Plastic
+kwalitatief	Kwalitatief	Qualitatively
+kwartaalcijfers	Kwartaalcijfers	Quarterly figures
+laboratorium	Laboratorium	Laboratory
+lagarde	Lagarde	Lagarde
+lagerhuis	Lagerhuis	House of Commons
+landbouw	Landbouw	Agriculture
+landelijk	Landelijk	Rural
+landen	Landen	Nations
+landschap	Landschap	Landscape
+langlopende	Langlopende	Long-term
+lasten	Lasten	Charges
+latijnsxamerika	Latijns-Amerika	Latin America
+laurus	Laurus	Laurus
+lease	Lease	Lease
+lee	Lee	Lee
+leegstand	Leegstand	Vacancy
+leerlingen	Leerlingen	Pupils
+lehmanxbrothers	Lehman Brothers	Lehmanxbrothers
+leidinggevende	Leidinggevende	Supervisor
+lelystad	Lelystad	Lelystad
+lenen	Lenen	To lend
+leningen	Leningen	Loans
+letland	Letland	Latvia
+levensmiddelen	Levensmiddelen	Foodstuffs
+levensverzekeraar	Levensverzekeraar	Life insurer
+leveranciers	Leveranciers	Suppliers
+levering	Levering	Delivery
+lezing	Lezing	Reading
+liberalen	Liberalen	Liberals
+liberalisering	Liberalisering	Liberalization
+liberia	Liberia	Liberia
+licentie	Licentie	License
+lichaam	Lichaam	Body
+lidmaatschap	Lidmaatschap	Membership
+lidstaten	Lidstaten	Member States
+liffe	Liffe	Liffe
+liften	Liften	Hitchhike
+lijstje	Lijstje	List
+limiet	Limiet	Limit
+liquidatie	Liquidatie	Liquidation
+liquiditeit	Liquiditeit	Liquidity
+litouwen	Litouwen	Lithuania
+lloyds	Lloyds	Lloyds
+lng	LNG	LNG
+lobby	Lobby	Lobby
+lockdown	Lockdown	Lockdown
+logica	Logica	Logic
+logistiek	Logistiek	Logistics
+logo	Logo	Logo
+loodsen	Loodsen	Sheds
+looneisen	Looneisen	Wage demands
+loonkosten	Loonkosten	Labour costs
+loononderhandelingen	Loononderhandelingen	Wage negotiations
+loonstijging	Loonstijging	Wage increase
+loopbaan	Loopbaan	Career
+looptijd	Looptijd	Duration
+lopendexrekening	Lopende Rekening	Current account
+lto	LTO	LTO
+lubbers	Lubbers	Lubbers
+lucasxvbols	Lucas Bols	Lucas Bols
+luchthavens	Luchthavens	Airports
+luchtvaart	Luchtvaart	Aviation
+lufthansa	Lufthansa	Lufthansa
+lunchen	Lunchen	Having lunch
+luxemburg	Luxemburg	Luxembourg
+maarten	Maarten	Maarten
+maastricht	Maastricht	Maastricht
+maasvlakte	Maasvlakte	Maasvlakte
+maatregel	Maatregel	Measure
+maatschappelijk	Maatschappelijk	Societal
+maatschappijen	Maatschappijen	Companies
+maatstaf	Maatstaf	Benchmark
+maatwerk	Maatwerk	Customization
+machines	Machines	Machines
+macht	Macht	Power
+macron	Macron	Macron
+macroxeconomisch	Macro-economisch	Macro-economisch
+madrid	Madrid	Madrid
+maersk	Maersk	Maersk
+major	Major	Major
+makelaar	Makelaar	Realestate agent
+maleisie	Maleisie	Malaysia
+management	Management	Management
+mandaat	Mandaat	Mandate
+marge	Marge	Margin
+marine	Marine	Marine
+marketing	Marketing	Marketing
+markt	Markt	Market
+marktaandeel	Marktaandeel	Market share
+markteconomie	Markteconomie	Market economy
+marktkapitalisatie	Marktkapitalisatie	Market capitalization
+marktomstandigheden	Marktomstandigheden	Market conditions
+marktpartij	Marktpartij	Market party
+marktpositie	Marktpositie	Market position
+marktrente	Marktrente	Market interest
+marktsector	Marktsector	Market sector
+marktwaarde	Marktwaarde	Market value
+marktwerking	Marktwerking	Market forces
+marokko	Marokko	Morocco
+martinair	Martinair	Martinair
+massa	Massa	Mass
+may	May	May
+mcdonalds	McDonalds	McDonalds
+mckinsey	McKinsey	McKinsey
+mededeling	Mededeling	Statement
+mededinging	Mededinging	Competition
+mededingingsautoriteiten	Mededingingsautoriteiten	Competition authorities
+medewerkers	Medewerkers	Staff members
+media	Media	Media
+medicijn	Medicijn	Medicine
+medisch	Medisch	Medical
+meerderheidsbelang	Meerderheidsbelang	Majority interest
+meerekenen	Meerekenen	Calculate
+meespierson	Mees Pierson	Mees Pierson
+megawatt	Megawatt	Megawatt
+meijer	Meijer	Meijer
+melk	Melk	Milk
+melkert	Melkert	Melkert
+menselijk	Menselijk	Human
+mensenrechten	Mensenrechten	Human Rights
+mercedes	Mercedes	Mercedes
+merck	Merck	Merck
+merkbaar	Merkbaar	Noticeable
+merkel	Merkel	Merkel
+merrillxlynch	Merrill Lynch	Merrill Lynch
+mesten	Mesten	Fattening
+metaal	Metaal	Metal
+metro	Metro	Subway
+mexico	Mexico	Mexico
+mhp	MHP	MHP
+microsoft	Microsoft	Microsoft
+middellange	Middellange	Medium
+middenklasse	Middenklasse	Mid-range
+middenoosten	Midden-Oosten	Middle East
+midkap	Midkap	Midcap
+migratie	Migratie	Migration
+mijnbouw	Mijnbouw	Mining
+milieu	Milieu	Environment
+militair	Militair	Military
+miljardair	Miljardair	Billionaire
+miljoenennota	Miljoenennota	Budget Memorandum
+minderheden	Minderheden	Minorities
+minderheid	Minderheid	Minority
+minderheidsbelang	Minderheidsbelang	Minority interest
+minimumloon	Minimumloon	Minimum wage
+minister	Minister	Minister
+ministerie	Ministerie	Ministry
+ministerxnl	Minister Nederland	Minister Netherlands
+ministerxpresident	Minister president	Prime Minister
+ministerxpresidentxduitsland	Minister president Duitsland	Prime Minister of Germany
+ministerxpresidentxfrankrijk	Minister president France	Prime Minister France
+ministerxpresidentxgriekenland	Minister president Griekenland	Prime Minister Greece
+ministerxpresidentxitalie	Minister president Italiâ	Prime Minister Italy
+ministerxpresidentxnl	Minister president Nederland	Prime Minister of the Netherlands
+ministerxpresidentxrusland	Minister president Rusland	Prime Minister Russia
+ministerxpresidentxturkije	Minister president Turkije	Prime Minister of Turkey
+ministerxpresidentxverenigdxkoninkrijk	Minister president Verenigd Koninkrijk	Prime Minister United Kingdom
+misdaad	Misdaad	Crime
+missie	Missie	Mission
+mitsubishi	Mitsubishi	Mitsubishi
+mitterrand	Mitterrand	Mitterrand
+mixen	Mixen	To mix
+mkbxbedrijven	MKB bedrijven	SMEs
+mkbxnederland	MKB Nederland	MKB Nederland
+mobiel	Mobiel	Mobile
+mobile	Mobile	Mobile
+mobiliteit	Mobiliteit	Mobility
+mode	Mode	Fashion
+modellen	Modellen	Models
+modernisering	Modernisering	Modernization
+moederbedrijf	Moederbedrijf	Parent company
+mondiaal	Mondiaal	Global
+monetair	Monetair	Monetary
+monopolie	Monopolie	Monopoly
+monti	Monti	Monti
+moodys	Moodys	Moodys
+moorden	Moorden	Murders
+moskou	Moskou	Moscow
+moslims	Moslims	Muslims
+motie	Motie	Motion
+motieven	Motieven	Motifs
+motorola	Motorola	Motorola
+msci	MSCI	MSCI
+muller	Muller	Muller
+multinational	Multinational	Multinational
+mÅnchen	MÅnchen	Munich
+munt	Munt	Mint
+muntunie	Muntunie	Currency union
+muntxfrankrijk	Munt Frankrijk	Coin France
+muntxitalie	Munt Italiâ	Coin Italy
+muntxnederland	Munt Nederland	Coin Netherlands
+muntxrusland	Munt Rusland	Coin Russia
+muntxspanje	Munt Spanje	Coin Spain
+muntxverenigdxkoninkrijk	Munt Verenigd Koninkrijk	Mint United Kingdom
+murdoch	Murdoch	Murdoch
+museum	Museum	Museum
+musk	Musk	Musk
+muziek	Muziek	Music
+naamlozexvenootschap	Naamloze Vennootschap	Limited Liability Company
+naleving	Naleving	Compliance
+nasdeq	Nasdeq	Nasdeq
+nationaal	Nationaal	National
+nationalexnederlanden	Nationale Nederlanden	Nationale Nederlanden
+nationalisatie	Nationalisatie	Nationalization
+navo	NAVO	NATO
+ncw	NCW	NCW
+nedcar	Nedcar	Nedcar
+nederland	Nederland	The Netherlands
+nedlloyd	Nedlloyd	Nedlloyd
+nestle	NestlÇ	Nestle
+netflix	Netflix	Netflix
+netten	Netten	Nets
+netwerk	Netwerk	Network
+nibc	NIBC	NIBC
+nieuwbouw	Nieuwbouw	New construction
+nieuwenhuyzen	Nieuwenhuyzen	Nieuwenhuyzen
+nieuwkomers	Nieuwkomers	Newcomers
+nieuws	Nieuws	News
+nieuwzeeland	Nieuw Zeeland	New Zealand
+nigeria	Nigeria	Nigeria
+nijmegen	Nijmegen	Nijmegen
+nijpels	Nijpels	Nipples
+nike	Nike	Nike
+nikkei	Nikkei	Nikkei
+nikkel	Nikkel	Nickel
+nissan	Nissan	Nissan
+nma	NMA	NMA
+nmb	NMB	NMB
+nokia	Nokia	Nokia
+nomura	Nomura	Nomura
+noordxkorea	Noord Korea	North Korea
+noordzee	Noordzee	North Sea
+noorwegen	Noorwegen	Norway
+norm	Norm	Norm
+northwestxairlines	Northwest Airlines	Northwest Airlines
+nos	NOS	NOS
+notarissen	Notarissen	Notaries
+noteren	Noteren	To note
+noteringen	Noteringen	Quotes
+novartis	Novartis	Novartis
+npm	NPM	NPM
+nrc	NRC	NRC
+ns	NS	Ns
+nucleaire	Nucleair	Nuclear
+numico	Numico	Numico
+nuon	Nuon	Nuon
+nutreco	Nutreco	Nutreco
+nutricia	Nutricia	Nutricia
+nutsbedrijf	Nutsbedrijf	Utility
+nvb	NVB	NVB
+nvm	NVM	NVM
+nxp	NXP	NXP
+nyse	NYSE	NYSE
+obama	Obama	Obama
+obligatie	Obligatie	Bond
+oce	OcÇ	OcÇ
+oceaan	Oceaan	Ocean
+oekraine	Oekraãne	Ukraine
+oeso	OESO	OECD
+officieel	Officieel	Officially
+officier	Officier	Officer
+offshore	Offshore	Offshore
+ogen	Ogen	Eyes
+olie	Olie	Oil
+olieindustrie	Olieindustrie	Oil industry
+olieprijs	Olieprijs	Oil price
+olieuitvoer	Olieuitvoer	Oil output
+olympischexspelen	Olympische Spelen	Olympic Games
+omroep	Omroep	Broadcaster
+omzet	Omzet	Revenue
+omzetdaling	Omzetdaling	Sales decline
+omzetgroei	Omzetgroei	Sales growth
+onderhandelingen	Onderhandelingen	Negotiations
+onderhandse	Onderhandse	Underhand
+ondernemers	Ondernemers	Entrepreneurs
+ondernemersvertrouwen	Ondernemersvertrouwen	Entrepreneurial confidence
+ondernemingskamer	Ondernemingskamer	Enterprise Chamber
+ondernemingsraad	Ondernemingsraad	Works Council
+onderpand	Onderpand	Collateral
+ondertekening	Ondertekening	Signature
+onderzoeken	Onderzoeken	To investigate
+onderzoekers	Onderzoekers	Researchers
+onderzoeksinstituut	Onderzoeksinstituut	Research Institute
+online	Online	Online
+ontslag	Ontslag	Dismissal
+ontsnappen	Ontsnappen	Escape
+ontvangst	Ontvangst	Reception
+ontwerpen	Ontwerpen	To design
+ontwerper	Ontwerper	Designer
+ontwikkelaars	Ontwikkelaars	Developers
+ontwikkelingshulp	Ontwikkelingshulp	Development aid
+ontwikkelingsland	Ontwikkelingsland	Developing country
+oorlog	Oorlog	War
+oostenrijk	Oostenrijk	Austria
+oostxeuropa	Oost Europa	Eastern Europe
+opbrengst	Opbrengst	Yield
+opdracht	Opdracht	Order
+opdrachtgevers	Opdrachtgevers	Clients
+opec	OPEC	OPEC
+opel	Opel	Opel
+openbaar	Openbaar	Public
+opening	Opening	Opening
+operatie	Operatie	Operation
+operationeel	Operationeel	Operational
+opereren	Opereren	Operate in
+opgave	Opgave	Statement
+opiniepeiling	Opiniepeiling	Opinion poll
+opkomendexmarkten	Opkomende Markten	Emerging markets
+opkoopxprogramma	Opkoopprogramma	Buy-back program
+opkopen	Opkopen	Buying up
+opleidingen	Opleidingen	Education
+opname	Opname	Recording
+oppakken	Oppakken	Picking up
+oppositie	Oppositie	Opposition
+oprichting	Oprichting	Establishment
+opsplitsing	Opsplitsing	Breakdown
+opstand	Opstand	Rebellion
+opta	Opta	Opt
+optie	Optie	Option
+optiebeurs	Optiebeurs	Options exchange
+opvolger	Opvolger	Successor
+oracle	Oracle	Oracle
+orange	Orange	Orange
+orde	Orde	To order
+orders	Orders	Orders
+ordina	Ordina	Ordina
+organisatie	Organisatie	Organization
+organon	Organon	Organon
+otto	Otto	Otto
+ouders	Ouders	Parents
+oudminister	Oudminister	Former minister
+overeenkomst	Overeenkomst	Agreement
+overhandigen	Overhandigen	Hand over
+overheid	Overheid	Government
+overkoepelend	Overkoepelend	An overarching
+overleggen	Overleggen	Discuss
+overnamebod	Overnamebod	Takeover bid
+overnameprijs	Overnameprijs	Acquisition price
+overnames	Overnames	Takeovers
+overnamestrijd	Overnamestrijd	Takeover battle
+overschot	Overschot	Surplus
+overtuiging	Overtuiging	Persuasion
+pakhoed	Pakhoed	Pakhat
+pakistan	Pakistan	Pakistan
+palestijnen	Palestijnen	Palestinians
+panama	Panama	Panama
+pandemie	Pandemie	Pandemic
+papandreou	Papandreou	Papandreou
+parallel	Parallel	Parallel
+parallelxmarkt	Parallelmarkt	Parallel market
+parlement	Parlement	Parliament
+participatie	Participatie	Participation
+participatiemaatschappij	Participatiemaatschappij	Private equity firm
+particulier	Particulier	Private
+partij	Partij	Party
+partner	Partner	Partner
+passagiers	Passagiers	Passengers
+patent	Patent	Patent
+patiânten	Patiânten	Patients
+pcm	PCM	PCM
+pechtold	Pechtold	Pechtold
+peilingen	Peilingen	Polls
+peking	Peking	Beijing
+pence	Pence	Pence
+pensioen	Pensioen	Pension
+pensioenakkoord	Pensioenakkoord	Pension agreement
+personeelsbestand	Personeelsbestand	Workforce
+personen	Personen	Persons
+persoonsgegevens	Persoonsgegevens	Personal data
+perspectief	Perspectief	Perspective
+persverklaring	Persverklaring	Press statement
+peru	Peru	Peru
+petrobas	Petrobas	Petrobas
+petroleum	Petroleum	Petroleum
+peugeot	Peugeot	Peugeot
+pfizer	Pfizer	Pfizer
+pggm	PGGM	PGGM
+pharming	Pharming	Pharming
+philips	Philips	Philips
+pierson	Mees Pierson	Mees Pierson
+pijpleiding	Pijpleiding	Pipeline
+piloten	Piloten	Pilot
+plan	Plan	Plan
+planbureau	Planbureau	Planning bureau
+planten	Planten	Factory
+plasterk	Plasterk	Plasterk
+platform	Platform	Platform
+platina	Platina	Plate
+platteland	Platteland	Country
+pleidooi	Pleidooi	Plea
+poetin	Poetin	Poetine
+poging	Poging	Attempt
+polder	Polder	Polder
+polen	Polen	Pollen
+polissen	Polissen	Policies
+politie	Politie	Law enforcement
+politiek	Politiek	Politics
+polygram	Polygram	Polygram
+pompen	Pompen	Pumps
+porsche	Porsche	Porsche
+portefeuille	Portefeuille	Wallet
+portemonnee	Portemonnee	Wallet
+portfolio	Portfolio	Wallet
+portugal	Portugal	Portugal
+posities	Posities	Positions
+postbank	Postbank	Postbank
+postbedrijf	Postbedrijf	Postal company
+postnl	PostNL	PostNL
+powell	Powell	Powell
+praag	Praag	Prague
+praktijk	Praktijk	Practice
+preferente	Preferente	Preferential
+premie	Premie	price
+presentatie	Presentatie	Presentation
+president	President	President
+presidentskandidaat	Presidentskandidaat	Presidential candidate
+presidentxverenigdexstaten	President Verenigde Staten	President United States
+pricexwaterhousexcoopers	Price Waterhouse Coopers	Price Waterhouse Coopers
+prijsafspraken	Prijsafspraken	Price fixing
+prijsontwikkeling	Prijsontwikkeling	Price development
+prijspeil	Prijspeil	Price level
+prijsvechter	Prijsvechter	Price fighter
+prijzen	Prijzen	Prices
+prikkels	Prikkels	Incentives
+primair	Primair	Primary
+principe	Principe	the prince
+principeakkoord	Principeakkoord	Principal agreement
+prinsjesdag	Prinsjesdag	Budget Day
+privaat	Privaat	Private
+privacy	Privacy	Privacy
+privatexequity	Private Equity	Private Equity
+privatisering	Privatisering	Privatization
+problematiek	Problematiek	Problem
+procedure	Procedure	Procedure
+proces	Proces	Method
+producenten	Producenten	Producerd
+producentenprijzen	Producentenprijzen	Producer prices
+producten	Producten	Produce
+productie	Productie	production
+productiecapaciteit	Productiecapaciteit	Production capacity
+professioneel	Professioneel	Professional
+professor	Professor	Professor
+profiel	Profiel	Profile
+prognose	Prognose	Prognosis
+programma	Programma	Program
+projecten	Projecten	Project
+projectontwikkelaar	Projectontwikkelaar	Project developer
+prorail	Prorail	ProRail
+prospectus	Prospectus	Prospectus
+protectionisme	Protectionisme	Protectionism
+protest	Protest	Protest
+provincie	Provincie	Province
+provisie	Provisie	Determination
+ptt	PTT	PTT
+publicatie	Publicatie	Publication
+publiciteit	Publiciteit	Publicity
+publiek	Publieke	Public
+punten	Punten	Points
+pvda	PvdA	PvdA
+pvv	PVV	PVV
+qatar	Qatar	Qatar
+qualcomm	Qualcomm	Qualcomm
+quotum	Quotum	Quota
+raadplegen	Raadplegen	Consult
+raadxvanxcommissarissen	Raad van Commissarissen	Board of Commissioners
+raadxvanxstate	Raad van State	Council of State
+rabobank	Rabobank	Rabobank
+racen	Racen	To race
+raffinaderij	Raffinaderij	Refinery
+rai	RAI	RAI
+raketten	Raketten	Missiles
+rally	Rally	Rally
+rampen	Rampen	Disasters
+randstadxholding	Randstad	Randstad
+ranglijst	Ranglijst	Ranking
+rapportage	Rapportage	Report
+rapporteren	Rapporteren	Reporter
+rating	Rating	Rating
+ratio	Ratio	Ratio
+rbs	RBS	RBS
+reaal	Reaal	Real
+reagan	Reagan	Reagan
+real	Real	Really
+realiseren	Realiseren	Realize
+realiteit	Realiteit	Reality
+rebellen	Rebellen	Rebel
+recessie	Recessie	Recession
+recht	Recht	Straight
+rechten	Rechten	Rights
+rechtspraak	Rechtspraak	Judiciary
+rechtsstaat	Rechtsstaat	Rule of law
+reclame	Reclame	Claim
+record	Record	Listing
+redactie	Redactie	Editorial office
+rederij	Rederij	Shipping company
+reedxelsevier	ReedElsevier	ReedElsevier
+referendum	Referendum	Referendum
+regeerakkoord	Regeerakkoord	Coalition agreement
+regelgeving	Regelgeving	Regulations
+regeling	Regeling	Regulation
+regels	Regels	Rules
+regering	Regering	Government
+regime	Regime	Regime
+regio	Regio	Royal
+regulering	Regulering	Regulation
+rehn	Rehn	Rehn
+reizen	Reizen	To travel
+rekeningen	Rekeningen	draw up
+rekenkamer	Rekenkamer	Court of Auditors
+rekenrente	Rekenrente	Actual interest
+relaties	Relaties	Relationships
+renault	Renault	Renault
+rendabel	Rendabel	Profitable
+rendement	Rendement	Efficiency
+renovatie	Renovatie	Renovation
+rente	Rente	Rent
+reorganisatie	Reorganisatie	Reorganization
+republiek	Republiek	Republic
+republikeinen	Republikeinen	Republicans
+reserves	Reserves	Reserves
+resolutie	Resolutie	Resolution
+restaurant	Restaurant	Restaurant
+restricties	Restricties	Limitations
+resultaten	Resultaten	Result
+revolutie	Revolutie	Revolution
+richtlijnen	Richtlijnen	Guidelines
+rijkswaterstaat	Rijkswaterstaat	Rijkswaterstaat
+risico	Risico	Risk
+rivm	RIVM	RIVM
+robeco	Robeco	Robeco
+robots	Robots	Robots
+roche	Roche	Roche
+roemenie	Roemeniâ	Romania
+rompuy	Rompuy	Rompuy
+rondgang	Rondgang	Tour
+rooy	Rooy	Rooy
+rtl	RTL	RTL
+ruding	Ruding	Ruding
+rundvlees	Rundvlees	Beef
+runnen	Runnen	Run
+rusland	Rusland	Russia
+rutte	Rutte	Rutte
+rvc	RvC	Supervisory Board
+rwe	RWE	Rwe
+ryanxair	Ryan Air	Ryanxair
+saab	Saab	Saab
+salaris	Salaris	Salary
+saldo	Saldo	Balance
+samas	Samas	Samas
+samenleving	Samenleving	Society
+samenvoeging	Samenvoeging	Aggregation
+samenwerking	Samenwerking	Collaboration
+samsung	Samsung	Samsung
+sanctie	Sanctie	Sanction
+saneren	Saneren	Remediation
+santander	Santander	Santander
+saoedixarabie	Saoedi Arabiâ	Saudi Arabia
+sap	SAP	SAP
+saraxleexdouwexegberts	Sara Lee Douwe Egberts	Sara Lee Douwe Egberts
+sarkozy	Sarkozy	Sarkozy
+sbmoffshore	SBM Offshore	SBM Offshore
+sbs	SBS	SBS
+scala	Scala	Range
+scandinavie	Scandinaviâ	Scandinavia
+scania	Scania	Scania
+scenario	Scenario	Scenario
+schaalgrootte	Schaalgrootte	Scale size
+schaalvergroting	Schaalvergroting	Scaling up
+schadevergoeding	Schadevergoeding	Compensation
+schandaal	Schandaal	Scandal
+schatkist	Schatkist	Treasury
+schauble	Schauble	Schauble
+scheepbouwer	Scheepbouwer	Shipbuilder
+scheepvaart	Scheepvaart	Shipping
+schepen	Schepen	Ships
+schermen	Schermen	Screens
+schieten	Schieten	Shoot
+schikking	Schikking	Settlement
+schiphol	Schiphol	Schiphol
+scholing	Scholing	Education
+schommelingen	Schommelingen	Fluctuations
+schorsen	Schorsen	Suspend
+schotland	Schotland	Scotland
+schrijver	Schrijver	Writer
+schroder	Schrîder	Schroder
+schuitema	Schuitema	Schuitema
+schuld	Schuld	Debt
+schuldeiser	Schuldeiser	Creditor
+schuldpapier	Schuldpapier	Debt paper
+schultz	Schultz	Schultz
+score	Score	Score
+se	SE	SE
+sec	SEC	SEC
+secretaris	Secretaris	Secretaries
+secretarisgeneraal	Secretaris-Generaal	Secretary General
+sectoren	Sectoren	Sectors
+securities	Securities	Effects
+seizoensinvloeden	Seizoensinvloeden	Seasonality
+semiconductor	Semiconductor	Semiconductor
+senaat	Senaat	Senate
+ser	SER	SER
+servie	Serviâ	Serbia
+sgp	SGP	SGP
+shanghai	Shanghai	Shanghai
+shell	Shell	Shell
+short	Short	Shorts
+shv	SHV	SHV
+siemens	Siemens	Siemens
+sigaretten	Sigaretten	Cigarettes
+signaal	Signaal	Signal
+significant	Significant	Significant
+silliconxvalley	Sillicon Valley	Silliconxvalley
+singapore	Singapore	Singapore
+sir	SIR	SIR
+sjanghai	Sjanghai	Shanghai
+skyteam	Skyteam	Air team
+slachtoffer	Slachtoffer	Victim
+sligro	Sligro	Sligro
+slot	Slot	Slot
+slotkoers	Slotkoers	Closing price
+slovenie	Sloveniâ	Slovenia
+slowakije	Slowakije	Slovakia
+smaken	Smaken	Flavors
+smallcapindex	Small Cap Index	Small Cap Index
+smartphones	Smartphones	Smartphones
+smits	Smits	Smits
+smitxtak	Smit Tak	Smit Tak
+snapchat	Snapchat	Snapchat
+snelweg	Snelweg	Highway
+sns	SNS	SNS
+sociaal	Sociaal	Social
+sociaaldemocraten	Sociaal-democraten	Social Democrats
+sociaaleconomische	Sociaal-economische	Socio-economic
+sociaalxplan	Sociaal Plan	Social plan
+socialexpartners	Sociale partners	Socialexpartners
+socialisten	Socialisten	Socialists
+soevereiniteit	Soevereiniteit	Sovereignty
+software	Software	software
+solidariteit	Solidariteit	Solidarity
+solvabiliteit	Solvabiliteit	Solvency
+sony	Sony	Sony
+sp	SP	SP
+spaarders	Spaarders	Savers
+spaargeld	Spaargeld	Savings
+spanje	Spanje	Spain
+spanning	Spanning	Burnt out
+spd	SPD	SPD
+specialiseren	Specialiseren	Specialize
+speculatie	Speculatie	Speculation
+speechen	Speechen	Speak
+spelregels	Spelregels	Game rules
+spiegel	Spiegel	Mirror
+splitsing	Splitsing	Divide
+spoorwegen	Spoorwegen	Railways
+sporten	Sporten	sports
+spread	Spread	Spread
+spreiden	Spreiden	To spread
+spyker	Spyker	Spyker
+staalbedrijf	Staalbedrijf	Steel company
+staatsbedrijven	Staatsbedrijven	State-owned enterprises
+staatshoofd	Staatshoofd	Head of State
+staatsobligaties	Staatsobligaties	Government bonds
+staatsschuld	Staatsschuld	Government debt
+staatssecretaris	Staatssecretaris	Secretary of State
+staatssteun	Staatssteun	State aid
+stabiliteitspact	Stabiliteitspact	Stability Pact
+stadion	Stadion	Stadium
+staf	Staf	Staff
+stagnatie	Stagnatie	Stagnation
+staking	Staking	Turn of
+standaard	Standaard	Standard
+star	Star	Star
+starbucks	Starbucks	Starbucks
+startxup	Start-up	Startup
+station	Station	Station
+statistieken	Statistieken	Statistics
+statuten	Statuten	Statutes
+ste	STE	STE
+steekpenningen	Steekpenningen	Bribes
+stekelenburg	Stekelenburg	Stekelenburg
+stelsel	Stelsel	System
+stemmen	Stemmen	To vote
+stemming	Stemming	Mood
+stemrecht	Stemrecht	Voting rights
+ster	Ster	Star
+stichting	Stichting	Foundation
+stockholm	Stockholm	Stockholm
+stork	Stork	Stork
+straatsburg	Straatsburg	Strasbourg
+strategie	Strategie	Strategy
+structuur	Structuur	Structure
+studenten	Studenten	Students
+studie	Studie	Study
+subsidie	Subsidie	Subsidy
+suez	Suez	Suez
+suiker	Suiker	Sugar
+supermarkten	Supermarkten	Supermarkets
+suriname	Suriname	Suriname
+symbolisch	Symbolisch	Symbolic
+symposium	Symposium	Symposium
+syndicaat	Syndicaat	Syndicate
+synergie	Synergie	Synergy
+syrie	Syriâ	Syria
+systeem	Systeem	System
+tabak	Tabak	Tobacco
+tafelen	Tafelen	Dining
+taiwan	Taiwan	Taiwan
+talpa	Talpa	Talpa
+tanken	Tanken	To fuel
+tarief	Tarief	Rates
+tarwe	Tarwe	Wheat
+tassen	Tassen	Bags
+tata	Tata	Tata
+taxatie	Taxatie	Taxation
+team	Team	Team
+technici	Technici	Technicians
+technologie	Technologie	Technology
+technologiebedrijven	Technologiebedrijven	Technology companies
+technologiebeurs	Technologiebeurs	Technology fair
+technologiefondsen	Technologiefondsen	Technology funds
+tegenwicht	Tegenwicht	Counterbalance
+tegoeden	Tegoeden	Balances
+tekenen	Tekenen	To draw
+tekort	Tekort	Deficiency
+telecom	Telecom	Telecom
+telefonica	Telef¢nica	Telef¢nica
+telefonie	Telefonie	Telephony
+telegraaf	Telegraaf	Telegraph
+telers	Telers	Growers
+telextwee	Tele2	Tele2
+tencate	Tencate	Ten Cate
+tennet	Tennet	Tennet
+termijn	Termijn	Term
+termijncontract	Termijncontract	Futures contract
+termijnmarkt	Termijnmarkt	Futures market
+terminal	Terminal	Terminal
+terminals	Terminals	Terminals
+terrorisme	Terrorisme	Terrorism
+teruggetrokken	Teruggetrokken	Withdrawn
+tesco	Tesco	Tesco
+tesla	Tesla	Tesla
+texaco	Texaco	Texaco
+textiel	Textiel	Textile
+thailand	Thailand	Thailand
+thatcher	Thatcher	Thatcher
+theodoorxgilissen	InsingerGillissen	InsingerGillissen
+theoretisch	Theoretisch	Theoretically
+thomson	Thomson	Thomson
+thuismarkt	Thuismarkt	Home market
+thuiszorg	Thuiszorg	Home care
+thyssenkrupp	Thyssen Krupp	Thyssen Krupp
+tijdperk	Tijdperk	Era
+tijdschrift	Tijdschrift	Magazine
+timewarner	Timewarner	Timewarner
+timmermans	Timmermans	Timmermans
+tmg	TMG	TMG
+tmobile	Tmobile	Tmobile
+tno	TNO	TNO
+tntlogistics	TNT Logistics	TNT Logistics
+toegang	Toegang	Access
+toekomst	Toekomst	Future
+toelating	Toelating	Admission
+toeleverancier	Toeleverancier	Supplier
+toelichting	Toelichting	Explanation
+toerisme	Toerisme	Tourism
+toespraak	Toespraak	Speech
+toestroom	Toestroom	Influx
+toetreding	Toetreding	Accession
+toetsing	Toetsing	Review
+toezichthouder	Toezichthouder	Supervisor
+tokyo	Tokyo	Tokyo
+tomtom	TomTom	Tomtom
+topman	Topman	Top man
+toshiba	Toshiba	Toshiba
+total	Total	Total
+toyota	Toyota	Toyota
+tpg	TPG	TPG
+tranche	Tranche	Tranche
+transacties	Transacties	Transactions
+transavia	Transavia	Transavia
+transformatie	Transformatie	Transformation
+transitie	Transitie	Transition
+transportbedrijf	Transportbedrijf	Transport company
+trein	Trein	Train
+trend	Trend	Trend
+trichet	Trichet	Trichet
+troepen	Troepen	Troops
+trojka	Trojka	Troika
+trouw	Trouw	Faithful
+trucks	Trucks	Trucks
+trump	Trump	Trump
+trust	Trust	Trust
+tsipras	Tsipras	Tsipras
+tsjechie	Tsjechiâ	Czech Republic
+tuinbouw	Tuinbouw	Horticulture
+tuinders	Tuinders	Gardeners
+tulip	Tulip	Tulip
+tunnel	Tunnel	Tunnel
+turkije	Turkije	Turkey
+tusk	Tusk	Tusk
+tussenpersonen	Tussenpersonen	Intermediaries
+tv	Televisie	Television
+tweedexkamer	Tweede Kamer	Parliament
+twitter	Twitter	Twitter
+uber	Uber	Uber
+ubs	UBS	UBS
+uitbetalen	Uitbetalen	Cash out
+uitbraak	Uitbraak	Outbreak
+uitbrengen	Uitbrengen	Bring out
+uitdrukken	Uitdrukken	To express
+uitgeven	Uitgeven	To spend
+uitgevers	Uitgevers	Publishers
+uitgifte	Uitgifte	Issuance
+uitgiftekoers	Uitgiftekoers	Issue price
+uitkeren	Uitkeren	Pay out
+uitkering	Uitkering	Payment
+uitkomst	Uitkomst	Outcome
+uitleggen	Uitleggen	To explain
+uitoefenen	Uitoefenen	Exercise
+uitoefenprijs	Uitoefenprijs	Strike price
+uitslag	Uitslag	Rash
+uitspraak	Uitspraak	Statement
+uitstraling	Uitstraling	Appearance
+uitstroom	Uitstroom	Outflow
+uitvallen	Uitvallen	Fall out
+uitverkoop	Uitverkoop	Sale
+uitwijzen	Uitwijzen	Reveal
+uitzendbureau	Uitzendbureau	Employment agency
+uitzenden	Uitzenden	To broadcast
+uitzendwerk	Uitzendwerk	Temporary work
+uitzicht	Uitzicht	View
+uitzondering	Uitzondering	Exception
+ultimatum	Ultimatum	Ultimatum
+unaniem	Unaniem	Unanimous
+unibailrodamco	Unibail Rodamco Westfield	Unibail Rodamco Westfield
+unie	Unie	Union
+unilever	Unilever	Unilever
+universiteit	Universiteit	University
+upc	UPC	UPC
+usg	USG	USG
+uwv	UWV	UWV
+vaardigheden	Vaardigheden	Skills
+vacatures	Vacatures	Vacancies
+vaccin	Vaccin	Vaccine
+vakantie	Vakantie	Vacation
+vakbond	Vakbond	Trade union
+valutamarkt	Valutamarkt	Currency market
+valutas	Valutas	Currencies
+vandermoolen	van Der Moolen	van Der Moolen
+vanoord	van Oord	van Oord
+variabele	Variabel	Variable
+vasteland	Vasteland	Mainland
+vastgoed	Vastgoed	Real estate
+vastned	Vastned Retail NV	Vastned Retail NV
+vdl	VDL Groep	VDL Groep
+veb	VEB	VEB
+vedior	Vedior	Vedior
+veiling	Veiling	Auction
+vendexkbb	Vendex KBB	Vendex KBB
+venezuela	Venezuela	Venezuela
+vennootschap	Vennootschap	Partnership
+vennootschapsbelasting	Vennootschapsbelasting	Corporation tax
+verband	Verband	Bandage
+verbruik	Verbruik	Consumption
+verdienmodel	Verdienmodel	Revenue model
+verdrag	Verdrag	Agreement
+verenigdexstaten	Verenigde Staten	United states
+verenigdexstatenxstaat	Verenigde Staten [staat]	United States [state]
+verenigdxkoninkrijk	Verenigd Koninkrijk	United Kingdom
+vergadering	Vergadering	Meeting
+vergelijking	Vergelijking	Comparison
+vergoeding	Vergoeding	compensation
+vergrijzing	Vergrijzing	Aging
+vergunningen	Vergunningen	Permits
+verhagen	Verhagen	Verhagen
+verhofstadt	Verhofstadt	Verhofstadt
+verhuizing	Verhuizing	Move
+verkeer	Verkeer	Traffic
+verkiezing	Verkiezing	Election
+verklaring	Verklaring	Statement
+verkoopprijs	Verkoopprijs	Selling price
+verkopen	Verkopen	To sell
+verlies	Verlies	Loss
+vermogen	Vermogen	Power
+vermogende	Vermogende	Wealthy
+vermogens	Vermogens	Capabilities
+vermogensbeheerder	Vermogensbeheerder	Asset manager
+veronderstelling	Veronderstelling	Assumption
+verpakking	Verpakking	Packing
+verplaatsing	Verplaatsing	Displacement
+verplichten	Verplichten	Obligate
+verplichting	Verplichting	Commitment
+verplichtingen	Verplichtingen	Commitments
+verrexoosten	Verre Oosten	Far East Asia
+verruiming	Verruiming	Easing
+versatel	Versatel	Versatel
+verstand	Verstand	Mind
+vertegenwoordigers	Vertegenwoordigers	Representatives
+vertrouwen	Vertrouwen	Trust
+vervanging	Vervanging	Replacement
+vervoeren	Vervoeren	Transport
+vervolgen	Vervolgen	To continue
+verwatering	Verwatering	Dilution
+verweren	Verweren	Defenses
+verwerking	Verwerking	Processing
+verzekeraars	Verzekeraars	Insurers
+verzekeringskamer	Verzekeringskamer	Insurance Chamber
+verzelfstandiging	Verzelfstandiging	Independence
+verzorging	Verzorging	Grooming
+vestia	Vestia	Cloakroom
+vestiging	Vestiging	Establishment
+vestigingsplaats	Vestigingsplaats	Place of business
+veto	Veto	Veto
+video	Video	Video
+vietnam	Vietnam	Vietnam
+virtueel	Virtueel	Virtual
+virus	Virus	Virus
+visa	Visa	Visa
+visserij	Visserij	Fishery
+vivendi	Vivendi	Vivendi
+vkxlabour	Labour Party [VK]	Labour Party [UK]
+vlaanderen	Vlaanderen	Flanders
+vlaggen	Vlaggen	Flags
+vlees	Vlees	Meat
+vliegtuigen	Vliegtuigen	Airplanes
+vliegveld	Vliegveld	Airport
+vlissingen	Vlissingen	Flushing
+vloer	Vloer	Floor
+vluchtelingen	Vluchtelingen	Refugees
+vn	VN	UN
+vng	VNG	VNG
+vnoxncw	VNO-NCW	VNO-NCW
+vnu	VNU	VNU
+vodafone	Vodafone	Vodafone
+voeding	Voeding	Nutrition
+voedingsbond	Voedingsbond	Nutrition Association
+voertuigen	Voertuigen	Vehicles
+voetballen	Voetballen	Playing football
+volkerxwessels	Koinklijke Volker Wessels Stevin	Koinklijke Volker Wessels Stevin
+volksgezondheid	Volksgezondheid	Public health
+volkshuisvesting	Volkshuisvesting	Public housing
+volkskrant	Volkskrant	Volkskrant
+volkswagen	Volkswagen	Volkswagen
+volvo	Volvo	Volvo
+volwassen	Volwassen	Grown up
+vonnis	Vonnis	Verdict
+voorganger	Voorganger	Predecessor
+voorkennis	Voorkennis	Foreknowledge
+voorlichting	Voorlichting	Information
+voorman	Voorman	Foreman
+voorraad	Voorraad	stock
+voorschot	Voorschot	Deposit
+voorschriften	Voorschriften	Prescriptions
+voorspellingen	Voorspellingen	Forecasts
+voorstel	Voorstel	Proposal
+voortouw	Voortouw	Take the lead
+vooruitzichten	Vooruitzichten	Outlook
+voorziening	Voorziening	Provision
+voorzitter	Voorzitter	Chairman
+vopak	Vopak	Vopak
+vraaggesprek	Vraaggesprek	Interview
+vracht	Vracht	Freight
+vrachtwagens	Vrachtwagens	Trucks
+vriend	Vriend	Friend
+vrijgegeven	Vrijgegeven	Released
+vrijheid	Vrijheid	Freedom
+vrijkomen	Vrijkomen	Release
+vrom	Ministerie van VROM	Ministerie van VROM
+vrouwen	Vrouwen	Women
+vut	VUT	VUT
+vuur	Vuur	Fire
+vvd	VVD	VVD
+waarde	Waarde	Value
+waardedaling	Waardedaling	Fall in value
+waardestijging	Waardestijging	Value increase
+waarnemers	Waarnemers	Observers
+wagen	Wagen	Car
+waken	Waken	Watch
+walmart	Walmart	Walmart
+wanbetaling	Wanbetaling	Non-payment
+wapenen	Wapenen	Arm
+wapens	Wapens	Weapons
+warenhuis	Warenhuis	Department store
+warrants	Warrants	Warrants
+warrenxbuffet	Warren Buffet	Warren Buffet
+water	Water	Water
+waterschappen	Waterschappen	Regional water authorities
+wavin	WAVIN	WAVIN
+web	Web	Web
+website	Website	Website
+webwinkel	Webwinkel	Webshop
+wederopbouw	Wederopbouw	Reconstruction
+wedstrijd	Wedstrijd	Contest
+wegener	Wegener	Wegener
+wegvervoer	Wegvervoer	Road transport
+wellink	Wellink	Wellink
+welvaart	Welvaart	Welfare
+welzijn	Welzijn	Wellbeing
+wereld	Wereld	World
+wereldbank	Wereldbank	World Bank
+wereldeconomie	Wereldeconomie	World economy
+wereldhandel	Wereldhandel	World Trade
+wereldhave	Wereldhave	Wereldhave
+wereldmarkt	Wereldmarkt	Global market
+wereldwijd	Wereldwijd	Worldwide
+werkelijkheid	Werkelijkheid	Reality
+werken	Werken	To work
+werkgelegenheid	Werkgelegenheid	Employment opportunities
+werkgever	Werkgever	Employer
+werkgeversorganisatie	Werkgeversorganisatie	Employers' organization
+werkkapitaal	Werkkapitaal	Working capital
+werkloosheid	Werkloosheid	Unemployment
+werkmaatschappij	Werkmaatschappij	Operating company
+werknemers	Werknemers	Employees
+werkvloer	Werkvloer	Work floor
+werkweek	Werkweek	Working week
+wessanen	Wessanen	Wessanen
+westers	Westers	Western
+westxeuropa	West Europa	Western Europe
+wetenschap	Wetenschap	Science
+wetgever	Wetgever	Legislator
+wetgeving	Wetgeving	Legislation
+wethouder	Wethouder	Alderman
+wiebes	Wiebes	Wiebes
+wientjes	Wientjes	Wientjes
+wijers	Wijers	Wijers
+wijfels	Wijfels	Witches
+wijn	Wijn	Wine
+windenergie	Windenergie	Wind energy
+windows	Windows	Windows
+winkels	Winkels	Stores
+winning	Winning	Extraction
+winst	Winst	Profit
+winstbelasting	Winstbelasting	Profit tax
+winstdaling	Winstdaling	Profit decline
+winstnemingen	Winstnemingen	Profit taking
+winststijging	Winststijging	Profit increase
+winstverwachting	Winstverwachting	Profit expectation
+winstwaarschuwing	Winstwaarschuwing	Profit Alert
+wir	WIR	WIR
+wisselkoers	Wisselkoers	Exchange rate
+witrusland	Wit Rusland	Belarus
+wittexhuis	Witte Huis	White House
+witwassen	Witwassen	Money laundering
+wk	WK	WK
+woltersxkluwers	Wolters Kluwer	Wolters Kluwer
+wonen	Wonen	Living
+woningen	Woningen	Houses
+woordvoerders	Woordvoerders	Spokespersons
+wto	WHO	WTO
+xi	Xi	Xi
+yahoo	Yahoo!	Yahoo!
+yen	Yen	Yen
+yield	Yield	Yield
+yuan	Yuan	Yuan
+zaak	Zaak	Matter
+zakelijke	Zakelijke	Business
+zakendoen	Zakendoen	Do business
+zakenkrant	Zakenkrant	Business newspaper
+zakenman	Zakenman	Businessman
+zalm	Zalm	salmon
+zand	Zand	Sand
+zee	Zee	Sea
+zeggenschap	Zeggenschap	Control
+zegsman	Zegsman	Zegsman
+zelfstandigheid	Zelfstandigheid	Independence
+zender	Zender	Transmitter
+zetels	Zetels	Seats
+zfr	ZFR	ZFR
+ziek	Ziek	Sick
+ziekenfondsen	Ziekenfondsen	Health insurance funds
+ziekenhuizen	Ziekenhuizen	Hospitals
+ziekteverzuim	Ziekteverzuim	Sickness absence
+ziektewet	Ziektewet	Sickness Benefits Act
+ziggo	Ziggo	Ziggo
+zijlijn	Zijlijn	Sideline
+zilver	Zilver	Silver
+zitting	Zitting	Seat
+zn	Zorgverzekeraars Nederland	Zorgverzekeraars Nederland
+zonneenergie	Zonneenergie	Solar energy
+zorginstellingen	Zorginstellingen	Healthcare institutions
+zorgsector	Zorgsector	Health care sector
+zorgverzekeraar	Zorgverzekeraar	Health insurer
+zuidas	Zuid-as	Zuidas
+zuidnederland	Zuid-Nederland	South of the Netherlands
+zuidxafrika	Zuid-Afrika	South Africa
+zuidxamerika	Zuid-Amerika	South America
+zuidxeuropa	Zuid-Europa	Southern Europe
+zuidxkorea	Zuid-Korea	South Korea
+zuidxoostazie	Zuidoost-Aziâ	South East Asia
+zuivel	Zuivel	Dairy
+zweden	Zweden	Sweden
+zwitserland	Zwitserland	Switzerland
+zzper	ZZP-er	Self-employed
