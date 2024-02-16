@@ -7,7 +7,7 @@ venue: 'Working Paper'
 ---
 We extract tone-adjusted, time-varying and hierarchically ordered topics from a large corpus of Dutch financial news and investigate whether these topics are useful for monitoring the business cycle and nowcasting GDP growth in the Netherlands. The financial newspaper articles span the period January 1985 up until January 2021. Our newspaper sentiment indicator has a high concordance with the business cycle. Further, we find newspaper sentiment increases the accuracy of our nowcast for GDP growth using a dynamic factor model, especially in periods of crisis. We conclude that our tone-adjusted newspaper topics contain valuable information not embodied in monthly indicators from statistical offices.
 
-Download Working Paper [here](https://jasperdewinter.github.io/pp/files/working_paper_no_766.pdf).
+Download last version of Working Paper [here](https://jasperdewinter.github.io/pp/files/vanDijkDeWinterFDUpdate.pdf).
 
 Interview on our research (in Dutch) [here](https://www.dnb.nl/algemeen-nieuws/nieuwsberichten-2023/krantenartikelen-als-bron-voor-het-monitoren-en-voorspellen-van-de-economie/).
 
