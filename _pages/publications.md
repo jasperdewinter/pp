@@ -17,7 +17,7 @@ author_profile: true
 Other publications
 =====
 
-Overvest, B., Winter, J.M., Verstegen, L., Kattenberg, M. and J. Rusch (2024) Macromodellen ook waardevol in crisistijd? (Macromodels also useful in times of crisis), <i>Economisch Statistische Berichten</i> 109(4837), 399 - 4001. Download [here](https://esb.nu/macromodellen-ook-waardevol-in-crisistijd/) from the publisher's website.
+Overvest, B., Winter, J.M., Verstegen, L., Kattenberg, M. and J. Rusch (2024) Macromodellen ook waardevol in crisistijd? (Macromodels also useful in times of crisis), <i>Economisch Statistische Berichten</i> 109(4837), 399-401. Download [here](https://esb.nu/macromodellen-ook-waardevol-in-crisistijd/) from the publisher's website.
 
 Pick, A. and J.M. de Winter (2023) Can machine learning methods help nowcast GDP?, <i> SUERF Policy Brief</i>, 521. Download [here](https://www.suerf.org/suer-policy-brief/61267/can-machine-learning-methods-help-nowcast-gdp) from the publisher's website or [here](https://jasperdewinter.github.io/pp/files/SUERF_DeWinterPick2023.pdf).
 
