@@ -9,7 +9,7 @@ This paper compares the ability of several econometric and machine learning meth
 
 **FINAL VERSION** (Ocober 2024) can be downloaded [here](https://jasperdewinter.github.io/pp/files/KPW_update_oct2024.pdf).
 
-SUERF Policy Brief on our research can be downloaded [here](https://www.suerf.org/suer-policy-brief/61267/can-machine-learning-methods-help-nowcast-gdp) from the publisher's website or [here](https://jasperdewinter.github.io/pp/files/SUERF_DeWinterPick2023.pdf).
+SUERF Policy Brief on our research can be downloaded [here](https://www.suerf.org/suerf-policy-brief/61267/can-machine-learning-methods-help-nowcast-gdp) from the publisher's website or [here](https://jasperdewinter.github.io/pp/files/SUERF_DeWinterPick2023.pdf).
 
 Code and data for replication [here](https://github.com/jasperdewinter/KantPickdeWinter)
 
