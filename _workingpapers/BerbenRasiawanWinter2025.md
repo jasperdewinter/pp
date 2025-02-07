@@ -5,8 +5,8 @@ permalink: /workingpapers/BerbenRasiawanWinter2025
 date: 2025-02-05
 venue: 'Working Paper'
 ---
-This paper presents DFROG, the "nowcasting” model employed by De Nederland- sche Bank (DNB) to generate near-term forecasts of the quarter-on-quarter growth rate of Gross Domestic Product (GDP). The core concept of DFROG is that the co-movement of a potentially large set of monthly economic indicators can be summarized into a few factors, which can then be used to forecast GDP growth. We compare the forecast accuracy of DFROG with several benchmark models and professional analysts, and conduct a thorough review of the model’s optimal specification.
+This paper examines the performance of machine learning models in forecasting Dutch inflation over the period 2010 to 2023, leveraging a large dataset and a range of machine learning techniques. The findings indicate that certain machine learning models outperform simple benchmarks, particularly in forecasting core inflation and services inflation. However, these models face challenges in consistently outperforming the primary inflation forecast of De Nederlandsche Bank for headline inflation, though they show promise in improving the forecast for non-energy industrial goods inflation. Models employing path averages rather than direct forecasting achieve greater accuracy, while the inclusion of non-linearities, factors, or targeted predictors provides minimal or no improvement in forecasting performance. Overall, Ridge regression has the best forecasting performance in our study.
 
-Download Working Paper [here](https://www.dnb.nl/media/i0snbcik/working_paper_no-819.pdf).
+Download Working Paper [here](https://www.dnb.nl/media/2v0iatgr/working_paper_no-828.pdf).
 
-Recommended citation: Berben, R.P, Rasiawan, R. en J.M. de Winter (2025), DForecasting Dutch inflation using machine learning methods, DNB Working Paper nr. 828.
+Recommended citation: Berben, R.P, Rasiawan, R.N en J.M. de Winter (2025), DForecasting Dutch inflation using machine learning methods, DNB Working Paper nr. 828.
