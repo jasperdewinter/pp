@@ -1,5 +1,5 @@
 ---
-title: "Forecasting Dutch inflation using machine learning methods"
+title: "Forecasting Dutch inflation using machine learning methods 🆕 🚀
 collection: workingpapers
 permalink: /workingpapers/BerbenRasiawandeWinter2025
 date: 2025-02-05
