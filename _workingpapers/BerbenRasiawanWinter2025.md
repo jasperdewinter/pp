@@ -1,7 +1,7 @@
 --
 title: "Forecasting Dutch inflation using machine learning methods"
 collection: workingpapers
-permalink: /workingpapers/BerbenRasiawanWinter2025
+permalink: /workingpapers/BerbenRasiawandeWinter2025
 date: 2025-02-05
 venue: 'Working Paper'
 ---
@@ -9,4 +9,4 @@ This paper examines the performance of machine learning models in forecasting Du
 
 Download Working Paper [here](https://www.dnb.nl/media/2v0iatgr/working_paper_no-828.pdf).
 
-Recommended citation: Berben, R.P, Rasiawan, R.N en J.M. de Winter (2025), DForecasting Dutch inflation using machine learning methods, DNB Working Paper nr. 828.
+Recommended citation: Berben, R.P, Rasiawan, R.N en J.M. de Winter (2025), Forecasting Dutch inflation using machine learning methods, DNB Working Paper nr. 828.
