@@ -18,7 +18,7 @@ Principal Economist in the Econometrics and Modelling Department at [De Nederlan
 
 Research interests:
 ======
-Econometrics:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nowcasting, Forecast combinations, Cycle extraction.<br />
+Econometrics:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nowcasting, Cycle extraction.<br />
 Machine learning:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Topic Modeling.<br /> 
 Macroeconomics:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Misallocation, Productivity dynamics, Bank lending.<br />
 Industrial organization:&nbsp;&nbsp;Corporate finance, Start-ups, SMEs.<br />
