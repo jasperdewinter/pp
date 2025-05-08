@@ -17,6 +17,8 @@ author_profile: true
 Other publications
 =====
 
+🆕 Marotta, F, Pagliari, M.S. and J.M. de Winter (2025) Uncertainty and climate policy in the Netherlands, <i> DNB Analysis</i>. Download [here](https://www.dnb.nl/media/gibhbjae/dnb-analysis-uncertainty-and-climate-policy-in-the-netherlands.pdf) from the publisher's website or [here](https://jasperdewinter.github.io/pp/files/dnb_analysis_cpu.pdf).
+
 🆕 Berben, R-P, Rasiawan, R and J.M. de Winter (2025) Forecasting Dutch inflation using machine learning method, <i> SUERF Policy Brief</i>, 1137. Download [here](https://www.suerf.org/publications/suerf-policy-notes-and-briefs/forecasting-dutch-inflation-using-machine-learning-methods/) from the publisher's website or [here](https://jasperdewinter.github.io/pp/files/SUERF-Policy-Brief-1137_Berben_Rasiawan_deWinter.pdf).
 
 Overvest, B., Winter, J.M., Verstegen, L., Kattenberg, M. and J. Rusch (2024) Macromodellen ook waardevol in crisistijd? (Macromodels also useful in times of crisis), <i>Economisch Statistische Berichten</i> 109(4837), 399-401. Download [here](https://esb.nu/macromodellen-ook-waardevol-in-crisistijd/) from the publisher's website.
