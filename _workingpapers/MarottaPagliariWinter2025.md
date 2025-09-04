@@ -9,4 +9,4 @@ venue: 'Working Paper'
 
 Download Working Paper [here](https://www.dnb.nl/media/jvohrszk/working_paper_no-840.pdf).
 
-Recommended citation: Marotta, F., Pagliari, M.S en J.M. de Winter (2025), Commitment vs credibility: Macroeconomic effects of climate policy uncertainty, DNB Working Paper nr. 840.
+Recommended citation: Marotta, F, Pagliari, M-S en J.M. de Winter (2025), Commitment vs credibility: Macroeconomic effects of climate policy uncertainty, DNB Working Paper nr. 840.
