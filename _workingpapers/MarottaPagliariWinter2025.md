@@ -9,4 +9,6 @@ venue: 'Working Paper'
 
 Download Working Paper [here](https://www.dnb.nl/media/jvohrszk/working_paper_no-840.pdf).
 
+SUERF Policy Brief on our research can be downloaded [here](https://www.suerf.org/publications/suerf-policy-notes-and-briefs/commitment-vs-credibility-macroeconomic-effects-of-climate-policy-uncertainty/) from the publisher's website or [here](https://jasperdewinter.github.io/pp/files/SUERF_MPW_2025.pdf).
+
 Recommended citation: Marotta, F, Pagliari, M-S en J.M. de Winter (2025), Commitment vs credibility: Macroeconomic effects of climate policy uncertainty, DNB Working Paper nr. 840.
