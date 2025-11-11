@@ -11,6 +11,6 @@ Download most recent version [here](https://jasperdewinter.github.io/pp/files/br
 
 SUERF Policy Brief on our research can be downloaded [here](https://www.suerf.org/publications/suerf-policy-notes-and-briefs/forecasting-dutch-inflation-using-machine-learning-methods/) from the publisher's website or [here](https://jasperdewinter.github.io/pp/files/SUERF_BRW_2025.pdf).
 
-⭐ no time to read? no problem: listen to our ``interview'' [here](https://notebooklm.google.com/notebook/48382e5d-a2ce-45a7-9ca1-644366429562/audio) ⭐
+⭐ no time to read? no problem: listen to our ''interview'' [here](https://notebooklm.google.com/notebook/48382e5d-a2ce-45a7-9ca1-644366429562/audio) ⭐
 
 Recommended citation: Berben, R.P, Rasiawan, R.N en J.M. de Winter (forthcoming), Forecasting Dutch inflation using machine learning methods, <i> International Journal of Central Banking </i>.
