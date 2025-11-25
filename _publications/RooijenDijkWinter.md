@@ -9,5 +9,7 @@ venue: 'De Economist'
 
 Download publication [here](https://jasperdewinter.github.io/pp/files/rooijendijkwinter_2025.pdf) or [here](https://link.springer.com/content/pdf/10.1007/s10645-025-09462-w.pdf) from the publisher's website.
 
+A layman's explanation of DFROG can be found on the DNB-website [here](https://www.dnb.nl/en/general-news/news-2024/dnb-develops-new-model-to-forecast-short-term-economic-growth/) or [here](https://jasperdewinter.github.io/pp/files/dnbulletin_dfrog.pdf) as a pdf-file
+
 Recommended citation: Rooijen, van M., Dijk, van D.W. en J.M. de Winter (2025), Designing a Nowcasting Model for GDP Growth: A Practical
 Approach, <i> De Economist </i>, 173, 665--704. 
