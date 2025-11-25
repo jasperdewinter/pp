@@ -27,6 +27,7 @@ Work experience
 
 Talks
 ======
+* 2025, November, Discussant @ CPB Workshop Dynamics, Productivity and Innovation (NL). Download slides of discussion [here](https://jasperdewinter.github.io/pp/files/disc_cpb_dnb.pdf).
 * 2023, August, Annual Conference European Economic Association, Barcelona (ESP). Download slides of presentation [here](https://jasperdewinter.github.io/pp/files/Presentation_EEA_2023.pdf).
 * 2023, June, Annual Conference International Association for Applied Econometrics, Oslo (NO). Download slides of presentation [here](https://jasperdewinter.github.io/pp/files/DeWinter_IAAE2023.pdf).
 * 2023, June, 12th European Central Bank Conference on Forecasting Techniques (invited discussant), Frankfurt am Main (DE). Download slides for discussion [here](https://jasperdewinter.github.io/pp/files/WinterDiscussionAdammerEtAl2023.pdf), video [here](https://youtu.be/y_Mzs0ujBr4); discussion starts at 22 minutes. Conference page [here](https://www.ecb.europa.eu/pub/conferences/html/20230612_12th_conference_on_forecasting_techniques.en.html).
