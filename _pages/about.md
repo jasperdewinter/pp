@@ -20,7 +20,7 @@ Research interests:
 ======
 Econometrics:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nowcasting, Cycle extraction.<br />
 Machine learning:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Machine-learning, Time series econometrics.<br /> 
-Macroeconomics:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Productivity dynamics.<br />
+Macroeconomics:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Productivity dynamics.<br />
 Industrial organization:&nbsp;&nbsp;Corporate finance, Start-ups, SMEs.<br />
 
 Contact details:
