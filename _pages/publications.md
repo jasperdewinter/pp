@@ -16,7 +16,9 @@ author_profile: true
 
 Other publications
 =====
-🆕 Marotta, F, Pagliari, M.S. and J.M. de Winter (2025) Commitment vs Credibility: Macroeconomic Effects of Climate Policy Uncertainty, <i> SUERF Policy Brief</i>, 1268. Download [here](https://www.suerf.org/publications/suerf-policy-notes-and-briefs/commitment-vs-credibility-macroeconomic-effects-of-climate-policy-uncertainty/) from the publisher's website or [here](https://jasperdewinter.github.io/pp/files/SUERF_MPW_2025.pdf).
+🆕 Brouwer, G.S.P. and J.M. de Winter (2026) Gezonde bedrijven, gezonde groei: Dynamiek, marktmacht en misallocatie in het Nederlandse bedrijfsleven, <i> DNB Analyse <i>. Download [here](https://jasperdewinter.github.io/pp/files/dnb_analyse_gbgg_bijlage.pdf).
+
+Marotta, F, Pagliari, M.S. and J.M. de Winter (2025) Commitment vs Credibility: Macroeconomic Effects of Climate Policy Uncertainty, <i> SUERF Policy Brief</i>, 1268. Download [here](https://www.suerf.org/publications/suerf-policy-notes-and-briefs/commitment-vs-credibility-macroeconomic-effects-of-climate-policy-uncertainty/) from the publisher's website or [here](https://jasperdewinter.github.io/pp/files/SUERF_MPW_2025.pdf).
 
 Marotta, F, Pagliari, M.S. and J.M. de Winter (2025) Uncertainty and climate policy in the Netherlands, <i> DNB Analysis</i>. Download [here](https://www.dnb.nl/media/gibhbjae/dnb-analysis-uncertainty-and-climate-policy-in-the-netherlands.pdf) from the publisher's website or [here](https://jasperdewinter.github.io/pp/files/dnb_analysis_cpu.pdf).
 
