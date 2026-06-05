@@ -27,7 +27,8 @@ Work experience
 
 Talks
 ======
-* 2025, November, Discussant  at joint Research Conference of the ESCB Research Cluster on Climate Change (RCCC) & The Network of Central Banks and Supervisors for Greening the Financial System (NGFS), Madrid (ESP) 
+* 2026, May, Nieuwe Schatkamer Sessie at De Nederlandsche Bank (DNB), Programm [here]([https://jasperdewinter.github.io/pp/files/_presentatie_ns_dnb.pdf](https://www.denieuweschatkamer.nl/agendaoverzicht/algemeen/productiviteitsgroei/). Slides of my presentation [here](https://jasperdewinter.github.io/pp/files/_presentatie_ns_dnb.pdf).
+* 2025, November, Discussant at joint Research Conference of the ESCB Research Cluster on Climate Change (RCCC) & The Network of Central Banks and Supervisors for Greening the Financial System (NGFS), Madrid (ESP) 
 * 2025, November, Discussant CPB Workshop Dynamics, Productivity and Innovation, The Hague (NL). 
 * 2023, August, Annual Conference European Economic Association, Barcelona (ESP). Download slides of presentation [here](https://jasperdewinter.github.io/pp/files/Presentation_EEA_2023.pdf).
 * 2023, June, Annual Conference International Association for Applied Econometrics, Oslo (NO). Download slides of presentation [here](https://jasperdewinter.github.io/pp/files/DeWinter_IAAE2023.pdf).
