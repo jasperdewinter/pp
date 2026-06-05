@@ -7,7 +7,7 @@ venue: 'Working Paper'
 ---
 🆕 🚀 This paper introduces a novel media-based index of climate policy uncertainty – the CPU-Concern index – that captures both the prevalence of climate policy uncertainty and the intensity of public concern. Using data from the Netherlands, a setting charac- terized by ambitious climate targets and persistent credibility challenges, we document how policy announcements shape perceived uncertainty through signaling effects. The CPU-Concern index rises during contested policy debates and declines following for- mal ratification, with heterogeneous responses depending on the policy’s ambition and credibility. We show that climate policy uncertainty primarily transmits through shifts in business and consumer sentiment, affecting stock market prices, investments and real activity. Furthermore, negative CPU shocks generate more persistent economic drag than positive ones, while the opposite holds true for nominal variables, thus highlighting asymmetries in how uncertainty shapes behavior and potential policy reactions. Our findings underscore the importance of credible and transparent policy communication in reducing uncertainty and supporting the low-carbon transition.
 
-Download Working Paper [here](https://www.dnb.nl/media/jvohrszk/working_paper_no-840.pdf).
+Download Working Paper [here](https://www.dnb.nl/media/jvohrszk/working_paper_no-840.pdf). Revise & resubmit Oxford Bulletin of Economics and Statistics.
 
 SUERF Policy Brief on our research can be downloaded [here](https://www.suerf.org/publications/suerf-policy-notes-and-briefs/commitment-vs-credibility-macroeconomic-effects-of-climate-policy-uncertainty/) from the publisher's website or [here](https://jasperdewinter.github.io/pp/files/SUERF_MPW_2025.pdf).
 
