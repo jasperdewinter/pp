@@ -1,5 +1,5 @@
 ---
-title: "Commitment vs credibility: Macroeconomic effects of climate policy uncertainty (R&R Oxford Bulleting of Economics and Statistics)"
+title: "Commitment vs credibility: Macroeconomic effects of climate policy uncertainty (R&R Oxford Bulletin of Economics and Statistics)"
 collection: workingpapers
 permalink: /workingpapers/MarottaPagliariWinter2025
 date: 2025-09-02
