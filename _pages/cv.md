@@ -52,9 +52,9 @@ Talks
 
 Field courses
 ======
+* 2026, October (forthcoming), Techniques for big data and machine learning analysis for Central Banks', Euro Area Business Cycle Network Training School (EABCN), Nice(FRA).
 * 2022, June, Time Series Methods for Macroeconomic Analysis I (by Luca Gambetti), Barcelona School of Economics (BSE), Barcelona (ESP).
 * 2019, December, Bayesian Econometrics and Machine Learning (by Hedibert Freitas Lopes), De Nederlandsche Bank (DNB), Amsterdam (NL).
 * 2018, September, Machine-learning methods for economist (by Stephen Hansen), Centro de Estudios Monetarios y Financieros (CEMFI), Madrid (ESP).
 * 2018, June, Recent developments in Economic Forecasting (by David Hendry, Jennifer Castle and James Reade), Boulder, Colorado (USA).
-  
 * 2014, June, Bayesian vector autoregression and small sample correction in VARs (by Marek Jarociński and Albert Marcet), Barcelona Graduate School of Economics (BSE), Barcelona (ESP).
